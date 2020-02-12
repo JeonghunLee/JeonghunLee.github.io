@@ -1,3 +1,3 @@
 # TEST-Blog
 
-https://jeonghunlee.github.io/Blog/ 
+ https://jeonghunlee.github.io/blog/
