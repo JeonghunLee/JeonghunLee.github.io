@@ -10,4 +10,6 @@ modifed _config.yml
   
  github page 만들기     
   https://lab.github.com/githubtraining/github-pages    
+ 
+ _config.yml 
   https://mmistakes.github.io/minimal-mistakes/docs/configuration/   
