@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-Hi!!!  I am testing 
+Hi! I am using theme and I am testing 
