@@ -8,4 +8,6 @@ modifed _config.yml
   https://jeonghunlee.github.io/minima/
   
   
-  https://lab.github.com/githubtraining/github-pages  
+ github page 만들기     
+  https://lab.github.com/githubtraining/github-pages    
+  https://mmistakes.github.io/minimal-mistakes/docs/configuration/   
