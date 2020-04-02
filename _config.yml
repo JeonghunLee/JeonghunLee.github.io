@@ -15,5 +15,5 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 markdown: kramdown
-
+repository:  JeonghunLee/JeonghunLee.github.io
 theme: jekyll-theme-minimal
