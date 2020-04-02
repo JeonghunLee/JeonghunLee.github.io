@@ -1,6 +1,6 @@
 # Github Blog TEST  
 
-added index.html    
+added index.html or index.md 
    
 
   https://jeonghunlee.github.io/   
