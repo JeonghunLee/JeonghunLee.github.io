@@ -35,8 +35,8 @@
 ## README 에 확장   
 * [Setup-1](docs/setup-1.md)
 * [Setup-2](docs/setup-2.md)
-	* [Function](docs/function.md#test1)
-	* [Function](docs/function.md#test2)
+	* [Function Goto TEST1 ](docs/function.md#test1)
+	* [Function Goto TEST2 ](docs/function.md#test2)
 
 
 
