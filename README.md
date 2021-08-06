@@ -29,4 +29,14 @@
   * WEB: https://jeonghunlee.github.io/minima/  
   * GIT: https://github.com/JeonghunLee/minima/settings/pages
  
-  
+## README 에 그림추가   
+![](docs/lena.png)   
+
+## README 에 확장   
+* [Setup-0](docs/setup-1.md)
+* [Setup-1](docs/setup-2.md)
+	* [Function-1](docs/function-1.md#test1)
+	* [Function-2](docs/function-1.md#test2)
+
+
+
