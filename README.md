@@ -18,8 +18,8 @@
 ## Github Pages Examples
 
 * Github Hosting Site Ex.1 and Repository  
-  https://jeonghunlee.github.io/  
-  https://github.com/JeonghunLee/JeonghunLee.github.io
+  WEB: https://jeonghunlee.github.io/  
+  GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
   
 * Github Hosting Site Ex.2 and Repository  
   https://jeonghunlee.github.io/blog/   
