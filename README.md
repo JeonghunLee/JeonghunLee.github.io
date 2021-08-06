@@ -33,10 +33,10 @@
 ![](docs/lena.png)   
 
 ## README 에 확장   
-* [Setup-0](docs/setup-1.md)
-* [Setup-1](docs/setup-2.md)
-	* [Function-1](docs/function-1.md#test1)
-	* [Function-2](docs/function-1.md#test2)
+* [Setup-1](docs/setup-1.md)
+* [Setup-2](docs/setup-2.md)
+	* [Function](docs/function.md#test1)
+	* [Function](docs/function.md#test2)
 
 
 
