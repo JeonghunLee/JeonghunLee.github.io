@@ -17,16 +17,16 @@
 
 ## Github Pages Examples
 
-* Github Hosting Site Ex.1 and Repository  
-  WEB: https://jeonghunlee.github.io/  
-  GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
+* Github Hosting Site Ex.1 and Repository  (Current Git)
+  ** WEB: https://jeonghunlee.github.io/  
+  ** GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
   
 * Github Hosting Site Ex.2 and Repository  
-  https://jeonghunlee.github.io/blog/   
-  https://github.com/JeonghunLee/blog
+  ** WEB: https://jeonghunlee.github.io/blog/   
+  ** GIT: https://github.com/JeonghunLee/blog
   
 * Github Hosting Site Ex.3 and Repository  
-  https://jeonghunlee.github.io/minima/  
-  https://github.com/JeonghunLee/minima/settings/pages
+  ** WEB: https://jeonghunlee.github.io/minima/  
+  ** GIT: https://github.com/JeonghunLee/minima/settings/pages
  
   
