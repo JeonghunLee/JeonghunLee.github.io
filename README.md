@@ -38,16 +38,34 @@
 	* [Function Goto TEST1 ](docs/function.md#test1)
 	* [Function Goto TEST2 ](docs/function.md#test2)
 
+
+## 항목   
+
+ 1. 테스트 1
+ 2. 테스트 2
+ 3. 테스트 3
+   1. 테스트 A
+   2. 테스트 B
+   3. 테스트 C
+ 
+ * 테스트 1
+ * 테스트 2
+ * 테스트 3
+   * 테스트 A
+   * 테스트 B
+   * 테스트 C
+
 ## 왼쪽  
 > &nbsp;&nbsp;&nbsp;&nbsp; TEST1 <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp; TEST2 <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp; TEST3 <br/>
 
 ## Web 의 HTML 이용 
-> &nbsp;&nbsp;&nbsp;&nbsp; TEST1 <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp; TEST2 <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp; TEST3 <br/>
-
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; TEST1 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; TEST2 <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; TEST3 <br/>
+<br/>
 <br/>
 
 ## Source 및 관련에제 추가 
