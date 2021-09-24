@@ -32,7 +32,7 @@
 ## README 에 그림추가   
 ![](docs/lena.png)   
 
-## README 에 확장   
+## README 에 링크 추가하여 확장하기    
 * [Setup-1](docs/setup-1.md)
 * [Setup-2](docs/setup-2.md)
 	* [Function Goto TEST1 ](docs/function.md#test1)
