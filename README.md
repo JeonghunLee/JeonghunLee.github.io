@@ -38,6 +38,10 @@
 	* [Function Goto TEST1 ](docs/function.md#test1)
 	* [Function Goto TEST2 ](docs/function.md#test2)
 
+## 왼쪽  
+> &nbsp;&nbsp;&nbsp;&nbsp; TEST1 <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp; TEST2 <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp; TEST3 <br/>
 
 ## Web 의 HTML 이용 
 > &nbsp;&nbsp;&nbsp;&nbsp; TEST1 <br/>
@@ -52,12 +56,30 @@
 this is source 
 ```
 
-# 큰 타이틀 
-## 중간 타이틀 
-### 작은 타이틀 A
-### 작은 타이틀 B
+# 제목 1 
+## 제목 2
+### 제목 3-A
+### 제목 3-B
+#### 제목 4-A
+#### 제목 4-B
+##### 제목 5-A
+##### 제목 5-B
+###### 제목 6-A
+###### 제목 6-B
 
+## 체크 박스 
+- [x] test check box 1 
+- [ ] test check box 2
+- [ ] test check box 2
+- [ ] test check box 2
 
+### 수평선 
+---
+***
+---
 
+### Markdown 사용설명
+  https://heropy.blog/2017/09/30/markdown/
+  https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 
