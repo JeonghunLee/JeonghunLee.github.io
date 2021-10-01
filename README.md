@@ -102,6 +102,16 @@ Alice -[#0000FF]->Bob : ok
 @enduml
 
 
+```mermaid
+stateDiagram
+    [*] --> First
+    state First {
+        [*] --> second
+        second --> [*]
+    }
+```
+
+
 
 ### Markdown 사용설명
   https://heropy.blog/2017/09/30/markdown/   
