@@ -96,10 +96,18 @@ this is source
 ***
 ---
 
+@startuml
+Bob -[#red]> Alice : hello
+Alice -[#0000FF]->Bob : ok
+@enduml
+
+
+
 ### Markdown 사용설명
   https://heropy.blog/2017/09/30/markdown/   
   https://gist.github.com/ihoneymon/652be052a0727ad59601   
   https://github.com/JeonghunLee/jetson-inference
+  
   
 ##
 <p align="center"><sup>© 2022 JHLEE | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
