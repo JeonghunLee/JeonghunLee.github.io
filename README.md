@@ -92,15 +92,61 @@ this is source
 - [ ] test check box 2
 
 ### 수평선 
+
+<br/>
+<br/>
+
 ---
 ***
 ---
 
+<br/>
+<br/>
+
+### UML TEST 
+
+
+아래와 같이 PLAT UML Server 접속하여 관련부분을 연결하여 사용하자.      
+http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
+
+
+** UML Ex.1**   
+```
 @startuml
 Bob -[#red]> Alice : hello
 Alice -[#0000FF]->Bob : ok
 @enduml
+```
 
+![UML Examle1](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuNBAJrBGZLOkIas9jLDmpCbCJbMmKiX8pSd9vmBpG986GE3c5gjh1rGCbCtFvd98pKi1wWO0)
+
+** UML Ex.2**   
+```
+@startuml
+robust "Web Browser" as WB
+concise "Web User" as WU
+
+@0
+WU is Idle
+WB is Idle
+
+@100
+WU is Waiting
+WB is Processing
+
+@300
+WB is Waiting
+@enduml
+```
+![UML Examle1](https://www.plantuml.com/plantuml/png/JSun2iCm38NXNQSGEK5ABo2yTUjYD3kEA8RK1Zs7NhyDRKqseUyVdg0dx_jp8s_BZiwJsiB1smlc4oUm1igjvWBxMXmGYMGcZLp0jtKpqZ1EailyDqsbb_huyTrRDk1ua5oFA9mZiRf-vhm1)
+
+
+### Mermaid TEST
+
+Github에서 Mermaid가 지원되므로 Mermaid를 사용법알아 사용하자            
+  https://mermaid-js.github.io/mermaid/#/            
+
+** Mermaid Ex.1**   
 
 ```mermaid
 stateDiagram
@@ -111,13 +157,44 @@ stateDiagram
     }
 ```
 
+** Mermaid Ex.2**   
+
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
+
+```mermaid
+sequenceDiagram
+    participant 테스트1
+    participant 테스트2
+    테스트1->>테스트3: Hello John, how are you?
+    loop Healthcheck
+        테스트3->>테스트3: Fight against hypochondria
+    end
+    Note right of 테스트3: Rational thoughts <br/>prevail!
+    테스트3-->>테스트1: Great!
+    테스트3->>테스트2: How about you?
+    테스트2-->>테스트3: Jolly good!
+```
+
 
 
 ### Markdown 사용설명
   https://heropy.blog/2017/09/30/markdown/   
   https://gist.github.com/ihoneymon/652be052a0727ad59601   
   https://github.com/JeonghunLee/jetson-inference
-  
+
+
   
 ##
 <p align="center"><sup>© 2022 JHLEE | </sup><a href="#Title-1"><sup>Table of Contents</sup></a></p>
