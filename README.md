@@ -42,7 +42,7 @@ Refer to
 	* [Function Goto TEST2 ](docs/function.md#test2)
 
 
-## 항목   
+## README 항목   
 
  1. 테스트 1
  2. 테스트 2
@@ -58,12 +58,12 @@ Refer to
    * 테스트 B
    * 테스트 C
 
-## 왼쪽  
+## README 왼쪽  
 > &nbsp;&nbsp;&nbsp;&nbsp; TEST1 <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp; TEST2 <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp; TEST3 <br/>
 
-## Web 의 HTML 이용 
+## README 안에 Web 의 HTML 이용 
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; TEST1 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; TEST2 <br/>
@@ -71,7 +71,7 @@ Refer to
 <br/>
 <br/>
 
-## Source 및 관련에제 추가 
+## README 안에 Source 및 관련에제 추가 
 
 ```
 this is source 
@@ -106,15 +106,22 @@ this is source
 <br/>
 <br/>
 
-### Github Manual Diagrams  
+### Github Manual Diagrams   
 
-기본적으로 읽어야 할 Github Manual들 
-Github도 Diagrams의 Mermaid 는 지원을 해주지만, UML은 기본지원을 해주지 않아 아래처럼 다른 곳을 이용하여 사용가능하다. 
-만약 Sphinx 사용해본 경험이 있다면, Mermaid 와 UML 이 가장 필요할 것으로 생각되어지지만, 구지 문서를 다 오픈하면, Readthedoc를 이용하면 되니까 
+<br/>
+
+기본적으로 읽어야 할 Github Manual들           
+Github도 Diagrams의 Mermaid 는 지원을 해주지만, UML은 기본지원을 해주지 않아 아래처럼 다른 곳을 이용하여 사용가능하다.       
+만약 Sphinx 사용해본 경험이 있다면, Mermaid 와 UML 이 가장 필요할 것으로 생각되어지지만, 구지 문서를 다 오픈하면, Readthedoc를 이용하면 되니까          
+       
+<br/>
+<br/>
 
 [Github Diaram](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)     
 [Github Math Expression](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)        
 
+
+<br/>
 
 ### Mathematical expressions
 
