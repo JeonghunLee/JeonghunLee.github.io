@@ -154,6 +154,8 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 }
 ```
 
+상위 Github 예제에서 가져옴 
+
 ```topojson
 {
   "type": "Topology",
@@ -229,7 +231,7 @@ endsolid
 
 ### UML TEST 
 
-
+Github에서는 이를 미지원해주므로 아래 사이트와 연결하자 
 아래와 같이 PLAT UML Server 접속하여 관련부분을 연결하여 사용하자.      
 http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
 
