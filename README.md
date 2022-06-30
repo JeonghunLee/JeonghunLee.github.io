@@ -107,9 +107,124 @@ this is source
 <br/>
 
 ### Github Manual Diagrams  
-      
+
+기본적으로 읽어야 할 Github Manual들 
+Github도 Diagrams의 Mermaid 는 지원을 해주지만, UML은 기본지원을 해주지 않아 아래처럼 다른 곳을 이용하여 사용가능하다. 
+만약 Sphinx 사용해본 경험이 있다면, Mermaid 와 UML 이 가장 필요할 것으로 생각되어지지만, 구지 문서를 다 오픈하면, Readthedoc를 이용하면 되니까 
+
 [Github Diaram](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)     
 [Github Math Expression](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)        
+
+
+### Mathematical expressions
+
+**The Cauchy-Schwarz Inequality**
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+### 지도기능 
+
+이부분은 최근에 추가되어진 것 같은데, 솔직히 어디에 써야할지 모르겠다. 
+
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-90,35],
+              [-90,30],
+              [-85,30],
+              [-85,35],
+              [-90,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
+
+### STL 3D models
+
+이 부분도 최근 추가되어진 것 같은데, 나중에 쓸모가 있겠지 
+
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
 
 
 ### UML TEST 
@@ -198,7 +313,9 @@ sequenceDiagram
 
 
 
-### Markdown 사용설명
+### Markdown 사용설명   
+
+기본적인 Markdown 설명 참조      
   https://heropy.blog/2017/09/30/markdown/   
   https://gist.github.com/ihoneymon/652be052a0727ad59601   
   https://github.com/JeonghunLee/jetson-inference
