@@ -238,9 +238,11 @@ endsolid
 
 ### UML TEST 
 
-Github에서는 이를 미지원해주므로 아래 사이트와 연결하자 
-아래와 같이 PLAT UML Server 접속하여 관련부분을 연결하여 사용하자.      
-http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
+Github에서는 이를 미지원해주므로 아래 사이트와 연결하자(역시 잔머리)          
+아래와 같이 PLAT UML Server 접속하여 관련부분을 연결하여 사용하자.         
+
+UML SITE 
+  http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
 
 
 ** UML Ex.1**   
