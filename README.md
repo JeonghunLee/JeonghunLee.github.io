@@ -13,7 +13,10 @@
 
  * minimal-mistakes-jekyll 의 설정파일  
   * **_config.yml**    
-  https://mmistakes.github.io/minimal-mistakes/docs/configuration/   
+
+Refer to 
+[How to Use Github Pages](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)   
+[How to Use Github Pages](https://docs.github.com/en/pages)
 
 ## Github Pages Examples
 
