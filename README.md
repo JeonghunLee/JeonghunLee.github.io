@@ -3,7 +3,7 @@
  * Github page 만드는 방법  
   https://lab.github.com/githubtraining/github-pages  
 
-## Github Pages 설정방법
+## Github Pages (How To use) 설정방법  
 
  * Pages의 Root 설정  
  
@@ -18,7 +18,7 @@ Refer to
 [How to Use Github Pages](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)                
 [How to Use Github Pages](https://docs.github.com/en/pages)                   
 
-## Github Pages Examples
+## Github Pages Examples   
 
 * Github Hosting Site Ex.1 and Repository  (Current Git)
   * WEB: https://jeonghunlee.github.io/  
@@ -106,7 +106,7 @@ this is source
 <br/>
 <br/>
 
-### Github Manual   
+### Github Manual Diagrams  
       
 [Github Diaram](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)     
 [Github Math Expression](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)        
