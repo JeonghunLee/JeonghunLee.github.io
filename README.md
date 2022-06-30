@@ -105,8 +105,8 @@ this is source
 
 ### Github Manual   
       
-[Github Diaram](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
-[Github Math Expression](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+[Github Diaram](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)     
+[Github Math Expression](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)        
 
 
 ### UML TEST 
