@@ -6,11 +6,20 @@
 
 <br>
 
+* **Goal**     
+Rewrite Medium blog(English) based on My Blogger(Korean)     
+
+<br>
+
+* **My Blogger**
+    * My Blogger: https://ahyuo79.blogspot.com 
 
 * Medium and Blogger Backup   
     * WEB: https://jeonghunlee.github.io/medium-preview/
     * GIT: https://github.com/JeonghunLee/Medium
     * GIT: https://github.com/JeonghunLee/medium-preview
+
+
 
 <br>
 
@@ -18,7 +27,7 @@
 
 <br>
 
-* **Goal**
+* **Goal**          
 Modularizing JavaScript and CSS Assets for Blogspot UI Optimization     
 
 <br>

@@ -10,6 +10,7 @@
     * GIT: https://github.com/JeonghunLee/wifisniffer
     * ReadTheDocs-CFG: https://app.readthedocs.org/projects/wifisniffer/
     * ReadTheDocs-WEB: https://wifisniffer.readthedocs.io/ko/latest/
+    * Github Pages : https://jeonghunlee.github.io/wifisniffer/
 
 <br>
 
@@ -18,8 +19,8 @@
 ```
 - Developed a WiFi sniffing tool using ESP32-S3 and integrated packet analysis through Wireshark
 - Experimented with multiple documentation pipelines including:
-    - MkDocs (Material)
-    - Sphinx + Doxygen
+    - MkDocs (Material) + Doxygen
+    - Sphinx + Doxygen (with Breathe/Exhale)
     - ReadTheDocs deployment testing
 - Validated USB CDC streaming and real-time packet monitoring performance
 ```
