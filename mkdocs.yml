@@ -8,7 +8,7 @@ repo_name: JeonghunLee/JeonghunLee.github.io
 nav:
   - AboutMe: index.md
   - Projects-Pages: project_github_pages.md
-  - Projects-ESP Series: project_esp_series.md  
+  - Projects-ESP-Series: project_esp_series.md  
   
   
 plugins:
