@@ -17,10 +17,15 @@
 
 <br>
 
+various tests based on Github Pages 
+
+<br>
+
 * Github Pages based on Jeklly   
     * WEB: https://jeonghunlee.github.io/blog/
     * GIT: https://github.com/JeonghunLee/blog
 
+<br>
 
 * Github Pages based on Jeklly 
     * WEB: https://jeonghunlee.github.io/minima/
@@ -28,3 +33,6 @@
 
 <br>
 
+* Github Pages based on Jeklly 
+    * WEB: https://jeonghunlee.github.io/github-pages-with-jekyll/
+    * GIT: https://github.com/JeonghunLee/github-pages-with-jekyll
