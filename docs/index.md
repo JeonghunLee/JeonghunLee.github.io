@@ -2,7 +2,8 @@
 
 <br/>
 
-Jeonghun (James) Lee
+Jeonghun (James) Lee          
+[GitHub Profile](https://github.com/JeonghunLee)
 
 <br/>
 
@@ -15,13 +16,13 @@ I like learning the latest technologies and am interested in various things rela
 
 <br/>
 
-## Blogger  
+## Technical Blog  
 
 <br/>
 
-* My Blogger    
-    * **Main Blogger**: https://ahyuo79.blogspot.com   
-    * **GitHub Profile**: https://github.com/JeonghunLee   
+* **My Google Technical Blog**  
+https://ahyuo79.blogspot.com   
+ 
 
 
 
