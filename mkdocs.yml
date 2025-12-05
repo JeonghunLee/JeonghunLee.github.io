@@ -1,4 +1,4 @@
-site_name: Gihub Pages (Main)
+site_name: Github Main Pages 
 site_description: Jeonghun Lee's Personal Website Link Page
 site_author: Jeonghun Lee
 repo_url: https://github.com/JeonghunLee/JeonghunLee.github.io
@@ -6,9 +6,9 @@ repo_name: JeonghunLee/JeonghunLee.github.io
 
 
 nav:
-  - AboutMe: about_me.md
-  - Github Projects: projects.md
-
+  - AboutMe: index.md
+  - Githubs Pages: project_github_pages.md
+  
   
 plugins:
   - search
