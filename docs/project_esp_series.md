@@ -11,14 +11,18 @@
     * ReadTheDocs-CFG: https://app.readthedocs.org/projects/wifisniffer/
     * ReadTheDocs-WEB: https://wifisniffer.readthedocs.io/ko/latest/
 
+<br>
+
+
 * Summary 
-    - Developed a WiFi sniffing tool using ESP32-S3 and integrated packet analysis through Wireshark
-    - Experimented with multiple documentation pipelines including:
-        - MkDocs (Material)
-        - Sphinx + Doxygen
-        - ReadTheDocs deployment testing
-    - Validated USB CDC streaming and real-time packet monitoring performance
-    - Preparing CSI/RTLS integration pipeline for WiFi sensing experiments
+```
+- Developed a WiFi sniffing tool using ESP32-S3 and integrated packet analysis through Wireshark
+- Experimented with multiple documentation pipelines including:
+    - MkDocs (Material)
+    - Sphinx + Doxygen
+    - ReadTheDocs deployment testing
+- Validated USB CDC streaming and real-time packet monitoring performance
+```
 
 <br>
 
@@ -26,8 +30,8 @@
 
 <br>
 
-* **Purpose** 
-Test WIFI CSI based on ESP32-S3 because of WIFI Sensing     
+* **Purpose**            
+Test WIFI CSI based on ESP32-S3 because of WIFI Sensing        
 
 * Links:
     * GIT: https://github.com/JeonghunLee/esp-csi
@@ -41,14 +45,14 @@ Test WIFI CSI based on ESP32-S3 because of WIFI Sensing
 
 <br>
 
-* **Purpose** 
-Research WiFi Sensing Array using ESP32 devices, focusing on CSI-based spatial sensing and multi-device synchronization for indoor environment awareness.
+* **Purpose**    
+Research WiFi Sensing Array using ESP32 devices, focusing on CSI-based spatial sensing and multi-device synchronization for indoor environment awareness.       
 
-have to compare with BLE Channel Sounding and FMCW Radar 
+have to compare with BLE Channel Sounding and FMCW Radar    
 
 <br>
 
-* Links:
+* Links:   
     * GIT: https://github.com/JeonghunLee/pyespargos
 
 <br>
