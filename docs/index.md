@@ -19,9 +19,9 @@ I like learning the latest technologies and am interested in various things rela
 
 <br/>
 
-* My Blogger  
-    * **Main Blogger**: https://ahyuo79.blogspot.com 
-    * **GitHub Profile**: https://github.com/JeonghunLee
+* My Blogger    
+    * **Main Blogger**: https://ahyuo79.blogspot.com   
+    * **GitHub Profile**: https://github.com/JeonghunLee   
 
 
 
