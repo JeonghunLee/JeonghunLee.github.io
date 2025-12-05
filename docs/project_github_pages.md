@@ -1,8 +1,8 @@
-# Projects 
+# Githubs Pages   
 
 <br/>
 
-## Main Gihtub Pages 
+## Gihtub Pages Main  
 
 <br>
 
@@ -27,3 +27,4 @@
     * GIT: https://github.com/JeonghunLee/minima/settings/pages
 
 <br>
+
