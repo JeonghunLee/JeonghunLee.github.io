@@ -1,7 +1,10 @@
-# LoRA Wan   
+# LoRA WAN   
 
 <br/>
 
+Goals:
+- Implement a Semtech SX1302/SX1303 based LoRaWAN gateway
+- Support packet forwarder and basic network server connectivity
 
 
 <br/>
