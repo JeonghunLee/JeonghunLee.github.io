@@ -8,10 +8,10 @@ repo_name: JeonghunLee/JeonghunLee.github.io
 nav:
   - AboutMe: index.md
   - Github Projects: 
-    - Pages: project_github_pages.md
+    - Github-Pages: project_github_pages.md
     - ESP-Series: project_esp_series.md  
-    - Blogger: project_blogger.md   
-    - LoraWan: project_lorawan.md
+    - Blog-Projects: project_blogger.md   
+    - LoRaWAN: project_lorawan.md
   
   
 plugins:
