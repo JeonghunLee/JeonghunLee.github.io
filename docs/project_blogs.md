@@ -1,4 +1,4 @@
-# Managenment of Blogs    
+# Blog Managenment      
 
 <br/>
 
@@ -18,10 +18,10 @@ from my Blogger, preserving technical depth and original intent.
 
 <br>
 
-STEP.1 Select one of them on My Technical Blog(Blogger/Blogspot)
+STEP.1 Select one of them on My Technical Blog(Blogger/Blogspot)        
 - My Blogger: https://ahyuo79.blogspot.com    
 
-STEP.2 Medium Draft and Blogger Backup (Translated  by using chatGPT)      
+STEP.2 Medium Draft and Blogger Backup (Translated  by using chatGPT)         
 - GIT: https://github.com/JeonghunLee/Medium   
 - GIT: https://github.com/JeonghunLee/medium-preview   
 
@@ -48,7 +48,8 @@ while ensuring long-term maintainability and reusability.
  
 * Javas Script and CSS (Module) 
     * GIT: https://github.com/JeonghunLee/blogspot
-    * WEB: https://jeonghunlee.github.io/blogspot/
+    * Release: https://jeonghunlee.github.io/blogspot/      
     * Module: https://github.com/JeonghunLee/blogspot/tree/gh-pages  
 
 
+<br>
