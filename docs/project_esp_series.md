@@ -2,15 +2,49 @@
 
 <br/>
 
+
+:fontawesome-solid-blog: My Technical Blog (Tag-based Categories)   
+
+* Categories - ESP-MEM Tags     
+    * [MCU-ESP32-MEM](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-MEM)  
+* Categories - ESP-WIFI or BT Tags         
+    * [MCU-ESP32-BT](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-BT)   
+    * [MCU-ESP32-WIFI](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-WIFI)    
+* Categories - ESP or ESPS3 ALLTags       
+    * [MCU-ESP32](https://ahyuo79.blogspot.com/search/label/MCU-ESP32) 
+    * [MCU-ESP32S3](https://ahyuo79.blogspot.com/search/label/MCU-ESP32S3)     
+* Categories - RF-WIFI-Sensing Tags   
+    * [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing)    
+* Categories — Wireshark Tags         
+    * [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark) 
+* Categories — NET-Packet Sniffer Tags 
+    * [NET-Packet Sniffer](https://ahyuo79.blogspot.com/search/label/NET-Packet%20Sniffer)   
+* Categories — Documentation Tags         
+    * [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx)      
+    * [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs)    
+    * [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)     
+* Categories — USB Tags      
+    * [IF-USB-CDC](https://ahyuo79.blogspot.com/search/label/IF-USB-CDC)    
+    * [IF-USB](https://ahyuo79.blogspot.com/search/label/IF-USB)
+* Categories - Security-SecureBoot  
+    * [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot)   
+* Categories - Security All
+    * [Security](https://ahyuo79.blogspot.com/search/label/Security)   
+
+
+
+<br/>
+
 ## WIFI Sniffer (ESP32-S3)
 
 <br>
 
-* Links:  
-    * GIT: https://github.com/JeonghunLee/wifisniffer
-    * ReadTheDocs-CFG: https://app.readthedocs.org/projects/wifisniffer/
-    * ReadTheDocs-WEB: https://wifisniffer.readthedocs.io/ko/latest/
-    * Github Pages : https://jeonghunlee.github.io/wifisniffer/
+
+* GIT: https://github.com/JeonghunLee/wifisniffer   
+* Supported Documentation   
+    * [ReadTheDocs](project_documentation.md#readthedocs-project)    
+    * [GithubPages](project_documentation.md#github-pages-project)   
+
 
 <br>
 
@@ -26,22 +60,6 @@
 
 <br>
 
-* Releated My Technical Blogs 
-    * Categories - ESP Tags     
-        * [MCU-ESP32](https://ahyuo79.blogspot.com/search/label/MCU-ESP32) 
-        * [MCU-ESP32S3](https://ahyuo79.blogspot.com/search/label/MCU-ESP32S3) 
-        * [MCU-ESP32-MEM](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-MEM)  
-        * [MCU-ESP32-BT](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-BT)   
-        * [MCU-ESP32-WIFI](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-WIFI)    
-    * Categories — Wireshark Tags         
-        * [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark)    
-    * Categories — Documentation Tags         
-        * [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx)      
-        * [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs)    
-        * [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)    
-    * Categories — USB Tags      
-        * [USB-Protocol](https://ahyuo79.blogspot.com/search/label/IF-USB)
-
 
 
 ## ESP-CSI  
@@ -51,9 +69,15 @@
 * **Purpose**            
 Test WIFI CSI based on ESP32-S3 because of WIFI Sensing        
 
-* Links:
-    * GIT: https://github.com/JeonghunLee/esp-csi
+<br>
+
+* GIT: https://github.com/JeonghunLee/esp-csi
+
+<br>
+
 * TEST Result: 
+    * https://github.com/JeonghunLee/esp-csi/blob/master/examples/esp-radar/console_test/SETUP_VSCODE.md    
+    * https://github.com/JeonghunLee/esp-csi/blob/master/examples/get-started/csi_recv_router/SETUP_VSCODE.md   
     * https://github.com/JeonghunLee/esp-csi/blob/master/ESP32-S3_TEST.md     
 
 
@@ -64,22 +88,23 @@ Test WIFI CSI based on ESP32-S3 because of WIFI Sensing
 <br>
 
 * **Purpose**    
-Research WiFi Sensing Array using ESP32 devices, focusing on CSI-based spatial sensing and multi-device synchronization for indoor environment awareness.       
-
+Research WiFi Sensing Array using ESP32 devices, 
+focusing on CSI-based spatial sensing and multi-device synchronization for indoor environment awareness.       
 have to compare with BLE Channel Sounding and FMCW Radar    
 
 <br>
 
-* Links:   
-    * GIT: https://github.com/JeonghunLee/pyespargos
+* Study WIFI Sensing Array:   
+    * Main Web: https://espargos.net/   
+    * ESPargos Docs: https://espargos.net/docs/  
+    * GIT: https://github.com/JeonghunLee/pyespargos   
 
 <br>
 
-* WIFI Sensing Array Study:  
-    * Main Web: https://espargos.net/   
-    * ESPargos Docs: https://espargos.net/docs/  
-* Samples 
-    * https://espargos.net/datasets/data/espargos-0005/
-    * https://espargos.net/datasets/data/espargos-0007/       
+* TF Samples and 3D Point Cloud (Dataset)  
+    * WEB: https://espargos.net/datasets/data/espargos-0005/
+    * WEB: https://espargos.net/datasets/data/espargos-0007/       
+
+
 
 <br>

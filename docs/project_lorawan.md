@@ -2,9 +2,15 @@
 
 <br/>
 
-Goals:
-- Implement a Semtech SX1302/SX1303 based LoRaWAN gateway
-- Support packet forwarder and basic network server connectivity
+My Technical Blog (Tag-based Categories)    
+
+* Categories - Security-SecureBoot  
+    * [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot)   
+* Categories - Security All
+    * [Security](https://ahyuo79.blogspot.com/search/label/Security)   
+* Categories - NET-TLS
+    * [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)       
+
 
 
 <br/>
@@ -16,6 +22,8 @@ Goals:
 
 * **Purpose**            
 LoRa Gateway(LoRaWan) based on Semtech             
+- Implement a Semtech SX1302/SX1303 based LoRaWAN gateway
+- Support packet forwarder and basic network server connectivity
 
 <br>
 
