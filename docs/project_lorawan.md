@@ -2,7 +2,7 @@
 
 <br/>
 
-My Technical Blog (Tag-based Categories)    
+:fontawesome-solid-blog: **My Technical Blog (Tag-based Categories)**    
 
 | Information   | Tags |  
 | ------------- | -----| 

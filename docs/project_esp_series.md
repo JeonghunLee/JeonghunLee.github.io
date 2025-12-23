@@ -2,8 +2,9 @@
 
 <br/>
 
+:fontawesome-regular-face-laugh-wink:   
 
-:fontawesome-solid-blog: **My Technical Blog (Tag-based Categories)**    
+- :fontawesome-solid-blog: **My Technical Blog (Tag-based Categories)**    
 
 | Information   | Tags |  
 | ------------- | -----| 

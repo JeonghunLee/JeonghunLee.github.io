@@ -3,7 +3,7 @@ site_description: Jeonghun Lee's Personal Website Link Page
 site_author: Jeonghun Lee
 repo_url: https://github.com/JeonghunLee/JeonghunLee.github.io
 repo_name: JeonghunLee/JeonghunLee.github.io
-edit_uri: edit/docs/ 
+ 
 
 nav:
   - AboutMe: index.md
@@ -40,8 +40,6 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   features:
-    - content.action.view  
-    - content.action.edit 
     - toc.follow
     - navigation.instant
     - navigation.instant.progress
