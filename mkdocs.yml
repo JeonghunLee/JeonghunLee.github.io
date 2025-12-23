@@ -1,9 +1,9 @@
-site_name: Github Main Pages 
+site_name: Jeonghun Lee (Github)
 site_description: Jeonghun Lee's Personal Website Link Page
 site_author: Jeonghun Lee
 repo_url: https://github.com/JeonghunLee/JeonghunLee.github.io
 repo_name: JeonghunLee/JeonghunLee.github.io
-
+edit_uri: edit/main/docs/
 
 nav:
   - AboutMe: index.md
@@ -11,7 +11,7 @@ nav:
     - Github-Pages: project_github_pages.md
     - ESP-Series: project_esp_series.md  
     - Blog-Projects: project_blogger.md   
-    - LoRaWAN: project_lorawan.md
+    - LoRaWAN: project_lorawan.md   
   
   
 plugins:
@@ -23,6 +23,8 @@ plugins:
 # https://squidfunk.github.io/mkdocs-material/
 theme:
   name: material
+  logo: imgs/logo.jpg
+  favicon: imgs/logo.jpg
   language: ko
   palette:
     - media: "(prefers-color-scheme)"
@@ -81,3 +83,29 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/JeonghunLee
+      name: GitHub
+
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/jeonghunlee
+      name: Docker Hub
+
+    - icon: fontawesome/solid/blog
+      link: https://ahyuo79.blogspot.com
+      name: Blog (Korean)
+
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@ahyuo79
+      name: Medium (English)
+
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/JeonghunLee-0911/
+      name: LinkedIn
+
+copyright: >
+  © 2025 Jeonghun Lee.
+  All rights reserved.
