@@ -7,12 +7,10 @@ edit_uri: edit/main/docs/
 
 nav:
   - AboutMe: index.md
-  - Github Projects: 
-    - Github-Pages: project_github_pages.md
-    - ESP-Series: project_esp_series.md  
-    - Blog-Projects: project_blogger.md   
-    - LoRaWAN: project_lorawan.md   
-  
+  - Blogs Managenment: project_blogs.md   
+  - ESP-Series: project_esp_series.md  
+  - LoRaWAN: project_lorawan.md   
+  - Documentation: project_documentation.md  
   
 plugins:
   - search
