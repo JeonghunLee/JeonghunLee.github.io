@@ -16,7 +16,7 @@
 
 <br>
  
-* [WIFI Sniffer](project_esp_series.md#wifi-sniffer-esp32-s3)   
+* [WIFI Sniffer-GIT](project_esp_series.md#wifi-sniffer-esp32-s3)   
     * ReadTheDocs-WEB: https://wifisniffer.readthedocs.io/ko/latest/   
     * ReadTheDocs-CFG: https://app.readthedocs.org/projects/wifisniffer/    
 
@@ -27,7 +27,7 @@
 
 <br>
 
-* [WIFI Sniffer](project_esp_series.md#wifi-sniffer-esp32-s3)       
+* [WIFI Sniffer-GIT](project_esp_series.md#wifi-sniffer-esp32-s3)       
     * Github Pages-WEB: https://jeonghunlee.github.io/wifisniffer/   
 
 
