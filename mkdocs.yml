@@ -3,7 +3,7 @@ site_description: Jeonghun Lee's Personal Website Link Page
 site_author: Jeonghun Lee
 repo_url: https://github.com/JeonghunLee/JeonghunLee.github.io
 repo_name: JeonghunLee/JeonghunLee.github.io
-edit_uri: edit/main/docs/
+edit_uri: edit/docs/ 
 
 nav:
   - AboutMe: index.md

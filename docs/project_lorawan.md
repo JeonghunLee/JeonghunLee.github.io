@@ -4,12 +4,9 @@
 
 My Technical Blog (Tag-based Categories)    
 
-* Categories - Security-SecureBoot  
-    * [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot)   
-* Categories - Security All
-    * [Security](https://ahyuo79.blogspot.com/search/label/Security)   
-* Categories - NET-TLS
-    * [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)       
+| Information   | Tags |  
+| ------------- | -----| 
+| Seucirty |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
 
 
 
