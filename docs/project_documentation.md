@@ -5,10 +5,7 @@
 :fontawesome-solid-blog: My Technical Blog (Tag-based Categories)   
 
 
-* Categories — Documentation Tags         
-    * [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx)      
-    * [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs)    
-    * [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)    
+* DevOps-Docs: [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx) / [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs) / [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)      
 
 
 <br/>
