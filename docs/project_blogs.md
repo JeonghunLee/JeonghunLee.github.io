@@ -13,23 +13,30 @@ Manage my technical blogs on Blogger(Korean) and Medium(English).
 <br>
 
 * **Purpose**     
-Rewrite and publish English Medium articles based on existing Korean technical posts     
-from my Blogger, preserving technical depth and original intent.    
+Rewrite English Medium articles based on existing technical posts from my Blogger(Korean)   
 
 <br>
 
+
+
 STEP.1 Select one of them on My Technical Blog(Blogger/Blogspot)        
-- My Blogger: https://ahyuo79.blogspot.com    
+My Blogger: https://ahyuo79.blogspot.com    
+
+<br>
 
 STEP.2 Medium Draft and Blogger Backup (Translated  by using chatGPT)         
-- GIT: https://github.com/JeonghunLee/Medium   
-- GIT: https://github.com/JeonghunLee/medium-preview   
+GIT: https://github.com/JeonghunLee/Medium   
+GIT: https://github.com/JeonghunLee/medium-preview   
+
+<br>
 
 STEP.3  Medium only Preview only     
-- WEB: https://jeonghunlee.github.io/medium-preview/
+WEB: https://jeonghunlee.github.io/medium-preview/
+
+<br>
 
 STEP.4 Medium Publication  
-- Publish the article on Medium with additional improvements and context
+Publish the article on Medium with additional improvements and context
 
 <br>
 
