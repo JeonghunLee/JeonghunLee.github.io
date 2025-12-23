@@ -2,7 +2,7 @@
 
 <br/>
 
-:fontawesome-solid-blog: **My Technical Blog (Tag-based Categories)**    
+- :fontawesome-solid-blog:  **My Technical Blog (Tag-based Categories)**   
 
 | Information   | Tags |  
 | ------------- | -----| 
@@ -12,23 +12,23 @@
 
 <br/>
 
-## ReadTheDocs-Project  
+## ReadTheDocs-Projects  
 
 <br>
  
-* [WIFI Sniffer-GIT](project_esp_series.md#wifi-sniffer-esp32-s3)   
-    * ReadTheDocs-WEB: https://wifisniffer.readthedocs.io/ko/latest/   
-    * ReadTheDocs-CFG: https://app.readthedocs.org/projects/wifisniffer/    
+* [Go Back WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)   
+    - :fontawesome-solid-book: ReadTheDocs-DOC: https://wifisniffer.readthedocs.io/ko/latest/   
+    - :fontawesome-solid-screwdriver-wrench: ReadTheDocs-CFG: https://app.readthedocs.org/projects/wifisniffer/    
 
 
 <br/>
 
-## Github Pages-Project    
+## Github Pages-Projects    
 
 <br>
 
-* [WIFI Sniffer-GIT](project_esp_series.md#wifi-sniffer-esp32-s3)       
-    * Github Pages-WEB: https://jeonghunlee.github.io/wifisniffer/   
+* [Go Back WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
+    - :fontawesome-solid-book: Github Pages-DOC: https://jeonghunlee.github.io/wifisniffer/   
 
 
 
@@ -41,9 +41,10 @@
 <br/>
 
 * Github Hosting Site Main and Repository (Current Git)
-    * WEB: https://jeonghunlee.github.io/
     * GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
-    * Github Hosting Site and Repository
+    * WEB: https://jeonghunlee.github.io/    
+
+!!! note "Github Hosting Site and Repository"
 
 <br/>
 

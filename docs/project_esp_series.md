@@ -2,9 +2,7 @@
 
 <br/>
 
-:fontawesome-regular-face-laugh-wink:   
-
-- :fontawesome-solid-blog: **My Technical Blog (Tag-based Categories)**    
+- :fontawesome-solid-blog:  **My Technical Blog (Tag-based Categories)**    
 
 | Information   | Tags |  
 | ------------- | -----| 
@@ -27,9 +25,9 @@
 
 
 * GIT: https://github.com/JeonghunLee/wifisniffer   
-* Supported Documentation   
-    * [ReadTheDocs](project_documentation.md#readthedocs-project)    
-    * [GithubPages](project_documentation.md#github-pages-project)   
+* Supported Documentation (ReadTheDocs/GithubPages)    
+    * [Go To ReadTheDocs](project_documentation.md#readthedocs-projects)    
+    * [Go To GithubPages](project_documentation.md#github-pages-projects)   
 
 
 <br>
@@ -90,6 +88,7 @@ have to compare with BLE Channel Sounding and FMCW Radar
 * Study TF Samples and 3D Point Cloud (Dataset)  
     * WEB: https://espargos.net/datasets/data/espargos-0005/
     * WEB: https://espargos.net/datasets/data/espargos-0007/       
+
 
 
 
