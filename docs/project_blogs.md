@@ -28,14 +28,14 @@ Select an article from my technical blog (Blogger).
 **STEP 2 — Draft & Backup**  
 Translate and refine the content using ChatGPT,  
 then store drafts and backups on GitHub.  
-:fontawesome-brands-git-alt:GIT: https://github.com/JeonghunLee/Medium  
-:fontawesome-brands-git-alt:GIT: https://github.com/JeonghunLee/medium-preview  
+:fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/Medium  
+:fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/medium-preview  
 
 <br>
 
 **STEP 3 — Preview**  
 Preview the draft via GitHub Pages before publication.  
-:fontawesome-solid-globe:WEB: https://jeonghunlee.github.io/medium-preview/  
+:fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/medium-preview/  
 
 <br>
 
