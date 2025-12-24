@@ -18,7 +18,8 @@
 
 !!! tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
-    All links redirect to my technical blog (Blogger), organized using **tag-based categories**
+    All links redirect to my technical blog (Blogger), organized using **tag-based categories**    
+    The blog is primarily written in Korean, with **English support available via Google Translate**.
 
 
 <br/>
@@ -37,15 +38,13 @@
 
 <br>
 
-* Summary 
-```
-- Developed a WiFi sniffing tool using ESP32-S3 and integrated packet analysis through Wireshark
-- Experimented with multiple documentation pipelines including:
-    - MkDocs (Material) + Doxygen
-    - Sphinx + Doxygen (with Breathe/Exhale)
-    - ReadTheDocs deployment testing
-- Validated USB CDC streaming and real-time packet monitoring performance
-```
+!!! success "Technical Summary"
+    - Designed and implemented a **WiFi packet sniffing tool** based on ESP32-S3 with Wireshark integration
+    - Evaluated multiple documentation workflows:
+        - MkDocs (Material) with Doxygen
+        - Sphinx with Doxygen (Breathe / Exhale)
+        - ReadTheDocs deployment pipeline
+    - Verified USB CDC streaming reliability and real-time packet monitoring performance
 
 <br>
 <br/>
