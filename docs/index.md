@@ -29,12 +29,13 @@ I like learning the latest technologies and am interested in various things rela
 
 * **My Technical Blog (Main)**  
   https://ahyuo79.blogspot.com   
-  !!! tip "Language support"    
-      The blog is primarily written in Korean, with **English support available via Google Translate**.
+  
+!!! tip "Language support"    
+    The blog is primarily written in Korean, with **English support available via Google Translate**.
 
 <br/>
 
-* **Technical Blog (Test/Medium)**  
+* **My Technical Blog (Test/Medium)**  
   https://medium.com/@ahyuo79   
 
 
