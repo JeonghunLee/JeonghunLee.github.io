@@ -11,7 +11,8 @@
 
 !!! tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
-    All links redirect to my technical blog (Blogger), organized using **tag-based categories**
+    All links redirect to my technical blog (Blogger), organized using **tag-based categories**    
+    The blog is primarily written in Korean, with **English support available via Google Translate**.
 
 <br>
 
@@ -22,10 +23,12 @@
 <br>
 
 
+[ReadTheDocs Dashboard](https://app.readthedocs.org/dashboard/)    
 
-* [Go Back WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)   
-    - :fontawesome-solid-book: ReadTheDocs-DOC: https://wifisniffer.readthedocs.io/ko/latest/   
-    - :fontawesome-solid-screwdriver-wrench: ReadTheDocs-CFG: https://app.readthedocs.org/projects/wifisniffer/    
+
+* Go Back [WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)   
+    - :fontawesome-solid-book: DOC: https://wifisniffer.readthedocs.io/ko/latest/   
+    - :fontawesome-solid-screwdriver-wrench: CFG: https://app.readthedocs.org/projects/wifisniffer/    
 
 
 !!! note "ReadTheDocs Hosting for Document" 
@@ -43,8 +46,8 @@
 <br>
 <br>
 
-* [Go Back WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
-    - :fontawesome-solid-book: Github Pages-DOC: https://jeonghunlee.github.io/wifisniffer/   
+* Go Back [WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
+    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/wifisniffer/   
 
 
 
