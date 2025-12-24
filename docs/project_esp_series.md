@@ -13,8 +13,12 @@
 | Sniffer | [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark) / [NET-Packet Sniffer](https://ahyuo79.blogspot.com/search/label/NET-Packet%20Sniffer) |  
 | DevOps-Docs | [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx) / [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs) / [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)     |
 | USB | [IF-USB-CDC](https://ahyuo79.blogspot.com/search/label/IF-USB-CDC) / [IF-USB](https://ahyuo79.blogspot.com/search/label/IF-USB) |
-| Seucirty | [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) / [Security](https://ahyuo79.blogspot.com/search/label/Security)   |
+| Security | [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) / [Security](https://ahyuo79.blogspot.com/search/label/Security)   |
 
+
+!!! tip "How to use these links"
+    Click each **Tag link** to view all related posts at once.  
+    All links redirect to my technical blog (Blogger), organized using **tag-based categories**
 
 
 <br/>
@@ -22,6 +26,7 @@
 ## WIFI Sniffer (ESP32-S3)
 
 <br>
+<br/>
 
 
 * GIT: https://github.com/JeonghunLee/wifisniffer   
@@ -43,12 +48,13 @@
 ```
 
 <br>
-
+<br/>
 
 
 ## ESP-CSI  
 
 <br>
+<br/>
 
 * **Purpose**            
 Test WIFI CSI based on ESP32-S3 because of WIFI Sensing        
@@ -66,10 +72,12 @@ Test WIFI CSI based on ESP32-S3 because of WIFI Sensing
 
 
 <br>
+<br/>
 
 ## WIFI Sensing Array 
 
 <br>
+<br/>
 
 * **Purpose**    
 Research WiFi Sensing Array using ESP32 devices, 
@@ -91,5 +99,5 @@ have to compare with BLE Channel Sounding and FMCW Radar
 
 
 
-
+<br/>
 <br>
