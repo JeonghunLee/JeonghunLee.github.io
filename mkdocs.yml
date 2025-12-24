@@ -55,6 +55,7 @@ theme:
     - toc.integrate         # 이 줄이 TOC(Table of Contents)를 왼쪽 내비(sidebar)로 통합해줌 
 
 markdown_extensions:
+  - admonition
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
