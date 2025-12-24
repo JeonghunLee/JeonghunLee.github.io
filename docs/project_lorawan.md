@@ -9,6 +9,9 @@
 | Seucirty |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
 
 
+!!! tip "How to use these links"
+    Click each **Tag link** to view all related posts at once.  
+    All links redirect to my technical blog (Blogger), organized using **tag-based categories**
 
 <br/>
 
