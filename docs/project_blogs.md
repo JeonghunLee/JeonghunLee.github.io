@@ -19,25 +19,33 @@ Rewrite English Medium articles based on existing technical posts from my Blogge
 
 
 
-STEP.1 Select one of them on My Technical Blog(Blogger/Blogspot)        
-My Blogger: https://ahyuo79.blogspot.com    
+**STEP 1 — Source**  
+Select an article from my technical blog (Blogger).  
+🔗 https://ahyuo79.blogspot.com  
 
 <br>
 
-STEP.2 Medium Draft and Blogger Backup (Translated  by using chatGPT)         
-GIT: https://github.com/JeonghunLee/Medium   
-GIT: https://github.com/JeonghunLee/medium-preview   
+**STEP 2 — Draft & Backup**  
+Translate and refine the content using ChatGPT,  
+then store drafts and backups on GitHub.  
+:fontawesome-brands-git-alt:GIT: https://github.com/JeonghunLee/Medium  
+:fontawesome-brands-git-alt:GIT: https://github.com/JeonghunLee/medium-preview  
 
 <br>
 
-STEP.3  Medium only Preview only     
-WEB: https://jeonghunlee.github.io/medium-preview/
+**STEP 3 — Preview**  
+Preview the draft via GitHub Pages before publication.  
+:fontawesome-solid-globe:WEB: https://jeonghunlee.github.io/medium-preview/  
 
 <br>
 
-STEP.4 Medium Publication  
-Publish the article on Medium with additional improvements and context
+**STEP 4 — Publish**  
+Finalize the article with additional context and publish it on **Medium**.
 
+
+!!! note "GitHub Pages Hosting (Preview Only)" 
+
+<br>
 <br>
 
 
@@ -55,8 +63,12 @@ while ensuring long-term maintainability and reusability.
  
 * Javas Script and CSS (Module) 
     * GIT: https://github.com/JeonghunLee/blogspot
-    * Release: https://jeonghunlee.github.io/blogspot/      
-    * Module: https://github.com/JeonghunLee/blogspot/tree/gh-pages  
+    * WEB: https://jeonghunlee.github.io/blogspot/      
+    * Release: https://github.com/JeonghunLee/blogspot/tree/gh-pages  
 
 
+!!! note "Github Page Hosting for only JS/CSS Not HTML" 
+
+
+<br>
 <br>
