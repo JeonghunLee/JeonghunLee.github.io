@@ -90,10 +90,6 @@ extra:
       link: https://github.com/JeonghunLee
       name: GitHub
 
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/u/jeonghunlee
-      name: Docker Hub
-
     - icon: fontawesome/solid/blog
       link: https://ahyuo79.blogspot.com
       name: Blog (Korean)
@@ -105,6 +101,11 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/JeonghunLee-0911/
       name: LinkedIn
+
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/jeonghunlee
+      name: Docker Hub
+
 
 copyright: >
   © 2025 Jeonghun Lee.
