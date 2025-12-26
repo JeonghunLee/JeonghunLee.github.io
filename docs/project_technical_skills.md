@@ -152,8 +152,13 @@ Generally based on Linux
 | Seucirty |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [Security-Android](https://ahyuo79.blogspot.com/search/label/Security-Android)  / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
 
 
-<br/>
+??? note "Security and Cryptography Scope"   
+    Covers fundamental cryptographic concepts and their extensions, including TLS/DTLS.    
+    Also includes practical understanding of WiFi security mechanisms such as EAP-based authentication.  
+    Focused on system-level integration rather than standalone cryptographic algorithms. 
 
+<br/>
+<br/>
 
 ## Technical Blog-Android 
 
@@ -230,6 +235,11 @@ Generally based on Linux
 | AI – Edge / TinyML | [AI-Edge](https://ahyuo79.blogspot.com/search/label/AI-Edge) / [AI-TinyML](https://ahyuo79.blogspot.com/search/label/AI-TinyML) |
 | AI – Colab / Applied AI | [AI-Colab](https://ahyuo79.blogspot.com/search/label/AI-Colab) / [AI-OpenALPR](https://ahyuo79.blogspot.com/search/label/AI-OpenALPR) |
 
+
+??? note "Learning Background (TinyML / Edge AI)"   
+    My learning in TinyML and Edge AI has been primarily based on    
+    technical materials from NVIDIA, along with knowledge shared through   
+    TinyML (Edge AI) and Data Science meetups.  
 
 <br/>
 <br/>
