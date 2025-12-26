@@ -6,6 +6,7 @@ Jeonghun Lee
 *(also known as Jeonghun (James) Lee)* 
 
 :fontawesome-brands-github: [JeonghunLee Profile](https://github.com/JeonghunLee)     
+:fontawesome-brands-linkedin: [Jeonghun (James) Lee](https://www.linkedin.com/in/JeonghunLee-0911/)   
 
 !!! note "Quick access"
     Icon links to my platforms are available at the bottom of this page.
@@ -32,7 +33,7 @@ I like learning the latest technologies and am interested in various things rela
   https://ahyuo79.blogspot.com   
 
 
-!!! note "Main Technical Blog"    
+??? note "Primary Technical Blog"    
     My primary technical blog focused on various system-level embedded systems(HW/FW/SW/OS)     
 
 ??? tip "Language and Tags support"    
@@ -44,29 +45,23 @@ I like learning the latest technologies and am interested in various things rela
 * **My Technical Blog (Test/Medium)**  
   https://medium.com/@ahyuo79   
 
-!!! note "2nd Technical Blog"   
+??? note "2nd Technical Blog"   
     My secondary technical blog is based on and expanded from the content in **my primary technical blog.**     
 
 <br/>
 <br/>
 
-## Linkedin and Communities 
+## Communities  
 
 <br/>
 <br/>
 
-:fontawesome-brands-linkedin: [Jeonghun (James) Lee](https://www.linkedin.com/in/JeonghunLee-0911/)   
-
-<br/>
-
-
-🌍 **Communities**     
+* 🌍 **Communities**     
 Actively participating in global semiconductor & embedded engineering communities     
 (using my **private email / private ID**):   
-   * [NXP Community](http://community.nxp.com/t5/user/viewprofilepage/user-id/181710)   
-   * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
-   * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
-
+    * [NXP Community](http://community.nxp.com/t5/user/viewprofilepage/user-id/181710)   
+    * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
+    * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
 
 
 <br/>

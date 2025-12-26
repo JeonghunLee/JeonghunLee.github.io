@@ -3,7 +3,8 @@
 <br/>
 
 * **Goal**      
-Manage my technical blogs on Blogger(Korean) and Medium(English).     
+Manage my Technical blogs on Blogger(Korean) and Medium(English).     
+with lightweight customization using **HTML/CSS** (and limited JavaScript where available).   
 
 
 <br/>
@@ -54,9 +55,9 @@ Finalize the article with additional context and publish it on **Medium**.
 <br>
 
 * **Purpose**          
-Modularize and maintain JavaScript and CSS assets to optimize the Blogspot UI     
+Modularize and maintain **JavaScript and CSS** assets to optimize the Blogspot UI     
 while ensuring long-term maintainability and reusability.    
-    
+with Blogspot Layout     
 
 <br>
 
@@ -67,8 +68,8 @@ while ensuring long-term maintainability and reusability.
     * Release: https://github.com/JeonghunLee/blogspot/tree/gh-pages  
 
 
-!!! note "Github Page Hosting for only JS/CSS Not HTML" 
-
+??? note "Github Page Hosting for only JS/CSS Not HTML" 
+    in deteil [README Manaul](https://github.com/JeonghunLee/blogspot/blob/main/docs/index.md)   
 
 <br>
 <br>
