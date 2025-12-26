@@ -4,16 +4,15 @@
 
 - :fontawesome-solid-blog:  **My Technical Blog (Tag-based Categories)**    
 
-??? success "Summary"   
+??? success "Various Experience and Deep Dive"   
     Senior Embedded Firmware Engineer specialized in BSP development,   
     with strong expertise in RTOS, Linux Kernel, and Android system bring-up across diverse SoC platforms such as   
     TI (ARM + DSP), NXP i.MX, and other leading embedded/MPU architectures.   
 
 
-??? note "Various Experience and Deep Dive"      
+??? warning "Limited Tag Links and Public Content"      
     Due to space limitations, not all technical details can be fully described here.  
-    For in-depth explanations, design rationale, and implementation details,  
-    please refer to the linked technical blog posts below.
+    Please refer to my technical blog for more detailed explanations.  
 
 ??? tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
@@ -41,7 +40,7 @@ Generally based on Linux
 
 <br/>
 
-??? note "About OMAP Experience and NDA Constraints"  
+??? warning "About OMAP Experience and NDA Constraints"  
     Although I have in-depth practical experience with TI OMAP-based systems,   
     the level of detail publicly documented here is intentionally limited.  
 
@@ -104,10 +103,10 @@ Generally based on Linux
 | HW Debug – JTAG / SWD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
 
 
-??? tip "Debugging and Profiling Techniques"
-    This section introduces various debugging and profiling techniques  
+??? tip "Debugging and Profiling Techniques"   
+    This section introduces various debugging and profiling techniques   
     used across different system layers, including user space, kernel space,  
-    and hardware-level analysis.
+    and hardware-level analysis. 
 
 <br/>
 
@@ -168,6 +167,10 @@ Generally based on Linux
 | Android – SDK / SDK Tools | [Android-SDK](https://ahyuo79.blogspot.com/search/label/Android-SDK) / [Android-SDK-Tools](https://ahyuo79.blogspot.com/search/label/Android-SDK-Tools) |
 | Android – JDK / SCM | [Android-JDK](https://ahyuo79.blogspot.com/search/label/Android-JDK) / [Android-SCM](https://ahyuo79.blogspot.com/search/label/Android-SCM) |
 | Android – SELinux / PDK (PWM) | [Android-SELinux](https://ahyuo79.blogspot.com/search/label/Android-SELinux) / [Android-PDK-PWM](https://ahyuo79.blogspot.com/search/label/Android-PDK-PWM) |
+
+??? tip "Android AOSP (Personal / PDK-Based Exploration)"   
+    The Android AOSP work listed here (e.g., Odroid-based platforms)  was conducted as a personal technical exploration,  
+    primarily using the Android PDK environment rather than for commercial product development.  
 
 <br/>
 <br/>
