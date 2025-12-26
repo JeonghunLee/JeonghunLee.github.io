@@ -39,6 +39,17 @@ Generally based on Linux
 
 <br/>
 
+??? note "About OMAP Experience and NDA Constraints"  
+    Although I have in-depth practical experience with TI OMAP-based systems,   
+    the level of detail publicly documented here is intentionally limited.  
+
+??? note "Personally Owned and Tested Boards"  
+    In addition to boards used in professional projects,(e.g., Odroid, Raspberry Pi, NXP(IMX6), TI(Sitara)),   
+    a significant number of the platforms listed above were  
+    personally purchased and tested for independent study and experimentation.  
+
+<br/>
+
 | Information   | Tags |  
 | ------------- | -----| 
 | U-Boot | [Uboot](https://ahyuo79.blogspot.com/search/label/Uboot) / [Uboot-Script](https://ahyuo79.blogspot.com/search/label/Uboot-Script) |      
@@ -50,6 +61,11 @@ Generally based on Linux
 | Linux – User Space / Rules | [Linux-sys/udev](https://ahyuo79.blogspot.com/search/label/Linux-sys/udev) / [Linux-cron](https://ahyuo79.blogspot.com/search/label/Linux-cron) |
 | Linux – Security / Network | [Linux-SELinux](https://ahyuo79.blogspot.com/search/label/Linux-SELinux) / [Linux-iptables](https://ahyuo79.blogspot.com/search/label/Linux-iptables) |
 | Linux – Tools | [Linux-Tools](https://ahyuo79.blogspot.com/search/label/Linux-Tools) |  
+
+
+??? tip "Silicon Bring-up"   
+    Topics include DRAM PHY tuning, memory performance optimization,  
+    system boot-time improvement, and early-stage boot debugging.
 
 <br/>
 
@@ -64,6 +80,19 @@ Generally based on Linux
 | IF – Control Bus | [IF-I2C](https://ahyuo79.blogspot.com/search/label/IF-I2C) / [IF-SPI](https://ahyuo79.blogspot.com/search/label/IF-SPI) / [IF-PWM](https://ahyuo79.blogspot.com/search/label/IF-PWM) |
 | IF – Storage / Boot | [IF-NAND](https://ahyuo79.blogspot.com/search/label/IF-NAND) / [IF-MMC](https://ahyuo79.blogspot.com/search/label/IF-MMC) / [IF-SDCard](https://ahyuo79.blogspot.com/search/label/IF-SDCard) / [IF-UEFI](https://ahyuo79.blogspot.com/search/label/IF-UEFI) |
 | IF – PLL | [IF-PLL](https://ahyuo79.blogspot.com/search/label/IF-PLL) |
+
+
+??? tip "Device Driver Development and Optimization"    
+    This section covers the development and optimization of various device drivers    
+    across multiple hardware interfaces, focusing on stability, performance tuning,    
+    and system-level integration.   
+
+<br/>
+
+| Information | Tags |
+|-------------|------|
+| HW Debug Tools(Scope/Analyzer) | [Tools For HW](https://ahyuo79.blogspot.com/search/label/Tools%20For%20HW) |
+| HW Debug – JTAG / SWD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
 
 <br/>
 
