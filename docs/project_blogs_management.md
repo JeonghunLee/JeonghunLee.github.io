@@ -2,14 +2,26 @@
 
 <br/>
 
+
+| Information | Tags |
+|-------------|------|
+| Blog Platform | [Google-Blogspot](https://ahyuo79.blogspot.com/search/label/Google-Blogspot) |    
+
+
+??? tip "How to use these links"
+    Click each **Tag link** to view all related posts at once.  
+    All links redirect to my technical blog (Blogger), organized using **tag-based categories**    
+    The blog is primarily written in Korean, with **English support available via Google Translate**.    
+
+<br/>
+
+
 * **Goal**      
 Manage my Technical blogs on Blogger(Korean) and Medium(English).     
 with lightweight customization using **HTML/CSS** (and limited JavaScript where available).   
 
 
-| Information | Tags |
-|-------------|------|
-| Blog Platform | [Google-Blogspot](https://ahyuo79.blogspot.com/search/label/Google-Blogspot) |    
+
 
 <br/>
 
