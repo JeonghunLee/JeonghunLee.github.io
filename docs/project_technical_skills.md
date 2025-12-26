@@ -56,7 +56,7 @@ Generally based on Linux
 | U-Boot | [Uboot](https://ahyuo79.blogspot.com/search/label/Uboot) / [Uboot-Script](https://ahyuo79.blogspot.com/search/label/Uboot-Script) |      
 | DRAM | [Opt-DRAM](https://ahyuo79.blogspot.com/search/label/Opt-DRAM) / [RAM-DRAM](https://ahyuo79.blogspot.com/search/label/RAM-DRAM) |      
 | Linux – Core / Kernel | [Linux](https://ahyuo79.blogspot.com/search/label/Linux) / [Linux-Kernel](https://ahyuo79.blogspot.com/search/label/Linux-Kernel) |
-| Linux – Boot / Init | [Linux-BootTime](https://ahyuo79.blogspot.com/search/label/Linux-BootTime) / [Linux-init/systemd](https://ahyuo79.blogspot.com/search/label/Linux-init/systemd) |
+| Linux – Boot / Init | [Linux-BootTime](https://ahyuo79.blogspot.com/search/label/Linux-BootTime) / [Linux-init/systemd](https://ahyuo79.blogspot.com/search/label/Linux-init%2Fsystemd) |
 | Linux – Device / HW Description | [Linux-DeviceTree](https://ahyuo79.blogspot.com/search/label/Linux-DeviceTree) / [Linux-Module](https://ahyuo79.blogspot.com/search/label/Linux-Module) |
 | Linux – Filesystem / Flash | [Linux-MTD](https://ahyuo79.blogspot.com/search/label/Linux-MTD) / [Linux-proc](https://ahyuo79.blogspot.com/search/label/Linux-proc) |
 | Linux – User Space / Rules | [Linux-sys/udev](https://ahyuo79.blogspot.com/search/label/Linux-sys%2Fudev) / [Linux-cron](https://ahyuo79.blogspot.com/search/label/Linux-cron) |
