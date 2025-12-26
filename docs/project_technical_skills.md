@@ -2,6 +2,8 @@
 
 <br/>
 
+- :fontawesome-solid-blog:  **My Technical Blog (Tag-based Categories)**    
+
 ??? success "Summary"   
     Senior Embedded Firmware Engineer specialized in BSP development,   
     with strong expertise in RTOS, Linux Kernel, and Android system bring-up across diverse SoC platforms such as   
@@ -58,7 +60,7 @@ Generally based on Linux
 | Linux – Boot / Init | [Linux-BootTime](https://ahyuo79.blogspot.com/search/label/Linux-BootTime) / [Linux-init/systemd](https://ahyuo79.blogspot.com/search/label/Linux-init/systemd) |
 | Linux – Device / HW Description | [Linux-DeviceTree](https://ahyuo79.blogspot.com/search/label/Linux-DeviceTree) / [Linux-Module](https://ahyuo79.blogspot.com/search/label/Linux-Module) |
 | Linux – Filesystem / Flash | [Linux-MTD](https://ahyuo79.blogspot.com/search/label/Linux-MTD) / [Linux-proc](https://ahyuo79.blogspot.com/search/label/Linux-proc) |
-| Linux – User Space / Rules | [Linux-sys/udev](https://ahyuo79.blogspot.com/search/label/Linux-sys/udev) / [Linux-cron](https://ahyuo79.blogspot.com/search/label/Linux-cron) |
+| Linux – User Space / Rules | [Linux-sys/udev](https://ahyuo79.blogspot.com/search/label/Linux-sys%2Fudev) / [Linux-cron](https://ahyuo79.blogspot.com/search/label/Linux-cron) |
 | Linux – Security / Network | [Linux-SELinux](https://ahyuo79.blogspot.com/search/label/Linux-SELinux) / [Linux-iptables](https://ahyuo79.blogspot.com/search/label/Linux-iptables) |
 | Linux – Tools | [Linux-Tools](https://ahyuo79.blogspot.com/search/label/Linux-Tools) |  
 
@@ -89,13 +91,6 @@ Generally based on Linux
 
 <br/>
 
-| Information | Tags |
-|-------------|------|
-| HW Debug Tools(Scope/Analyzer) | [Tools For HW](https://ahyuo79.blogspot.com/search/label/Tools%20For%20HW) |
-| HW Debug – JTAG / SWD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
-
-<br/>
-
 
 | Information | Tags |
 |-------------|------|
@@ -105,7 +100,14 @@ Generally based on Linux
 | Debug – Network / USB | [Debug-Network](https://ahyuo79.blogspot.com/search/label/Debug-Network) / [Debug-USB](https://ahyuo79.blogspot.com/search/label/Debug-USB) |
 | Debug – Memory / Profile | [Debug-Memory](https://ahyuo79.blogspot.com/search/label/Debug-Memory) / [Debug-Profile](https://ahyuo79.blogspot.com/search/label/Debug-Profile) |
 | Debug – General / Analysis | [Debug-Info](https://ahyuo79.blogspot.com/search/label/Debug-Info) |
+| HW Debug Tools(Scope/Analyzer) | [Tools For HW](https://ahyuo79.blogspot.com/search/label/Tools%20For%20HW) |
+| HW Debug – JTAG / SWD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
 
+
+??? tip "Debugging and Profiling Techniques"
+    This section introduces various debugging and profiling techniques  
+    used across different system layers, including user space, kernel space,  
+    and hardware-level analysis.
 
 <br/>
 
