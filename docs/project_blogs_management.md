@@ -7,6 +7,10 @@ Manage my Technical blogs on Blogger(Korean) and Medium(English).
 with lightweight customization using **HTML/CSS** (and limited JavaScript where available).   
 
 
+| Information | Tags |
+|-------------|------|
+| Blog Platform | [Google-Blogspot](https://ahyuo79.blogspot.com/search/label/Google-Blogspot) |    
+
 <br/>
 
 ## Medium (English)    

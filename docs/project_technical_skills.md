@@ -3,7 +3,9 @@
 <br/>
 
 ??? success "Summary"   
-    Senior Embedded Firmware Engineer specialized in BSP development, with strong expertise in RTOS, Linux Kernel, and Android system bring-up across diverse SoC platforms such as TI (ARM + DSP), NXP i.MX, and other leading embedded/MPU architectures.
+    Senior Embedded Firmware Engineer specialized in BSP development,   
+    with strong expertise in RTOS, Linux Kernel, and Android system bring-up across diverse SoC platforms such as   
+    TI (ARM + DSP), NXP i.MX, and other leading embedded/MPU architectures.   
 
 
 ??? note "Various Experience and Deep Dive"      
@@ -82,9 +84,9 @@ Generally based on Linux
 <br/>
 
 ??? note "Yocto  (BSP)"   
-   This section organizes my Yocto-related notes by topic, covering     
-   core concepts, layer management, BitBake recipes, user configuration,    
-   image partitioning, and build optimization.    
+    This section organizes my Yocto-related notes by topic, covering     
+    core concepts, layer management, BitBake recipes, user configuration,    
+    image partitioning, and build optimization.    
 
 
 <br/>
@@ -97,7 +99,7 @@ Generally based on Linux
 | IDE – Eclipse CDT / Trace Compass | [IDE-Eclipse-CDT](https://ahyuo79.blogspot.com/search/label/IDE-Eclipse-CDT) / [IDE-Trace%20Compass](https://ahyuo79.blogspot.com/search/label/IDE-Trace%20Compass) |
 | IDE – Nsight / uVision | [IDE-Nsight](https://ahyuo79.blogspot.com/search/label/IDE-Nsight) / [IDE-uVision](https://ahyuo79.blogspot.com/search/label/IDE-uVision) |
 | IDE – STM32CubeMX / Visual Studio | [IDE-STM32CubeMX](https://ahyuo79.blogspot.com/search/label/IDE-STM32CubeMX) / [IDE-VS](https://ahyuo79.blogspot.com/search/label/IDE-VS) |
-| IDE – VS Code | [IDE-VS%20Code](https://ahyuo79.blogspot.com/search/label/IDE-VS%20Code) |
+| IDE – VS Code | [IDE-VS Code](https://ahyuo79.blogspot.com/search/label/IDE-VS%20Code) |
 
 
 <br/>
@@ -146,8 +148,7 @@ Generally based on Linux
 | RF – Core / PHY | [RF-Mixer](https://ahyuo79.blogspot.com/search/label/RF-Mixer) |
 
 ??? note "FMCW Radar (TI-based Learning Background)"     
-    My understanding of FMCW radar systems is primarily based on   
-    **Texas Instruments (TI) radar platforms and documentation**,   
+    My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
     including materials from **TI Radar Academy** and official TI technical resources.   
 
 <br/>
