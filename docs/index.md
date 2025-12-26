@@ -64,5 +64,11 @@ Actively participating in global semiconductor & embedded engineering communitie
     * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
 
 
+??? note "Community and Personal Preference"   
+    I particularly value the open technical culture and documentation-driven approach   
+    promoted by companies such as TI, NXP, and Micron,   
+    where knowledge sharing through forums, reference designs,   
+    and open technical discussions is considered an essential part of engineering.   
+
 <br/>
 <br/>

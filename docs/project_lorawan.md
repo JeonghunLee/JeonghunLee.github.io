@@ -23,8 +23,8 @@
 
 * **Purpose**            
 LoRa Gateway(LoRaWan) based on Semtech             
-- Implement a Semtech SX1302/SX1303 based LoRaWAN gateway
-- Support packet forwarder and basic network server connectivity
+Implement a Semtech SX1302/SX1303 based LoRaWAN gateway    
+Support packet forwarder and basic network server connectivity   
 
 <br>
 
