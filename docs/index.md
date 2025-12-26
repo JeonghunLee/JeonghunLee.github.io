@@ -14,12 +14,16 @@ Jeonghun Lee
 <br/>
 <br/>
 
-## Interests  
+## Interests         
 
 <br/>
 
-Hi! I specialize in Embedded Firmware, BSP (Linux, RTOS), and DSP systems.  
-I like learning the latest technologies and am interested in various things related to software and hardware.    
+I am especially interested in Embedded Firmware, BSP (Linux, RTOS), and DSP systems,    
+with a strong focus on system-level integration and debugging.   
+
+I tend to focus on solving integration-level problems between hardware, firmware, and software,     
+where timing, reliability, and cross-domain interactions are critical. 
+   
 
 <br/>
 
@@ -29,12 +33,13 @@ I like learning the latest technologies and am interested in various things rela
 <br/>
 
 
-* **My Technical Blog (Main)**  
+* **Primary Technical Blog (Blogger)**  
   https://ahyuo79.blogspot.com   
 
 
 ??? note "Primary Technical Blog"    
-    My primary technical blog focused on various system-level embedded systems(HW/FW/SW/OS)     
+    This blog documents system-level investigations across HW, FW, OS, and DSP,   
+    focusing on debugging processes, design trade-offs, and real-world constraints.  
 
 ??? tip "Language and Tags support"    
     The blog is primarily written in Korean, with **English support available via Google Translate**.    
@@ -42,11 +47,11 @@ I like learning the latest technologies and am interested in various things rela
 
 <br/>
 
-* **My Technical Blog (Test/Medium)**  
+* **Secondary Technical Blog (Test/Medium)**  
   https://medium.com/@ahyuo79   
 
-??? note "2nd Technical Blog"   
-    My secondary technical blog is based on and expanded from the content in **my primary technical blog.**     
+??? note "Secondary Technical Blog"   
+    Selected topics from **primary technical blog** are refined and expanded for a broader, international audience.   
 
 <br/>
 <br/>
@@ -64,9 +69,10 @@ Actively participating in global semiconductor & embedded engineering communitie
     * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
 
 
-??? note "Community and Personal Preference"   
-    I particularly value the open technical culture and documentation-driven approach promoted by companies such as TI, NXP, and Micron,   
-    where knowledge sharing through forums, reference designs, and open technical discussions is considered an essential part of engineering.   
+??? note "Community Preference"   
+    I value engineering cultures that focus on open technical discussion,    
+    documentation, and reference designs as core parts of the development process. 
+    I also take part in various engineering communities and local meetups to exchange ideas and learn from different perspectives  
 
 <br/>
 <br/>
