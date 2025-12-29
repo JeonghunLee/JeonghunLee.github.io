@@ -111,6 +111,11 @@ extra:
       link: https://hub.docker.com/u/jeonghunlee
       name: Docker Hub
 
+extra: # Google Analytics 설정 (https://analytics.google.com/)
+  analytics:
+    provider: google
+    property: G-HPQJTYY4LT  # Google Analytics 추적 ID로 교체  https://www.mkdocs.org/user-guide/choosing-your-theme
+                            # Admin > Property Settings > Create > Tracking ID (측정ID)
 
 copyright: >
   © 2025 Jeonghun Lee.
