@@ -71,7 +71,7 @@ Actively participating in global semiconductor & embedded engineering communitie
 
 ??? note "Community Preference"   
     I value engineering cultures that focus on open technical discussion,    
-    documentation, and reference designs as core parts of the development process. 
+    documentation, and reference designs as core parts of the development process.       
     I also take part in various engineering communities and local meetups to exchange ideas and learn from different perspectives  
 
 <br/>
