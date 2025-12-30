@@ -38,7 +38,7 @@ Rewrite English Medium articles based on existing technical posts from my Blogge
 
 **STEP 1 — Source**  
 Select an article from my technical blog (Blogger).  
-🔗 https://ahyuo79.blogspot.com  
+:fontawesome-brands-blogger: 1st Blog: https://ahyuo79.blogspot.com  
 
 <br>
 
@@ -58,7 +58,7 @@ Preview the draft via GitHub Pages before publication.
 
 **STEP 4 — Publish**  
 Finalize the article with additional context and publish it on **Medium**.
-
+:fontawesome-brands-medium: 2nd Blog: https://medium.com/@ahyuo79   
 
 !!! note "GitHub Pages Hosting (Preview Only)" 
 

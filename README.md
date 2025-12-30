@@ -1,7 +1,16 @@
 ## Github Blog TEST  
 
+<br/>
+
+* Github Main Page 
+  [jeonghunlee.github.io](https://jeonghunlee.github.io/)
+
+<br/>
+
  * Github page 만드는 방법  
   https://lab.github.com/githubtraining/github-pages  
+
+<br/>
 
 ## Github Pages (How To use) 설정방법  
 
@@ -76,6 +85,10 @@ Refer to
 ```
 this is source 
 ```
+
+
+Table of Contents
+------------------------------------------------------
 
 # Title-1
 ## 제목 2
