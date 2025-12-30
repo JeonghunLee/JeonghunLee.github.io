@@ -25,7 +25,7 @@ theme:
   logo: imgs/logo.jpg
   favicon: imgs/logo.jpg
   language: ko
-  analytics: # Google Analytics 설정 (https://analytics.google.com/)
+  analytics: # Google Analytics 설정 (https://analytics.google.com/)  (Might be deprecated, use extra.analytics)
     gtag: G-HPQJTYY4LT  # Google Analytics 추적 ID로 교체  https://www.mkdocs.org/user-guide/choosing-your-theme
                         # Admin > Property Settings > Create > Tracking ID (측정ID)
   # Material for MkDocs (Menu 3 개 섹션)
@@ -110,9 +110,7 @@ extra:
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/u/jeonghunlee
       name: Docker Hub
-
-extra: # Google Analytics 설정 (https://analytics.google.com/)
-  analytics:
+  analytics:   # Google Analytics 설정 (https://analytics.google.com/)
     provider: google
     property: G-HPQJTYY4LT  # Google Analytics 추적 ID로 교체  https://www.mkdocs.org/user-guide/choosing-your-theme
                             # Admin > Property Settings > Create > Tracking ID (측정ID)
