@@ -2,7 +2,7 @@
 
 <br/>
 
-- :fontawesome-brands-blogger:  **My Technical Blog (Tag-based Categories) only PC (not Mobile)**   
+- :fontawesome-brands-blogger:  **My Technical Blog (Tag-based Categories, only PC (not Mobile))**   
 
 | Information   | Tags |  
 | ------------- | -----| 

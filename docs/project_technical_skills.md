@@ -2,7 +2,7 @@
 
 <br/>
 
-- :fontawesome-brands-blogger:  **My Technical Blog (Tag-based Categories) only PC (not Mobile)**    
+- :fontawesome-brands-blogger:  **My Technical Blog (Tag-based Categories, only PC (not Mobile))**    
 
 ??? success "Various Experience and Deep Dive"   
     Senior Embedded Firmware Engineer specialized in BSP development,   
