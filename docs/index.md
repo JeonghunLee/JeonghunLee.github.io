@@ -7,13 +7,13 @@ Jeonghun Lee
 
 :fontawesome-brands-github: [JeonghunLee Profile](https://github.com/JeonghunLee)     
 
-!!! note "Quick access"
-    Icon links to my platforms(Github) are available at the bottom of this page.
+??? note "Quick access"   
+    Icon links to my platforms**(Github)** are available at the bottom of this page.
 
 :fontawesome-brands-linkedin: [Jeonghun (James) Lee](https://www.linkedin.com/in/JeonghunLee-0911/)   
 
-!!! note "Contact with me"
-    Icon links to my platforms(LinkedIn) are available at the bottom of this page.
+??? note "Contact with me"   
+    Icon links to my platforms**(LinkedIn)** are available at the bottom of this page.
 
 <br/>
 <br/>
