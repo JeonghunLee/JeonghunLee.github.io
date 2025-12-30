@@ -6,6 +6,10 @@ Jeonghun Lee
 *(also known as Jeonghun (James) Lee)* 
 
 :fontawesome-brands-github: [JeonghunLee Profile](https://github.com/JeonghunLee)     
+
+<br/>
+
+
 :fontawesome-brands-linkedin: [Jeonghun (James) Lee](https://www.linkedin.com/in/JeonghunLee-0911/)   
 
 !!! note "Quick access"
