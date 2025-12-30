@@ -2,7 +2,7 @@
 
 <br/>
 
-- :fontawesome-brands-blogger: **My Technical Blog (Tag-based Categories) only PC (not Mobile)**    
+- :fontawesome-brands-blogger:  **My Technical Blog (Tag-based Categories, only PC (not Mobile))**    
 
 | Information   | Tags |  
 | ------------- | -----| 
@@ -10,6 +10,7 @@
 | ESP32 RF | [MCU-ESP32-BT](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-BT) / [MCU-ESP32-WIFI](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-WIFI) / [RF-BT](https://ahyuo79.blogspot.com/search/label/RF-BT)  |          
 | ESP32/ESP32-S3 ALL | [MCU-ESP32](https://ahyuo79.blogspot.com/search/label/MCU-ESP32) / [MCU-ESP32S3](https://ahyuo79.blogspot.com/search/label/MCU-ESP32S3) |   
 | **WIFI-Sensing** | [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) / [RF-WIFI](https://ahyuo79.blogspot.com/search/label/RF-WIFI)  |    
+| **RF – Radar / mmWave** | [RF-Radar](https://ahyuo79.blogspot.com/search/label/RF-Radar) / [RF-mmWave](https://ahyuo79.blogspot.com/search/label/RF-mmWave) |
 | Sniffer | [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark) / [NET-Packet Sniffer](https://ahyuo79.blogspot.com/search/label/NET-Packet%20Sniffer) |  
 | DevOps-Docs | [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx) / [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs) / [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)     |
 | USB | [IF-USB-CDC](https://ahyuo79.blogspot.com/search/label/IF-USB-CDC) / [IF-USB](https://ahyuo79.blogspot.com/search/label/IF-USB) |
@@ -26,6 +27,10 @@
     This section explains the importance of the ESP32 memory system,  
     focusing on the internal SRAM architecture, memory regions,  
     and their impact on performance, stability, and real-time behavior.
+
+??? note "FMCW Radar (TI-based Learning Background)"     
+    My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
+    including materials from **TI Radar Academy** and official TI technical resources.   
 
 
 <br/>
