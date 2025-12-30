@@ -58,7 +58,7 @@ Preview the draft via GitHub Pages before publication.
 <br>
 
 **STEP 4 — Publish**  
-Finalize the article with additional context and publish it on **Medium**.
+Finalize the article with additional context and publish it on **Medium**.     
 :fontawesome-brands-medium: 2nd Blog: https://medium.com/@ahyuo79   
 
 !!! note "GitHub Pages Hosting (Preview Only)" 
