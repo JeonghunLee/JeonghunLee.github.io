@@ -34,7 +34,7 @@ where timing, reliability, and cross-domain interactions are critical.
 
 
 * **Primary Technical Blog (Blogger)**  
-  https://ahyuo79.blogspot.com   
+:fontawesome-brands-blogger:  https://ahyuo79.blogspot.com   
 
 
 ??? note "Primary Technical Blog"    
@@ -47,8 +47,8 @@ where timing, reliability, and cross-domain interactions are critical.
 
 <br/>
 
-* **Secondary Technical Blog (Test/Medium)**  
-  https://medium.com/@ahyuo79   
+* **Secondary Technical Blog (Medium)**  
+:fontawesome-brands-medium: https://medium.com/@ahyuo79   
 
 ??? note "Secondary Technical Blog"   
     Selected topics from **primary technical blog** are refined and expanded for a broader, international audience.   
