@@ -63,7 +63,7 @@ where timing, reliability, and cross-domain interactions are critical.
 
 * 🌍 **Communities**     
 Actively participating in global semiconductor & embedded engineering communities     
-(using my **private email / private ID**):   
+(using my **private email / private ID(ahyuo79)**):   
     * [NXP Community](http://community.nxp.com/t5/user/viewprofilepage/user-id/181710)   
     * [NVIDIA Developer Forums](https://forums.developer.nvidia.com/u/ahyuo79/activity)   
     * [TI E2E Forum](https://e2e.ti.com/members/1028408/activities)  
