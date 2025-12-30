@@ -95,6 +95,10 @@ extra:
       link: https://github.com/JeonghunLee
       name: GitHub
 
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/JeonghunLee-0911/
+      name: LinkedIn
+
     - icon: fontawesome/brands/blogger
       link: https://ahyuo79.blogspot.com
       name: Blogger (Korean)
@@ -102,10 +106,6 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/@ahyuo79
       name: Medium (English)
-
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/JeonghunLee-0911/
-      name: LinkedIn
 
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/u/jeonghunlee
@@ -118,4 +118,4 @@ extra:
 
 copyright: >
   © 2025 Jeonghun Lee.  
-  All rights reserved.
+  All rights reserved.   
