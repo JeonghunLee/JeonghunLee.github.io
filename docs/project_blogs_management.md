@@ -49,11 +49,15 @@ then store drafts and backups on GitHub.
 :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/Medium  
 :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/medium-preview  
 
+!!! note "Backup Blogger and new HTML based on Markdown"  
+
 <br>
 
 **STEP 3 — Preview**  
 Preview the draft via GitHub Pages before publication.  
 :fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/medium-preview/  
+
+!!! note "GitHub Pages Hosting (Preview Only)" 
 
 <br>
 
@@ -61,7 +65,8 @@ Preview the draft via GitHub Pages before publication.
 Finalize the article with additional context and publish it on **Medium**.     
 :fontawesome-brands-medium: 2nd Blog: https://medium.com/@ahyuo79   
 
-!!! note "GitHub Pages Hosting (Preview Only)" 
+!!! note "Medium Blog (Publish and Test)" 
+       
 
 <br>
 <br>
