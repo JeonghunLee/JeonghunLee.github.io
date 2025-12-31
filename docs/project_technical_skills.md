@@ -34,8 +34,9 @@ Generally based on Linux
 | NVIDIA Board |  [EVM-Jetson AGX Xavier](https://ahyuo79.blogspot.com/search/label/EVM-Jetson%20AGX%20Xavier) /  [EVM-Jetson Nano](https://ahyuo79.blogspot.com/search/label/EVM-Jetson%20Nano) / [NVIDIA-GPU](https://ahyuo79.blogspot.com/search/label/NVIDIA-GPU) / [EVM-Jetson TX2](https://ahyuo79.blogspot.com/search/label/EVM-Jetson%20TX2)  |      
 | NVIDIA S/W |  [NVIDIA-TensorRT](https://ahyuo79.blogspot.com/search/label/NVIDIA-TensorRT) /  [NVIDIA-JetPack](https://ahyuo79.blogspot.com/search/label/NVIDIA-JetPack) / [NVIDIA-GPU](https://ahyuo79.blogspot.com/search/label/NVIDIA-GPU) / [NVIDIA-TensorRT-Python](https://ahyuo79.blogspot.com/search/label/NVIDIA-TensorRT-Python)  |      
 | NVIDIA – DeepStream | [NVIDIA-DeepStream](https://ahyuo79.blogspot.com/search/label/NVIDIA-DeepStream) / [NVIDIA-DeepStream SDK 3.0](https://ahyuo79.blogspot.com/search/label/NVIDIA-DeepStream%20SDK%203.0) / [NVIDIA-DeepStream SDK 4.0](https://ahyuo79.blogspot.com/search/label/NVIDIA-DeepStream%20SDK%204.0) |
+| Gstream included DeepStream | [Multimedia-Gstreamer](https://ahyuo79.blogspot.com/search/label/Multimedia-Gstreamer)  |
 | TI Board |  [SOC-DM368](https://ahyuo79.blogspot.com/search/label/SOC-DM368) /  [SoC-DM81xx](https://ahyuo79.blogspot.com/search/label/SoC-DM81xx) / [SoC-Sitara](https://ahyuo79.blogspot.com/search/label/SoC-Sitara) / [SoC-OMAP](https://ahyuo79.blogspot.com/search/label/SoC-OMAP)  |   
-| NXP Board |  [SoC-IMX6](https://ahyuo79.blogspot.com/search/label/SoC-IMX6) /  [SoC-IMX6-UUU](https://ahyuo79.blogspot.com/search/label/SoC-IMX6-UUU) / [SoC-IMX8](https://ahyuo79.blogspot.com/search/label/SoC-IMX8)  |   
+| NXP Board |  [SoC-IMX6](https://ahyuo79.blogspot.com/search/label/SoC-IMX6) / [SoC-IMX6-UUU](https://ahyuo79.blogspot.com/search/label/SoC-IMX6-UUU) / [SoC-IMX8](https://ahyuo79.blogspot.com/search/label/SoC-IMX8)  |   
 | Samsung Board |  [EVM-ODROID-X2](https://ahyuo79.blogspot.com/search/label/EVM-ODROID-X2)  |   
 | Raspberry Pi Board |  [EVM-RaspberryPi3-B](https://ahyuo79.blogspot.com/search/label/EVM-RaspberryPi3-B)  |   
 
@@ -43,6 +44,7 @@ Generally based on Linux
 
 ??? warning "About OMAP Experience and NDA Constraints"  
     Although I have in-depth practical experience with TI OMAP-based systems,   
+    through work as a **TI 3rd-party developer and technical consultant**,  
     the level of detail publicly documented here is intentionally limited.  
 
 ??? note "Personally Owned and Tested Boards"  
@@ -52,7 +54,8 @@ Generally based on Linux
 
 <br/>
 
-| Information   | Tags |  
+
+| System Bring-up   | Tags |  
 | ------------- | -----| 
 | U-Boot | [Uboot](https://ahyuo79.blogspot.com/search/label/Uboot) / [Uboot-Script](https://ahyuo79.blogspot.com/search/label/Uboot-Script) |      
 | DRAM | [Opt-DRAM](https://ahyuo79.blogspot.com/search/label/Opt-DRAM) / [RAM-DRAM](https://ahyuo79.blogspot.com/search/label/RAM-DRAM) |      
@@ -62,14 +65,28 @@ Generally based on Linux
 | Linux – Filesystem / Flash | [Linux-MTD](https://ahyuo79.blogspot.com/search/label/Linux-MTD) / [Linux-proc](https://ahyuo79.blogspot.com/search/label/Linux-proc) |
 | Linux – User Space / Rules | [Linux-sys/udev](https://ahyuo79.blogspot.com/search/label/Linux-sys%2Fudev) / [Linux-cron](https://ahyuo79.blogspot.com/search/label/Linux-cron) |
 | Linux – Security / Network | [Linux-SELinux](https://ahyuo79.blogspot.com/search/label/Linux-SELinux) / [Linux-iptables](https://ahyuo79.blogspot.com/search/label/Linux-iptables) |
-| Linux – Tools | [Linux-Tools](https://ahyuo79.blogspot.com/search/label/Linux-Tools) |  
 
 
-??? tip "Silicon Bring-up"   
+??? tip "Silicon Bring-up and System Setup"   
     Topics include DRAM PHY tuning, memory performance optimization,  
     system boot-time improvement, and early-stage boot debugging.
 
 <br/>
+
+| Tools and DevelEnv   | Tags |  
+| ------------- | -----| 
+| DevelEnv / Ubuntu x86 DevelEnv / Ubuntu x86 Package | [DevelEnv](https://ahyuo79.blogspot.com/search/label/DevelEnv) / [Ubuntu x86 DevelEnv](https://ahyuo79.blogspot.com/search/label/Ubuntu%20x86%20DevelEnv) /[Ubuntu x86 Package](https://ahyuo79.blogspot.com/search/label/Ubuntu%20x86%20Package) |  
+| Tips For Linux / Tools For Wins / Linux – Tools  | [Tips For Linux](https://ahyuo79.blogspot.com/search/label/Tips%20For%20Linux) / [Tools For Wins](https://ahyuo79.blogspot.com/search/label/Tools%20For%20Wins) / [Linux-Tools](https://ahyuo79.blogspot.com/search/label/Linux-Tools) |  
+| Window-WSL / Tool-Wireshark / Tool-Virtual Box | [Window-WSL](https://ahyuo79.blogspot.com/search/label/Window-WSL) / [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark) / [Tool-Virtual Box](https://ahyuo79.blogspot.com/search/label/Tool-Virtual%20Box) |  
+
+??? tip "Development Environment & System-Level Tooling"   
+    This section covers practical development environments and tools   
+    for embedded and system-level software development.   
+    It includes Linux-based workflows, Ubuntu x86 setups, and debugging utilities. 
+
+
+<br/>
+
 
 | Information | Tags |
 |-------------|------|
@@ -77,14 +94,14 @@ Generally based on Linux
 | IF – MIPI / HDMI | [IF-MIPI](https://ahyuo79.blogspot.com/search/label/IF-MIPI) / [IF-MIPI-DSI](https://ahyuo79.blogspot.com/search/label/IF-MIPI-DSI) / [IF-MIPI-CSI](https://ahyuo79.blogspot.com/search/label/IF-MIPI-CSI) / [IF-HDMI](https://ahyuo79.blogspot.com/search/label/IF-HDMI) |
 | IF – PCIe / UCIe / PHY | [IF-PCIe](https://ahyuo79.blogspot.com/search/label/IF-PCIe) / [IF-UCIe](https://ahyuo79.blogspot.com/search/label/IF-UCIe) / [IF-PHY](https://ahyuo79.blogspot.com/search/label/IF-PHY) / [IF-CXL](https://ahyuo79.blogspot.com/search/label/IF-CXL) |
 | IF – ETH / MII | [IF-ETH](https://ahyuo79.blogspot.com/search/label/IF-ETH) / [IF-MII](https://ahyuo79.blogspot.com/search/label/IF-MII) |
-| IF – RS485 / MODBUS | [IF-RS485](https://ahyuo79.blogspot.com/search/label/IF-RS485) / [IF-MODBUS](https://ahyuo79.blogspot.com/search/label/IF-MODBUS) |
+| IF – RS485 / RS485-OTA / MODBUS | [IF-RS485](https://ahyuo79.blogspot.com/search/label/IF-RS485) / [IF-RS485-OTA](https://ahyuo79.blogspot.com/search/label/IF-RS485-OTA) / [IF-MODBUS](https://ahyuo79.blogspot.com/search/label/IF-MODBUS) |
 | IF – LTE / GPS | [IF-LTE](https://ahyuo79.blogspot.com/search/label/IF-LTE) / [IF-GPS](https://ahyuo79.blogspot.com/search/label/IF-GPS) |
 | IF – Control Bus | [IF-I2C](https://ahyuo79.blogspot.com/search/label/IF-I2C) / [IF-SPI](https://ahyuo79.blogspot.com/search/label/IF-SPI) / [IF-PWM](https://ahyuo79.blogspot.com/search/label/IF-PWM) |
 | IF – Storage / Boot | [IF-NAND](https://ahyuo79.blogspot.com/search/label/IF-NAND) / [IF-MMC](https://ahyuo79.blogspot.com/search/label/IF-MMC) / [IF-SDCard](https://ahyuo79.blogspot.com/search/label/IF-SDCard) / [IF-UEFI](https://ahyuo79.blogspot.com/search/label/IF-UEFI) |
 | IF – PLL | [IF-PLL](https://ahyuo79.blogspot.com/search/label/IF-PLL) |
 
 
-??? tip "Device Driver Development and Optimization"    
+??? tip "Device Driver Development and Optimization"     
     This section covers the development and optimization of various device drivers    
     across multiple hardware interfaces, focusing on stability, performance tuning,    
     and system-level integration.   
@@ -92,7 +109,7 @@ Generally based on Linux
 <br/>
 
 
-| Information | Tags |
+| SW Debug and Profile | Tags |
 |-------------|------|
 | Debug – GDB / Binutils | [Debug-GDB](https://ahyuo79.blogspot.com/search/label/Debug-GDB) / [Debug-Binutils](https://ahyuo79.blogspot.com/search/label/Debug-Binutils) |
 | Debug – Kernel / BootChart | [Debug-Kernel](https://ahyuo79.blogspot.com/search/label/Debug-Kernel) / [Debug-BootChart](https://ahyuo79.blogspot.com/search/label/Debug-BootChart) |
@@ -100,11 +117,15 @@ Generally based on Linux
 | Debug – Network / USB | [Debug-Network](https://ahyuo79.blogspot.com/search/label/Debug-Network) / [Debug-USB](https://ahyuo79.blogspot.com/search/label/Debug-USB) |
 | Debug – Memory / Profile | [Debug-Memory](https://ahyuo79.blogspot.com/search/label/Debug-Memory) / [Debug-Profile](https://ahyuo79.blogspot.com/search/label/Debug-Profile) |
 | Debug – General / Analysis | [Debug-Info](https://ahyuo79.blogspot.com/search/label/Debug-Info) |
+
+
+| HW Debug and Profile | Tags |
+|-------------|------|
 | HW Debug Tools(Scope/Analyzer) | [Tools For HW](https://ahyuo79.blogspot.com/search/label/Tools%20For%20HW) |
-| HW Debug – JTAG / SWD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
+| HW Debug JTAG/SWD, OpenOCD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
 
 
-??? tip "Debugging and Profiling Techniques"   
+??? tip "Debugging and Profiling Techniques"    
     This section introduces various debugging and profiling techniques   
     used across different system layers, including user space, kernel space,  
     and hardware-level analysis. 
@@ -118,7 +139,6 @@ Generally based on Linux
 | **Yocto – Recipe / User Configuration** | [Yocto-Recipe](https://ahyuo79.blogspot.com/search/label/Yocto-Recipe) / [Yocto-UserConf](https://ahyuo79.blogspot.com/search/label/Yocto-UserConf) |
 | **Yocto – Profile / Partition** | [Yocto-Profile](https://ahyuo79.blogspot.com/search/label/Yocto-Profile) / [Yocto-Partition](https://ahyuo79.blogspot.com/search/label/Yocto-Partition) |
 
-<br/>
 
 ??? note "Yocto  (BSP)"   
     This section organizes my Yocto-related notes by topic, covering     
@@ -139,6 +159,12 @@ Generally based on Linux
 | IDE – VS Code | [IDE-VS Code](https://ahyuo79.blogspot.com/search/label/IDE-VS%20Code) |
 
 
+??? note "Various IDEs and Deep Dive with H/W Debugging"      
+    This section organizes my IDE-related notes across multiple development environments, including  
+    CCS(TI), Eclipse, VS Code, Nsight(NVIDIA), uVision(Keil), and STM32CubeMX(ST).   
+    The focus is on **practical usage**, **debugging workflows**, **trace and profiling tools**,  
+    and **hardware-level debugging techniques** used in real embedded system development. 
+
 <br/>
 <br/>
 
@@ -149,8 +175,8 @@ Generally based on Linux
 
 | Information   | Tags |  
 | ------------- | -----| 
-| Seucirty |  [OpenSSL](https://ahyuo79.blogspot.com/search/label/OpenSSL) |
-| Seucirty |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [Security-Android](https://ahyuo79.blogspot.com/search/label/Security-Android)  / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
+| Seucirty ALL |  [OpenSSL](https://ahyuo79.blogspot.com/search/label/OpenSSL) / [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS) |
+| SecureBoot / Certificate/ Android |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) / [Security-Certificate](https://ahyuo79.blogspot.com/search/label/Security-Certificate)  / [Security-Android](https://ahyuo79.blogspot.com/search/label/Security-Android)     |      
 
 
 ??? note "Security and Cryptography Scope"   
@@ -189,13 +215,14 @@ Generally based on Linux
 |-------------|------|
 | RF – ALL | [RF-INFO](https://ahyuo79.blogspot.com/search/label/RF-INFO) |
 | RF – WiFi / Bluetooth / RTLS | [RF-WIFI](https://ahyuo79.blogspot.com/search/label/RF-WIFI) / [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-BT](https://ahyuo79.blogspot.com/search/label/RF-BT) / [RF-BT-TOOLS](https://ahyuo79.blogspot.com/search/label/RF-BT-TOOLS) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) |
-| RF – Radar / mmWave | [RF-Radar](https://ahyuo79.blogspot.com/search/label/RF-Radar) / [RF-mmWave](https://ahyuo79.blogspot.com/search/label/RF-mmWave) |
-| RF – Cellular | [RF-LTE](https://ahyuo79.blogspot.com/search/label/RF-LTE) / [RF-5G](https://ahyuo79.blogspot.com/search/label/RF-5G) / [RF-DSRC](https://ahyuo79.blogspot.com/search/label/RF-DSRC) |
+| **RF – Radar / mmWave** | [RF-Radar](https://ahyuo79.blogspot.com/search/label/RF-Radar) / [RF-mmWave](https://ahyuo79.blogspot.com/search/label/RF-mmWave) |
+| RF – Cellular / V2X | [RF-LTE](https://ahyuo79.blogspot.com/search/label/RF-LTE) / [RF-5G](https://ahyuo79.blogspot.com/search/label/RF-5G) / [RF-DSRC](https://ahyuo79.blogspot.com/search/label/RF-DSRC) |
 | RF – Core / PHY | [RF-Mixer](https://ahyuo79.blogspot.com/search/label/RF-Mixer) |
 
 ??? note "FMCW Radar (TI-based Learning Background)"     
     My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
-    including materials from **TI Radar Academy** and official TI technical resources.   
+    including materials from **[TI Radar Academy](https://dev.ti.com/tirex/explore/node?node=A__AEIJm0rwIeU.2P1OBWwlaA__RADAR-ACADEMY__GwxShWe__LATEST)** and official TI technical resources.   
+
 
 <br/>
 <br/>
@@ -212,6 +239,10 @@ Generally based on Linux
 | DevOps – UML / ITS | [DevOps-UML](https://ahyuo79.blogspot.com/search/label/DevOps-UML) / [DevOps-ITS](https://ahyuo79.blogspot.com/search/label/DevOps-ITS) |
 | DevOps – General | [DevOps](https://ahyuo79.blogspot.com/search/label/DevOps) |
 
+??? note "DevOps & Documentation Workflow"    
+    This section covers DevOps practices for embedded and system-level projects,  
+    including CI/CD, containerization, and technical documentation workflows.
+
 <br/>
 
 | Information | Tags |
@@ -219,6 +250,10 @@ Generally based on Linux
 | SCM – Git / GitHub | [SCM-GIT](https://ahyuo79.blogspot.com/search/label/SCM-GIT) / [SCM-GITHUB](https://ahyuo79.blogspot.com/search/label/SCM-GITHUB) |
 | SCM – Gerrit / Repo | [SCM-Gerrit](https://ahyuo79.blogspot.com/search/label/SCM-Gerrit) / [SCM-Repo](https://ahyuo79.blogspot.com/search/label/SCM-Repo) |
 | SCM – SVN | [SCM-SVN](https://ahyuo79.blogspot.com/search/label/SCM-SVN) |
+
+??? note "Source Code Management (SCM)"    
+    This section covers source code management systems used in software development,  
+    including Git-based workflows, code review systems, and legacy SCM tools.
 
 <br/>
 <br/>
