@@ -1,4 +1,4 @@
-# Techncial Skill  
+# Techncial Skills   
 
 <br/>
 
@@ -227,7 +227,7 @@ Generally based on Linux
 <br/>
 <br/>
 
-## Technical DevOps
+## Technical Blog-DevOps
 
 <br/>
 
@@ -258,7 +258,7 @@ Generally based on Linux
 <br/>
 <br/>
 
-## Technical AI 
+## Technical Blog-AI 
 
 <br/>
 
