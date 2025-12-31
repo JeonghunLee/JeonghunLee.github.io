@@ -7,6 +7,7 @@
 
 | Information   | Tags |  
 | ------------- | -----| 
+| DevOps – CI/CD / Docker | [DevOps-CI/CD](https://ahyuo79.blogspot.com/search/label/DevOps-CI%2FCD) / [DevOps-Docker](https://ahyuo79.blogspot.com/search/label/DevOps-Docker) |  
 | DevOps-Docs | [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx) / [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs) / [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)  |
     
 

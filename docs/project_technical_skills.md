@@ -233,7 +233,7 @@ Generally based on Linux
 
 | Information | Tags |
 |-------------|------|
-| DevOps – CI/CD / Docker | [DevOps-CI/CD](https://ahyuo79.blogspot.com/search/label/DevOps-CI/CD) / [DevOps-Docker](https://ahyuo79.blogspot.com/search/label/DevOps-Docker) |
+| DevOps – CI/CD / Docker | [DevOps-CI/CD](https://ahyuo79.blogspot.com/search/label/DevOps-CI%2FCD) / [DevOps-Docker](https://ahyuo79.blogspot.com/search/label/DevOps-Docker) |
 | DevOps – Documentation (Sphinx / Doxygen) | [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx) / [DevOps-Doxygen](https://ahyuo79.blogspot.com/search/label/DevOps-Doxygen) |
 | DevOps – Docs Site (MkDocs / ReadTheDocs) | [DevOps-Mkdocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs) / [DevOps-ReadTheDoc](https://ahyuo79.blogspot.com/search/label/DevOps-ReadTheDoc) |
 | DevOps – UML / ITS | [DevOps-UML](https://ahyuo79.blogspot.com/search/label/DevOps-UML) / [DevOps-ITS](https://ahyuo79.blogspot.com/search/label/DevOps-ITS) |
