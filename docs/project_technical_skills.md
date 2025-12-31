@@ -75,9 +75,10 @@ Generally based on Linux
 
 | Tools and DevelEnv   | Tags |  
 | ------------- | -----| 
-| DevelEnv / Ubuntu x86 DevelEnv / Ubuntu x86 Package | [DevelEnv](https://ahyuo79.blogspot.com/search/label/DevelEnv) / [Ubuntu x86 DevelEnv](https://ahyuo79.blogspot.com/search/label/Ubuntu%20x86%20DevelEnv) /[Ubuntu x86 Package](https://ahyuo79.blogspot.com/search/label/Ubuntu%20x86%20Package) |  
-| Tips For Linux / Tools For Wins / Linux – Tools  | [Tips For Linux](https://ahyuo79.blogspot.com/search/label/Tips%20For%20Linux) / [Tools For Wins](https://ahyuo79.blogspot.com/search/label/Tools%20For%20Wins) / [Linux-Tools](https://ahyuo79.blogspot.com/search/label/Linux-Tools) |  
-| Window-WSL / Tool-Wireshark / Tool-Virtual Box | [Window-WSL](https://ahyuo79.blogspot.com/search/label/Window-WSL) / [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark) / [Tool-Virtual Box](https://ahyuo79.blogspot.com/search/label/Tool-Virtual%20Box) |  
+| DevelEnv / Package | [DevelEnv](https://ahyuo79.blogspot.com/search/label/DevelEnv) / [Ubuntu x86 DevelEnv](https://ahyuo79.blogspot.com/search/label/Ubuntu%20x86%20DevelEnv) / [Ubuntu x86 Package](https://ahyuo79.blogspot.com/search/label/Ubuntu%20x86%20Package) |  
+| Tips For Linux / Tools For Wins | [Tips For Linux](https://ahyuo79.blogspot.com/search/label/Tips%20For%20Linux) / [Tools For Wins](https://ahyuo79.blogspot.com/search/label/Tools%20For%20Wins)  |  
+| Window-WSL / Tool-Wireshark  | [Window-WSL](https://ahyuo79.blogspot.com/search/label/Window-WSL) / [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark)  |  
+| Tool-Virtual Box  / Linux – Tools  |  [Tool-Virtual Box](https://ahyuo79.blogspot.com/search/label/Tool-Virtual%20Box) / [Linux-Tools](https://ahyuo79.blogspot.com/search/label/Linux-Tools) |  
 
 ??? tip "Development Environment & System-Level Tooling"   
     This section covers practical development environments and tools   
@@ -121,8 +122,8 @@ Generally based on Linux
 
 | HW Debug and Profile | Tags |
 |-------------|------|
-| HW Debug Tools(Scope/Analyzer) | [Tools For HW](https://ahyuo79.blogspot.com/search/label/Tools%20For%20HW) |
-| HW Debug JTAG/SWD, OpenOCD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
+| HW Tools(Scope/Analyzer) | [Tools For HW](https://ahyuo79.blogspot.com/search/label/Tools%20For%20HW) |
+| HW JTAG/SWD, OpenOCD | [JTAG/SWD](https://ahyuo79.blogspot.com/search/label/JTAG%2FSWD) / [OpenOCD](https://ahyuo79.blogspot.com/search/label/OpenOCD) |
 
 
 ??? tip "Debugging and Profiling Techniques"    
