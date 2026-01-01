@@ -215,7 +215,8 @@ Generally based on Linux
 | Information | Tags |
 |-------------|------|
 | RF – ALL | [RF-INFO](https://ahyuo79.blogspot.com/search/label/RF-INFO) |
-| RF – WiFi / Bluetooth / RTLS | [RF-WIFI](https://ahyuo79.blogspot.com/search/label/RF-WIFI) / [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-BT](https://ahyuo79.blogspot.com/search/label/RF-BT) / [RF-BT-TOOLS](https://ahyuo79.blogspot.com/search/label/RF-BT-TOOLS) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) |
+| RF – WiFi / Bluetooth | [RF-WIFI](https://ahyuo79.blogspot.com/search/label/RF-WIFI) / [RF-BT](https://ahyuo79.blogspot.com/search/label/RF-BT) / [RF-BT-TOOLS](https://ahyuo79.blogspot.com/search/label/RF-BT-TOOLS)  |
+| **RF – WiFi Sensing / RTLS (BLE CS)** |  [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) |
 | **RF – Radar / mmWave** | [RF-Radar](https://ahyuo79.blogspot.com/search/label/RF-Radar) / [RF-mmWave](https://ahyuo79.blogspot.com/search/label/RF-mmWave) |
 | RF – Cellular / V2X | [RF-LTE](https://ahyuo79.blogspot.com/search/label/RF-LTE) / [RF-5G](https://ahyuo79.blogspot.com/search/label/RF-5G) / [RF-DSRC](https://ahyuo79.blogspot.com/search/label/RF-DSRC) |
 | RF – Core / PHY | [RF-Mixer](https://ahyuo79.blogspot.com/search/label/RF-Mixer) |
@@ -223,6 +224,14 @@ Generally based on Linux
 ??? note "FMCW Radar (TI-based Learning Background)"     
     My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
     including materials from **[TI Radar Academy](https://dev.ti.com/tirex/explore/node?node=A__AEIJm0rwIeU.2P1OBWwlaA__RADAR-ACADEMY__GwxShWe__LATEST)** and official TI technical resources.   
+
+!!! note "RTLS (WiFi Sensing, BLE Channel Sounding)"    
+    Covers **Wi-Fi CSI–based sensing** and **BLE Channel Sounding (AoA/AoD)** concepts  
+    for **RTLS, ranging, and presence/motion detection** applications.
+
+!!! note "RF Wi-Fi / Bluetooth / 4G/5G"   
+    Covers practical RF fundamentals and system-level behavior  
+    across **Wi-Fi, Bluetooth, and cellular (4G/LTE)** technologies.
 
 
 <br/>
