@@ -4,6 +4,9 @@
 
 * Github Main Page    
   [jeonghunlee.github.io](https://jeonghunlee.github.io/)    
+  * Google analytics를 별도로 추가완료   
+  * 3개 -> 2개 관리해야함 (가급적 줄이는 방법으로~~)     
+
 
 <br/>
 
