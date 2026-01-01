@@ -24,7 +24,7 @@ theme:
   name: material
   logo: imgs/logo.jpg
   favicon: imgs/logo.jpg
-  language: ko
+  language: en   # ko: Korean, en: English
   analytics: # Google Analytics 설정 (https://analytics.google.com/)  (Might be deprecated, use extra.analytics)
     gtag: G-HPQJTYY4LT  # Google Analytics 추적 ID로 교체  https://www.mkdocs.org/user-guide/choosing-your-theme
                         # Admin > Property Settings > Create > Tracking ID (측정ID)
