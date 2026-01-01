@@ -225,11 +225,11 @@ Generally based on Linux
     My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
     including materials from **[TI Radar Academy](https://dev.ti.com/tirex/explore/node?node=A__AEIJm0rwIeU.2P1OBWwlaA__RADAR-ACADEMY__GwxShWe__LATEST)** and official TI technical resources.   
 
-!!! note "RTLS (WiFi Sensing, BLE Channel Sounding)"    
+??? note "RTLS (WiFi Sensing, BLE Channel Sounding)"    
     Covers **Wi-Fi CSI–based sensing** and **BLE Channel Sounding (AoA/AoD)** concepts  
     for **RTLS, ranging, and presence/motion detection** applications.
 
-!!! note "RF Wi-Fi / Bluetooth / 4G/5G"   
+??? note "RF Wi-Fi / Bluetooth / 4G/5G"   
     Covers practical RF fundamentals and system-level behavior  
     across **Wi-Fi, Bluetooth, and cellular (4G/LTE)** technologies.
 
