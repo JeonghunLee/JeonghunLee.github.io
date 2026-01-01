@@ -154,7 +154,7 @@ Generally based on Linux
 |-------------|------|
 | IDE – CCS v3 / CCS v6 | [IDE-CCSv3](https://ahyuo79.blogspot.com/search/label/IDE-CCSv3) / [IDE-CCSv6](https://ahyuo79.blogspot.com/search/label/IDE-CCSv6) |
 | IDE – CCS / Eclipse | [IDE-CCS](https://ahyuo79.blogspot.com/search/label/IDE-CCS) / [IDE-Eclipse](https://ahyuo79.blogspot.com/search/label/IDE-Eclipse) |
-| IDE – Eclipse CDT / Trace Compass | [IDE-Eclipse-CDT](https://ahyuo79.blogspot.com/search/label/IDE-Eclipse-CDT) / [IDE-Trace%20Compass](https://ahyuo79.blogspot.com/search/label/IDE-Trace%20Compass) |
+| IDE – Eclipse CDT / Trace Compass | [IDE-Eclipse-CDT](https://ahyuo79.blogspot.com/search/label/IDE-Eclipse-CDT) / [IDE-Trace Compass](https://ahyuo79.blogspot.com/search/label/IDE-Trace%20Compass) |
 | IDE – Nsight / uVision | [IDE-Nsight](https://ahyuo79.blogspot.com/search/label/IDE-Nsight) / [IDE-uVision](https://ahyuo79.blogspot.com/search/label/IDE-uVision) |
 | IDE – STM32CubeMX / Visual Studio | [IDE-STM32CubeMX](https://ahyuo79.blogspot.com/search/label/IDE-STM32CubeMX) / [IDE-VS](https://ahyuo79.blogspot.com/search/label/IDE-VS) |
 | IDE – VS Code | [IDE-VS Code](https://ahyuo79.blogspot.com/search/label/IDE-VS%20Code) |
