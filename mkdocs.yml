@@ -1,10 +1,19 @@
+#
+# Site information
+#
 site_name: Jeonghun Lee (Github Pages) 
 site_description: Jeonghun Lee's Personal Website Link Page
 site_author: Jeonghun Lee
+
+#
+#  Repository information
+#
 repo_url: https://github.com/JeonghunLee/JeonghunLee.github.io
 repo_name: JeonghunLee/JeonghunLee.github.io
- 
 
+#
+# Navigation structure 
+#
 nav:
   - AboutMe: index.md
   - Technical-Skills: project_technical_skills.md
@@ -12,7 +21,10 @@ nav:
   - ESP-Series: project_esp_series.md  
   - LoRaWAN: project_lorawan.md   
   - Documentation: project_documentation.md  
-  
+
+#
+# Plugins configuration
+#  
 plugins:
   - search
   - mermaid2
@@ -21,15 +33,17 @@ plugins:
 # Material theme configuration
 # https://squidfunk.github.io/mkdocs-material/
 theme:
-  name: material
-  logo: imgs/logo.jpg
-  favicon: imgs/logo.jpg
-  language: en   # ko: Korean, en: English
+  name: material   # Material for MkDocs
+  language: en   # ko: Korean, en: English  
+  # My Site Logo and Favicon
+  logo: imgs/logo.jpg     # my logo
+  favicon: imgs/logo.jpg  # my favicon  
+  # Google Analytics 설정 (https://analytics.google.com/) , now not working !!!
   analytics: # Google Analytics 설정 (https://analytics.google.com/)  (Might be deprecated, use extra.analytics)
     gtag: G-HPQJTYY4LT  # Google Analytics 추적 ID로 교체  https://www.mkdocs.org/user-guide/choosing-your-theme
                         # Admin > Property Settings > Create > Tracking ID (측정ID)
-  # Material for MkDocs (Menu 3 개 섹션)
-  palette:
+  
+  palette:   # Material for MkDocs (Menu 3 개 섹션)
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
@@ -45,7 +59,8 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   features:
-    - toc.follow
+    - toc.follow          # 이 줄이 TOC(Table of Contents)를 스크롤에 따라 따라다니게 해줌
+    - toc.integrate       # 이 줄이 TOC(Table of Contents)를 왼쪽 내비(sidebar)로 통합해줌 
     - navigation.instant
     - navigation.instant.progress
     - navigation.path
@@ -57,17 +72,17 @@ theme:
     - content.code.annotation
     - content.tooltips
     - content.code.copy
-    - toc.integrate         # 이 줄이 TOC(Table of Contents)를 왼쪽 내비(sidebar)로 통합해줌 
+
 
 markdown_extensions:
-  - admonition
-  - pymdownx.arithmatex
+  - admonition          # Note/Warning box https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+  - pymdownx.arithmatex # Math support https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
+  - pymdownx.emoji:  # Material: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis
       emoji_index: !!python/name:material.extensions.emoji.twemoji     
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.inlinehilite
@@ -77,7 +92,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.superfences:
+  - pymdownx.superfences: # Material: https://squidfunk.github.io/mkdocs-material/reference/diagrams/
       custom_fences:
         - name: mermaid
           class: mermaid
@@ -90,7 +105,8 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
-  social:
+  # My Social Meida Icons Links (FontAwesome Icons)
+  social: 
     - icon: fontawesome/brands/github
       link: https://github.com/JeonghunLee
       name: GitHub
@@ -110,8 +126,10 @@ extra:
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/u/jeonghunlee
       name: Docker Hub
-
-  analytics:   # Google Analytics 설정 (https://analytics.google.com/)
+  #
+  # Google Analytics 설정 (https://analytics.google.com/)
+  # 상위 설정은 theme 아래에 있지만, 여기는 extra 아래에 있어야 작동함 !!!
+  analytics:   
     provider: google
     property: G-HPQJTYY4LT  # Google Analytics 추적 ID로 교체  https://www.mkdocs.org/user-guide/choosing-your-theme
                             # Admin > Property Settings > Create > Tracking ID (측정ID)
