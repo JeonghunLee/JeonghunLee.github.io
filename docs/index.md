@@ -80,3 +80,7 @@ Actively participating in global semiconductor & embedded engineering communitie
 
 <br/>
 <br/>
+
+##
+
+<p align="center">  <sup>© 2025 Jeonghun (James) Lee | </sup>  <a href="#toc"><sup>Table of Contents</sup></a> </p>
