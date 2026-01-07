@@ -6,8 +6,10 @@
     **Icon links** to my platforms are available at the bottom of this page.      
 
 <div class="mobile-only"> 
+
 !!! tip "Mobile tip (Table of Content)"    
-    📑 Use the ☰ menu -> Techncial Skills ☰  to browse this page    
+    Use Top ☰ menu -> Techncial Skills ☰  to browse this page    
+
 </div>
 
 <br/>
