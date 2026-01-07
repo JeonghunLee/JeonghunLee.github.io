@@ -5,9 +5,6 @@
 ??? note "Quick access and Contact"   
     **Icon links** to my platforms are available at the bottom of this page.      
 
-!!! tip "Mobile tip (Table of Content)" { .mobile-only }   
-    Use Top ☰ menu -> **Techncial Skills ☰**  to browse this page    
-
 <br/>
 
 ## Technical Blog
