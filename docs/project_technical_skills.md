@@ -2,6 +2,11 @@
 
 <br/>
 
+??? note "Quick access and Contact"   
+    **Icon links** to my platforms are available at the bottom of this page.      
+
+<br/>
+
 - :fontawesome-brands-blogger:  [My Technical Blog](https://ahyuo79.blogspot.com?m=0)    
     **Tag-based Categories, only PC (not Mobile)**    
 
