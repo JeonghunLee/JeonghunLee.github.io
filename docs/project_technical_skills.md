@@ -5,6 +5,15 @@
 ??? note "Quick access and Contact"   
     **Icon links** to my platforms are available at the bottom of this page.      
 
+<div class="mobile-only"> 
+!!! tip "Mobile tip (Table of Content)"    
+    📑 Use the ☰ menu -> Techncial Skills ☰  to browse this page    
+</div>
+
+<br/>
+
+## Technical Blog
+
 <br/>
 
 - :fontawesome-brands-blogger:  [My Technical Blog](https://ahyuo79.blogspot.com?m=0)    
