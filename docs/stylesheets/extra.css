@@ -2,3 +2,28 @@
 .md-grid {
   max-width: initial;   /* 또는 1440px 같이 적당한 값 */
 }
+
+
+/* Mobile Version 과 PC Version 구분 (MkDocs Material) */
+
+/* Mobile only */
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 76.1875em) {
+  .mobile-only {
+    display: block;
+  }
+}
+
+/* Desktop only */
+.desktop-only {
+  display: block;
+}
+
+@media (max-width: 76.1875em) {
+  .desktop-only {
+    display: none;
+  }
+}
