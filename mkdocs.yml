@@ -60,7 +60,7 @@ theme:
         name: Switch to system preference
   features:
     - toc.follow          # 이 줄이 TOC(Table of Contents)를 스크롤에 따라 따라다니게 해줌
-    - toc.integrate       # 이 줄이 TOC(Table of Contents)를 왼쪽 내비(sidebar)로 통합해줌 
+#    - toc.integrate       # 이 줄이 TOC(Table of Contents)를 왼쪽 내비(sidebar)로 통합해줌 
     - navigation.instant
     - navigation.instant.progress
     - navigation.path
