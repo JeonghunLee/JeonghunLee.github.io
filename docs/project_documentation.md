@@ -1,6 +1,9 @@
 # Documentation      
 
-<br/>
+??? note "Quick access and Contact"   
+    **Icon links** to my platforms are available at the bottom of this page.     
+
+## Technical Blog  
 
 - :fontawesome-brands-blogger:  [My Technical Blog](https://ahyuo79.blogspot.com?m=0)    
     **Tag-based Categories, only PC (not Mobile)**   
@@ -22,7 +25,6 @@
 
 <br>
 <br>
-<br>
 
 
 * Go Back [WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)   
@@ -40,13 +42,11 @@
 
 [:fontawesome-solid-screwdriver-wrench: View ReadTheDocs Dashboard](https://app.readthedocs.org/dashboard/)    
 
-<br>
-<br>
+
 <br>
 
 ## Github Pages-Projects    
 
-<br>
 <br>
 <br>
 
@@ -57,14 +57,13 @@
 
 !!! note "Github Project Hosting for Document"
 
-<br>
+
 <br>
 <br>
 
 ## Gihtub Pages Main  
 
-<br>
-<br>
+
 <br>
 
 
@@ -74,13 +73,12 @@
 
 !!! note "Github Main Hosting Site and Repository"
 
-<br>
+
 <br>
 
 
 ## ReadTheDocs TEST  
 
-<br>
 <br>
 
 
@@ -88,7 +86,6 @@
 !!! note "ReadTheDocs TEST Hosting Site and Repository"
 
 
-<br>
 <br>
 
 * ReadTheDoc test00
@@ -102,18 +99,15 @@
 
 
 <br>
-<br>
 
 ## Gihtub Pages TEST 
 
-<br>
 <br>
 
 various tests based on Github Pages (only for Test)    
 
 !!! note "Github TEST Hosting Site and Repository"
 
-<br>
 <br>
 
 * Github Pages based on Jeklly   
@@ -132,5 +126,4 @@ various tests based on Github Pages (only for Test)
     * WEB: https://jeonghunlee.github.io/github-pages-with-jekyll/
     * GIT: https://github.com/JeonghunLee/github-pages-with-jekyll
 
-<br>
 <br>

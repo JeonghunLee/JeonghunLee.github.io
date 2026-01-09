@@ -1,13 +1,11 @@
 # Techncial Skills   
 
-<br/>
 
 ??? note "Quick access and Contact"   
     **Icon links** to my platforms are available at the bottom of this page.      
 
-<br/>
 
-## Technical Blog
+## Technical Blog  
 
 <br/>
 
