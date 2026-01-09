@@ -2,18 +2,24 @@
 
 <br/>
 
-Jeonghun Lee          
+??? note "Quick access"   
+    **Icon links** to my platforms are available at the bottom of this page.      
+
+<br/>
+
+## Profile
+
+<br/>
+
+**Jeonghun Lee (정훈 이)**          
 *(also known as Jeonghun (James) Lee)* 
 
-:fontawesome-brands-github: [JeonghunLee Profile](https://github.com/JeonghunLee)     
+:fontawesome-brands-github: [JeonghunLee Github Profile](https://github.com/JeonghunLee)     
 
 :fontawesome-brands-linkedin: [Jeonghun (James) Lee](https://www.linkedin.com/in/JeonghunLee-0911/)   
 
 ??? note "Contact with me"   
     **The LinkedIn** icon links is available at the bottom of this page.  
-
-??? note "Quick access"   
-    Icon links to my platforms are available at the bottom of this page.      
 
 <br/>
 <br/>
