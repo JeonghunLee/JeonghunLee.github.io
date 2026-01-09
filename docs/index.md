@@ -1,11 +1,9 @@
 # About Me 
 
-<br/>
 
 ??? note "Quick access"   
     **Icon links** to my platforms are available at the bottom of this page.      
 
-<br/>
 
 ## Profile
 
@@ -21,7 +19,6 @@
 ??? note "Contact with me"   
     **The LinkedIn** icon links is available at the bottom of this page.  
 
-<br/>
 <br/>
 
 ## Interests         
@@ -39,7 +36,6 @@ where timing, reliability, and cross-domain interactions are critical.
 
 ## Technical Blogs  
 
-<br/>
 <br/>
 
 
@@ -64,11 +60,9 @@ where timing, reliability, and cross-domain interactions are critical.
     Selected topics from **primary technical blog** are refined and expanded for a broader, international audience.   
 
 <br/>
-<br/>
 
 ## Communities  
 
-<br/>
 <br/>
 
 * 🌍 **Communities**     
@@ -84,6 +78,5 @@ Actively participating in global semiconductor & embedded engineering communitie
     documentation, and reference designs as core parts of the development process.       
     I also take part in various engineering communities and local meetups to exchange ideas and learn from different perspectives  
 
-<br/>
 <br/>
 
