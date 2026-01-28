@@ -3,7 +3,11 @@
 
 This page is a **blog-centered technical skills index**.  
 Each category links to **real-world implementation notes and deep-dive analyses**   
-documented through my technical blog.
+documented through my technical blog.    
+
+Use the **Table of Contents (TOC)** to quickly navigate each technical area.
+
+<br/>
 
 ??? note "Quick access and Contact"   
     **Icon links** to my platforms are available at the bottom of this page.      
@@ -76,6 +80,7 @@ Linux-based [BSP bring-up](#technical-blog-bsp-bringup) and system integration a
 
 <br/>
 
+System-level BSP bring-up covering U-Boot, DRAM tuning, and Linux kernel optimization.  
 
 | System Bring-up   | Tags |  
 | ------------- | -----| 
