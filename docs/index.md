@@ -42,6 +42,9 @@ where timing, reliability, and cross-domain interactions are critical.
 * **Primary Technical Blog (Blogger)**  
 :fontawesome-brands-blogger:  https://ahyuo79.blogspot.com   
 
+My main technical portfolio, documenting **system-level embedded engineering**           
+(BSP, Linux/RTOS, DSP, debugging) through real implementation and analysis.    
+→ **[Technical Skills](project_technical_skills.md)**   
 
 ??? note "Primary Technical Blog"    
     This blog documents system-level investigations across HW, FW, OS, and DSP,   
