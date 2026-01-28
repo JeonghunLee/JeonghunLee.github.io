@@ -43,12 +43,13 @@ where timing, reliability, and cross-domain interactions are critical.
 :fontawesome-brands-blogger:  https://ahyuo79.blogspot.com   
 
 My main technical portfolio, documenting **system-level embedded engineering**      
-thhrough real-world implementation and in-depth   analysis, including:          
-  * [Linux](project_technical_skills.md#technical-blog-bsp-yocto) / [RTOS](project_technical_skills.md#technical-blog-bsp-sram) / Bare-Metal [BSP bring-up](project_technical_skills.md#technical-blog-bsp-bringup)   
-  * [Embedded firmware](project_technical_skills.md#technical-blog-bsp-main) & [low-level debugging](project_technical_skills.md#technical-blog-bsp-debug)   
-  * DSP, [RF and Radar-related system](project_technical_skills.md#technical-blog-rf) analysis and [AI/Edge AI](project_technical_skills.md#technical-blog-ai)   
-  * Embedded [Security System](project_technical_skills.md#technical-blog-security) , [DevOps](project_technical_skills.md#technical-blog-devops) and [professional IDE toolchains](project_technical_skills.md#technical-blog-ide)      
-  → **[Technical Skills](project_technical_skills.md)**  
+thhrough real-world implementation and in-depth   analysis, including:       
+
+* [Linux](project_technical_skills.md#technical-blog-bsp-yocto) / [RTOS](project_technical_skills.md#technical-blog-bsp-sram) / Bare-Metal [BSP bring-up](project_technical_skills.md#technical-blog-bsp-bringup)   
+* [Embedded firmware](project_technical_skills.md#technical-blog-bsp-main) & [low-level debugging](project_technical_skills.md#technical-blog-bsp-debug)   
+* DSP, [RF and Radar-related system](project_technical_skills.md#technical-blog-rf) analysis and [AI/Edge AI](project_technical_skills.md#technical-blog-ai)   
+* Embedded [Security System](project_technical_skills.md#technical-blog-security) , [DevOps](project_technical_skills.md#technical-blog-devops) and [professional IDE toolchains](project_technical_skills.md#technical-blog-ide)        
+→ **[Technical Skills](project_technical_skills.md)**   
 
 ??? note "Primary Technical Blog"    
     This blog documents system-level investigations across HW, FW, OS, and DSP,   
