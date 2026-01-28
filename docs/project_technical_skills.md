@@ -1,11 +1,20 @@
 # Techncial Skills   
 
 
+This page is a **blog-centered technical skills index**.  
+Each category links to **real-world implementation notes and deep-dive analyses**   
+documented through my technical blog.
+
 ??? note "Quick access and Contact"   
     **Icon links** to my platforms are available at the bottom of this page.      
 
 
 ## Technical Blog  
+
+<br/>
+
+Senior Embedded Firmware Engineer focused on **[BSP bring-up](#technical-blog-bsp-bringup) and [system debugging](#technical-blog-bsp-debug)**      
+across [Linux](#technical-blog-bsp-yocto), [RTOS](#technical-blog-bsp-sram), and [Android](#technical-blog-android) on [TI, NXP, NVIDIA, and MPU-based platforms](#technical-blog-bsp-main).    
 
 <br/>
 
@@ -34,7 +43,8 @@
 
 <br/>
 
-Generally based on Linux 
+Linux-based [BSP bring-up](#technical-blog-bsp-bringup) and system integration across NVIDIA, TI, NXP, and ARM-based platforms.   
+
 
 | Information   | Tags |  
 | ------------- | -----| 
@@ -112,7 +122,7 @@ Generally based on Linux
 
 <br/>
 
-
+**System-level device driver development** across USB, MIPI, PCIe, Ethernet, storage, and control buses
 
 | Information | Tags |
 |-------------|------|
@@ -143,6 +153,8 @@ Generally based on Linux
 
 <br/>
 
+System-level debugging and profiling across user space, kernel, and hardware layers.  
+
 | SW Debug and Profile | Tags |
 |-------------|------|
 | Debug – GDB / Binutils | [Debug-GDB](https://ahyuo79.blogspot.com/search/label/Debug-GDB) / [Debug-Binutils](https://ahyuo79.blogspot.com/search/label/Debug-Binutils) |
@@ -171,14 +183,17 @@ Generally based on Linux
 
 <br/>
 
-| ESP32 Memory   | Tags |  
+System-level analysis of **ESP32 SRAM architecture and FreeRTOS behavior**.   
+
+| ESP32 Memory/OS   | Tags |  
 | ------------- | -----| 
 | **ESP32 MEM**   | [MCU-ESP32-MEM](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-MEM) |   
+| **FreeRTOS**   | [FreeRTOS](https://ahyuo79.blogspot.com/search/label/FreeRTOS) |   
 
-??? tip "ESP32 Memory Architecture"
-    This section explains the importance of the ESP32 memory system,  
-    focusing on the internal SRAM architecture, memory regions,  
-    and their impact on performance, stability, and real-time behavior.
+??? tip "ESP32 Memory & RTOS Behavior"
+    Covers ESP32 internal SRAM architecture and FreeRTOS behavior,   
+    focusing on **performance, stability, and real-time constraints**  
+    in practical embedded systems.  
 
 
 <br/>
@@ -187,6 +202,8 @@ Generally based on Linux
 ## Technical Blog-BSP-Yocto   
 
 <br/>
+
+System-level BSP build analysis with **Yocto Project**.   
 
 | Information | Tags |
 |-------------|------|
@@ -208,6 +225,9 @@ Generally based on Linux
 
 ## Technical Blog-IDE    
 
+<br/>
+
+**System-level IDE** workflows covering build, trace, profiling, and hardware-assisted debugging.   
 
 | IDE-General | Tags |
 |-------------|------|
@@ -246,9 +266,11 @@ Generally based on Linux
 <br/>
 
 ## Technical Blog-Security  
-
    
 <br/>
+
+System-level security integration across Secure Boot, TLS/DTLS, certificates, Wi-Fi authentication. 
+
 
 | Information   | Tags |  
 | ------------- | -----| 
@@ -269,6 +291,8 @@ Generally based on Linux
 
 <br/>
 
+System-level **Android AOSP** exploration using the PDK environment, focused on build and system integration.  
+
 | Information | Tags |
 |-------------|------|
 | Android – AOSP App / Build | [Android-AOSP-App](https://ahyuo79.blogspot.com/search/label/Android-AOSP-App) / [Android-AOSP-Build](https://ahyuo79.blogspot.com/search/label/Android-AOSP-Build) |
@@ -288,6 +312,8 @@ Generally based on Linux
 ## Technical Blog-RF 
 
 <br/>
+
+System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-Fi, Bluetooth, and cellular (4G/5G) systems.   
 
 | RF-General  | Tags |
 |-------------|------|
@@ -333,6 +359,9 @@ Generally based on Linux
 
 <br/>
 
+System-level DevOps workflows covering CI/CD, containerization, and technical documentation.  
+
+
 | Information | Tags |
 |-------------|------|
 | DevOps – CI/CD / Docker | [DevOps-CI/CD](https://ahyuo79.blogspot.com/search/label/DevOps-CI%2FCD) / [DevOps-Docker](https://ahyuo79.blogspot.com/search/label/DevOps-Docker) |
@@ -364,6 +393,8 @@ Generally based on Linux
 ## Technical Blog-AI 
 
 <br/>
+
+System-level exploration of **AI and TinyML(Edge AI)** for edge and embedded applications.  
 
 | Information | Tags |
 |-------------|------|
