@@ -11,7 +11,7 @@
 
 | Information   | Tags |  
 | ------------- | -----| 
-| AI |  [AI-Tensorflow](https://ahyuo79.blogspot.com/search/label/AI-Tensorflow) /  [AI-Machine FDeep Learning](https://ahyuo79.blogspot.com/search/label/AI-Machine%2FDeep%20Learning) / [AI-TinyML](https://ahyuo79.blogspot.com/search/label/AI-TinyML)  |      
+| AI |  [AI-Tensorflow](https://ahyuo79.blogspot.com/search/label/AI-Tensorflow) /  [AI-Machine Deep Learning](https://ahyuo79.blogspot.com/search/label/AI-Machine%2FDeep%20Learning) / [AI-TinyML](https://ahyuo79.blogspot.com/search/label/AI-TinyML)  |      
 
 
 ??? tip "How to use these links"
