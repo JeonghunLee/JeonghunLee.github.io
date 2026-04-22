@@ -7,7 +7,7 @@ site_author: Jeonghun Lee
 
 #
 #  Repository information
-#
+#  (주의: release 시 표시됨) 
 repo_url: https://github.com/JeonghunLee/JeonghunLee.github.io
 repo_name: JeonghunLee/JeonghunLee.github.io
 
@@ -19,7 +19,8 @@ nav:
   - Technical-Skills: project_technical_skills.md
   - Blog Managenment: project_blogs_management.md   
   - ESP-Series: project_esp_series.md  
-  - LoRaWAN: project_lorawan.md   
+  - LoRaWAN: project_lorawan.md  
+  - AI: project_ai.md     
   - Documentation: project_documentation.md  
 
 #
@@ -102,12 +103,23 @@ markdown_extensions:
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML
 
+# my custom CSS for overriding Material theme styles
 extra_css:
   - stylesheets/extra.css
 
+#
+#  Setup for My Social Media Icons Links (FontAwesome Icons)
+#  - Google Analytics, Disqus 등도 여기에 추가 가능
+#
 extra:
+  #  - 우측 아래 각 Icon 클릭 시, 해당 링크로 이동
   # My Social Meida Icons Links (FontAwesome Icons)
   social: 
+  
+    - icon: fontawesome/solid/user
+      link: https://jeonghunlee.github.io/
+      name: User Profile
+
     - icon: fontawesome/brands/github
       link: https://github.com/JeonghunLee
       name: GitHub
@@ -136,4 +148,4 @@ extra:
                             # Admin > Property Settings > Create > Tracking ID (측정ID)
 
 copyright: >
-  Copyright © 2025 Jeonghun Lee
+  Copyright © 2026 Jeonghun Lee

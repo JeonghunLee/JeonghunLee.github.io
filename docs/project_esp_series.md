@@ -49,8 +49,8 @@
 
 * GIT: https://github.com/JeonghunLee/wifisniffer   
 * Supported Documentation (ReadTheDocs/GithubPages Hosting)    
-    * Go To :fontawesome-solid-book: DOC: [ReadTheDocs](project_documentation.md#readthedocs-projects)    
-    * Go To :fontawesome-solid-book: DOC: [GithubPages](project_documentation.md#github-pages-projects)   
+    * Go To :fontawesome-solid-book: [ReadTheDocs-Project](project_documentation.md#readthedocs-projects)    
+    * Go To :fontawesome-solid-book: [GithubPages-Project](project_documentation.md#github-pages-projects)   
 
 
 <br>
