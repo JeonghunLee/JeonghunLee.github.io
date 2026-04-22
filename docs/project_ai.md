@@ -26,7 +26,7 @@
 <br>
 
 
-* **Purpose**
+* **Purpose**    
   AI Agent workflow based on MCP  
   Connect Claude, Codex, Ollama, and GitHub operations through MCP  
   Support Local MCP execution, GitHub Issue based TEST automation, and documentation-first project flow
@@ -40,17 +40,17 @@
 
 
 * **Scope**
-  * AI Agent usage
-  * MCP Tool integration
-  * GitHub automation
-  * Local TEST execution
-  * CI/CD/CT workflow
+    * AI Agent usage
+    * MCP Tool integration
+    * GitHub automation
+    * Local TEST execution
+    * CI/CD/CT workflow
 
 <br>
 
 
-!!! success "Summary"
-    Enhanced LoRaWAN stack with DTLS and KCMVP-based authentication & encryption.
+!!! success "AI Summary"
+    AI-based CI/CD/CT automation for code generation, review, testing, and deployment..
 
 
 <br>
