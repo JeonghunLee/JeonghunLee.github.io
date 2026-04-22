@@ -51,17 +51,23 @@
 <br>
 
 * Go Back [WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
-    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/wifisniffer/   
+    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/wifisniffer/  
+
+<br>
+
+* Go Back [local-ai-agent-mcp Project](project_ai.md#ai-agent-with-mcp)       
+    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/local-ai-agent-mcp/   
 
 
-
-!!! note "Github Project Hosting for Document"
+??? note "GitHub Project Hosting and Document Automation"
+    This project uses GitHub as both the source repository and the document hosting platform.
+    The documentation is written with MkDocs and automatically deployed through GitHub Actions to GitHub Pages.
 
 
 <br>
 <br>
 
-## Gihtub Pages Main  
+## Gihtub Pages-MyProfile    
 
 
 <br>
