@@ -60,8 +60,8 @@
 
 
 ??? note "GitHub Project Hosting and Document Automation"
-    This project uses GitHub as both the source repository and the document hosting platform.
-    The documentation is written with MkDocs and automatically deployed through GitHub Actions to GitHub Pages.
+    This project uses GitHub as both the source repository and the document hosting platform.     
+    The documentation is written with MkDocs and automatically deployed through GitHub Actions to GitHub Pages.       
 
 
 <br>
