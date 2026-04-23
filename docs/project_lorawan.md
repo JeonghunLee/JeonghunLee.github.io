@@ -13,6 +13,7 @@
 | ------------- | -----| 
 | Seucirty |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
 
+→ **[Technical Skills](project_technical_skills.md#technical-blog-security)**   
 
 ??? tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
@@ -45,7 +46,7 @@ Support packet forwarder and basic network server connectivity
 <br>
 
 
-!!! success "Summary"
+!!! success "Technical Summary"
     Enhanced LoRaWAN stack with DTLS and KCMVP-based authentication & encryption.
 
 

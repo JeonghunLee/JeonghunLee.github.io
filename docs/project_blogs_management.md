@@ -89,12 +89,11 @@ with Blogspot Layout
 
  
 * Javas Script and CSS (Module) 
-    * GIT: https://github.com/JeonghunLee/blogspot
-    * WEB: https://jeonghunlee.github.io/blogspot/      
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/blogspot    
     * Release: https://github.com/JeonghunLee/blogspot/tree/gh-pages  
 
 
-??? note "Github Page Hosting for only JS/CSS Not HTML" 
+!!! note "Github Page Hosting for only JS/CSS Not HTML" 
     in deteil [README Manaul](https://github.com/JeonghunLee/blogspot/blob/main/docs/index.md)   
 
 <br>
