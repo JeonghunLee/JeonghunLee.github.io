@@ -39,7 +39,7 @@
     My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
     including materials from **TI Radar Academy** and official TI technical resources.   
 
-Go Back **[Technical Skills](project_technical_skills.md)**   
+Go Back **[Technical-Skills](project_technical_skills.md)**   
 
 <br/>
 

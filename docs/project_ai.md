@@ -19,7 +19,7 @@
     All links redirect to my technical blog (Blogger), organized using **tag-based categories**   
     The blog is primarily written in Korean, with **English support available via Google Translate**.
 
- Go Back **[Technical Skills->Technical Blog-AI](project_technical_skills.md#technical-blog-ai)**   
+ Go Back **[Technical-Skills->Technical Blog-AI](project_technical_skills.md#technical-blog-ai)**   
 
 <br/>
 
