@@ -16,7 +16,7 @@
 | ESP32 RF | [MCU-ESP32-BT](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-BT) / [MCU-ESP32-WIFI](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-WIFI) / [RF-BT](https://ahyuo79.blogspot.com/search/label/RF-BT)  |          
 | ESP32/ESP32-S3 ALL | [MCU-ESP32](https://ahyuo79.blogspot.com/search/label/MCU-ESP32) / [MCU-ESP32S3](https://ahyuo79.blogspot.com/search/label/MCU-ESP32S3) |   
 | **WIFI-Sensing** | [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) / [RF-WIFI](https://ahyuo79.blogspot.com/search/label/RF-WIFI)  |    
-| **RF – Radar / mmWave** | [RF-Radar](https://ahyuo79.blogspot.com/search/label/RF-Radar) / [RF-mmWave](https://ahyuo79.blogspot.com/search/label/RF-mmWave) |
+| **RF–Radar / mmWave** | [RF-Radar](https://ahyuo79.blogspot.com/search/label/RF-Radar) / [RF-mmWave](https://ahyuo79.blogspot.com/search/label/RF-mmWave) |
 | Sniffer | [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark) / [NET-Packet Sniffer](https://ahyuo79.blogspot.com/search/label/NET-Packet%20Sniffer) |  
 | DevOps-Docs | [DevOps-Sphinx](https://ahyuo79.blogspot.com/search/label/DevOps-Sphinx) / [DevOps-MkDocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs) / [DevOps-ReadTheDocs](https://ahyuo79.blogspot.com/2021/06/readthedoc-doc-host.html)     |
 | USB | [IF-USB-CDC](https://ahyuo79.blogspot.com/search/label/IF-USB-CDC) / [IF-USB](https://ahyuo79.blogspot.com/search/label/IF-USB) |
@@ -80,11 +80,12 @@ Test WIFI CSI based on ESP32-S3 because of WIFI Sensing
 
 <br>
 
-* :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/esp-csi
+* TEST WIFI-CSI: 
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/esp-csi
 
 <br>
 
-* TEST Result: 
+* TEST WIFI-CSI RESULT: 
     * https://github.com/JeonghunLee/esp-csi/blob/master/examples/esp-radar/console_test/SETUP_VSCODE.md    
     * https://github.com/JeonghunLee/esp-csi/blob/master/examples/get-started/csi_recv_router/SETUP_VSCODE.md   
     * https://github.com/JeonghunLee/esp-csi/blob/master/ESP32-S3_TEST.md     

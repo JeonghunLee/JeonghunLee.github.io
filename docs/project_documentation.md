@@ -69,7 +69,7 @@
 <br>
 <br>
 
-## Gihtub Pages-MyProfile    
+## GitHub Pages-MyProfile    
 
 
 <br>
@@ -108,7 +108,7 @@
 
 <br>
 
-## Gihtub Pages TEST 
+## GitHub Pages TEST 
 
 <br>
 

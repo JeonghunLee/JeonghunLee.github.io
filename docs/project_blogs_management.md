@@ -1,4 +1,4 @@
-# Blog Managenment      
+# Blog Management      
 
 ??? note "Quick access and Contact"   
     **Icon links** to my platforms are available at the bottom of this page.     
