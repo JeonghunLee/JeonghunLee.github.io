@@ -19,6 +19,8 @@
     All links redirect to my technical blog (Blogger), organized using **tag-based categories**    
     The blog is primarily written in Korean, with **English support available via Google Translate**.
 
+ Go Back **[Technical Skills->Technical Blog-DevOps](project_technical_skills.md#technical-blog-devops)**  
+
 <br>
 
 ## ReadTheDocs-Projects  
@@ -50,12 +52,12 @@
 <br>
 <br>
 
-* Go Back [WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
+* Go Back [ESP-Series->WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
     - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/wifisniffer/  
 
 <br>
 
-* Go Back [local-ai-agent-mcp Project](project_ai.md#ai-agent-with-mcp)       
+* Go Back [AI->AI-Agent with MCP Project](project_ai.md#ai-agent-with-mcp)       
     - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/local-ai-agent-mcp/   
 
 
@@ -75,7 +77,7 @@
 
 * Github Hosting Site Main and Repository (Current Git)
     * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
-    * WEB: https://jeonghunlee.github.io/    
+    * :fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/    
 
 !!! note "Github Main Hosting Site and Repository"
 
@@ -95,13 +97,13 @@
 <br>
 
 * ReadTheDoc test00
-    * WEB: https://readthedoc-test00.readthedocs.io/en/latest/  
+    * :fontawesome-solid-globe: WEB: https://readthedoc-test00.readthedocs.io/en/latest/  
     * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/readthedocs.org   
 
 <br>
 
 * ReadTheDoc Template TEST       
-    * WEB: https://jeonghunlee-demo.readthedocs.io/en/latest/
+    * :fontawesome-solid-globe: WEB: https://jeonghunlee-demo.readthedocs.io/en/latest/
 
 
 <br>
@@ -117,19 +119,19 @@ various tests based on Github Pages (only for Test)
 <br>
 
 * Github Pages based on Jeklly   
-    * WEB: https://jeonghunlee.github.io/blog/
-    * GIT: https://github.com/JeonghunLee/blog
+    * :fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/blog/
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/blog
 
 <br>
 
 * Github Pages based on Jeklly 
-    * WEB: https://jeonghunlee.github.io/minima/
-    * GIT: https://github.com/JeonghunLee/minima/settings/pages
+    * :fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/minima/
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/minima/settings/pages
 
 <br>
 
 * Github Pages based on Jeklly 
-    * WEB: https://jeonghunlee.github.io/github-pages-with-jekyll/
-    * GIT: https://github.com/JeonghunLee/github-pages-with-jekyll
+    * :fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/github-pages-with-jekyll/
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/github-pages-with-jekyll
 
 <br>
