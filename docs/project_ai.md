@@ -13,6 +13,7 @@
 | ------------- | -----| 
 | AI |  [AI-Tensorflow](https://ahyuo79.blogspot.com/search/label/AI-Tensorflow) /  [AI-Machine Deep Learning](https://ahyuo79.blogspot.com/search/label/AI-Machine%2FDeep%20Learning) / [AI-TinyML](https://ahyuo79.blogspot.com/search/label/AI-TinyML)  |      
 
+→ **[Technical Skills](project_technical_skills.md#technical-blog-ai)**   
 
 ??? tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
@@ -49,8 +50,8 @@
 <br>
 
 
-!!! success "AI Summary"
-    AI-based CI/CD/CT automation for code generation, review, testing, and deployment..
+!!! success "Technical Summary"
+    - AI-based CI/CD/CT automation for code generation, review, testing, and deployment..
 
 
 <br>

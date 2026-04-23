@@ -74,7 +74,7 @@
 
 
 * Github Hosting Site Main and Repository (Current Git)
-    * GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
     * WEB: https://jeonghunlee.github.io/    
 
 !!! note "Github Main Hosting Site and Repository"
@@ -96,7 +96,7 @@
 
 * ReadTheDoc test00
     * WEB: https://readthedoc-test00.readthedocs.io/en/latest/  
-    * GIT: https://github.com/JeonghunLee/readthedocs.org   
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/readthedocs.org   
 
 <br>
 
