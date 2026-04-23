@@ -11,7 +11,7 @@
 
 | Information   | Tags |  
 | ------------- | -----| 
-| Seucirty |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
+| Security |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
 
 
 ??? tip "How to use these links"
@@ -29,7 +29,7 @@ Go Back **[Technical-Skills->Technical Blog-Security](project_technical_skills.m
 
 
 * **Purpose**            
-LoRa Gateway(LoRaWan) based on Semtech             
+LoRa Gateway(LoRaWAN) based on Semtech             
 Implement a Semtech SX1302/SX1303 based LoRaWAN gateway    
 Support packet forwarder and basic network server connectivity   
 

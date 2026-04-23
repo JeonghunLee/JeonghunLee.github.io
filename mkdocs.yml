@@ -17,7 +17,7 @@ repo_name: JeonghunLee/JeonghunLee.github.io
 nav:
   - AboutMe: index.md
   - Technical-Skills: project_technical_skills.md
-  - Blog Managenment: project_blogs_management.md   
+  - Blog Management: project_blogs_management.md   
   - ESP-Series: project_esp_series.md  
   - LoRaWAN: project_lorawan.md  
   - AI: project_ai.md     

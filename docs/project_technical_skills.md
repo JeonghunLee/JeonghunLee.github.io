@@ -1,4 +1,4 @@
-# Techncial Skills   
+# Technial Skills   
 
 
 This page is a **blog-centered technical skills index**.  
@@ -279,10 +279,10 @@ System-level security integration across Secure Boot, TLS/DTLS, certificates, Wi
 
 | Information   | Tags |  
 | ------------- | -----| 
-| Seucirty ALL |  [OpenSSL](https://ahyuo79.blogspot.com/search/label/OpenSSL) / [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS) |
+| Security ALL |  [OpenSSL](https://ahyuo79.blogspot.com/search/label/OpenSSL) / [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS) |
 | SecureBoot  |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot)   |   
 | Certificate |  [Security-Certificate](https://ahyuo79.blogspot.com/search/label/Security-Certificate)    |      
-| Seucirty Android / Sellinux |   [Security-Android](https://ahyuo79.blogspot.com/search/label/Security-Android) /[Linux-SELinux](https://ahyuo79.blogspot.com/search/label/Linux-SELinux)     |    
+| Security Android / SELinux |   [Security-Android](https://ahyuo79.blogspot.com/search/label/Security-Android) /[Linux-SELinux](https://ahyuo79.blogspot.com/search/label/Linux-SELinux)     |    
 
 ??? note "Security and Cryptography Scope"   
     Covers fundamental cryptographic concepts and their extensions, including TLS/DTLS.    
