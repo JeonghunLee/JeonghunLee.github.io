@@ -13,12 +13,13 @@
 | ------------- | -----| 
 | AI |  [AI-Tensorflow](https://ahyuo79.blogspot.com/search/label/AI-Tensorflow) /  [AI-Machine Deep Learning](https://ahyuo79.blogspot.com/search/label/AI-Machine%2FDeep%20Learning) / [AI-TinyML](https://ahyuo79.blogspot.com/search/label/AI-TinyML)  |      
 
-→ **[Technical Skills](project_technical_skills.md#technical-blog-ai)**   
 
 ??? tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
     All links redirect to my technical blog (Blogger), organized using **tag-based categories**   
     The blog is primarily written in Korean, with **English support available via Google Translate**.
+
+ Go Back **[Technical Skills->Technical Blog-AI](project_technical_skills.md#technical-blog-ai)**   
 
 <br/>
 
@@ -35,9 +36,10 @@
 <br>
 
 * **Links**
-    * GIT: https://github.com/JeonghunLee/local-ai-agent-mcp
-    * Supported Documentation (GithubPages Hosting)     
-        * Go To :fontawesome-solid-book: [GithubPages-Project](project_documentation.md#github-pages-projects) 
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/local-ai-agent-mcp
+    * Supported Documentation: 
+        * **GithubPages** Hosting only    
+        * Go To [Documentation->GithubPages-Project](project_documentation.md#github-pages-projects) 
 
 
 * **Scope**

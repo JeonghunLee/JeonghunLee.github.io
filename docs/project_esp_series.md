@@ -23,6 +23,7 @@
 | Security | [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) / [Security](https://ahyuo79.blogspot.com/search/label/Security)   |
 
 
+
 ??? tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
     All links redirect to my technical blog (Blogger), organized using **tag-based categories**    
@@ -38,6 +39,7 @@
     My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
     including materials from **TI Radar Academy** and official TI technical resources.   
 
+Go Back **[Technical Skills](project_technical_skills.md)**   
 
 <br/>
 
@@ -47,10 +49,11 @@
 <br/>
 
 
-* GIT: https://github.com/JeonghunLee/wifisniffer   
-* Supported Documentation (ReadTheDocs/GithubPages Hosting)    
-    * Go To :fontawesome-solid-book: [ReadTheDocs-Project](project_documentation.md#readthedocs-projects)    
-    * Go To :fontawesome-solid-book: [GithubPages-Project](project_documentation.md#github-pages-projects)   
+* :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/wifisniffer   
+* Supported Documentation:    
+    * **ReadTheDocs/GithubPages** Hosting    
+    * Go To [Documentation->ReadTheDocs-Project](project_documentation.md#readthedocs-projects)    
+    * Go To [Documentation->GithubPages-Project](project_documentation.md#github-pages-projects)   
 
 
 <br>
@@ -77,7 +80,7 @@ Test WIFI CSI based on ESP32-S3 because of WIFI Sensing
 
 <br>
 
-* GIT: https://github.com/JeonghunLee/esp-csi
+* :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/esp-csi
 
 <br>
 
@@ -103,15 +106,15 @@ have to compare with BLE Channel Sounding and FMCW Radar
 <br>
 
 * Study WIFI Sensing Array:   
-    * Main Web: https://espargos.net/   
-    * ESPargos Docs: https://espargos.net/docs/  
-    * GIT: https://github.com/JeonghunLee/pyespargos   
+    * :fontawesome-solid-globe: Main Web: https://espargos.net/   
+    * :fontawesome-solid-book: ESPargos Docs: https://espargos.net/docs/  
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/pyespargos   
 
 <br>
 
 * Study TF Samples and 3D Point Cloud (Dataset)  
-    * WEB: https://espargos.net/datasets/data/espargos-0005/
-    * WEB: https://espargos.net/datasets/data/espargos-0007/       
+    * :fontawesome-solid-globe: WEB: https://espargos.net/datasets/data/espargos-0005/
+    * :fontawesome-solid-globe: WEB: https://espargos.net/datasets/data/espargos-0007/       
 
 
 

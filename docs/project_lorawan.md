@@ -13,7 +13,7 @@
 | ------------- | -----| 
 | Seucirty |  [Security-SecureBoot](https://ahyuo79.blogspot.com/search/label/Security-SecureBoot) /  [Security](https://ahyuo79.blogspot.com/search/label/Security) / [NET-TLS](https://ahyuo79.blogspot.com/search/label/NET-TLS)  |      
 
-→ **[Technical Skills](project_technical_skills.md#technical-blog-security)**   
+Go Back **[Technical Skills->Technical Blog-Security](project_technical_skills.md#technical-blog-security)**   
 
 ??? tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
@@ -35,13 +35,13 @@ Support packet forwarder and basic network server connectivity
 <br>
 
 * Links:  
-    * GIT: https://github.com/JeonghunLee/lora_gateway
-    * GIT: https://github.com/JeonghunLee/packet_forwarder
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/lora_gateway
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/packet_forwarder
 
 <br>
 
-* KCMVP 
-    * WEB: https://www.keypair.co.kr/pages/secureic-kcmvp-en.html
+* KCMVP: 
+    * :fontawesome-solid-globe: WEB: https://www.keypair.co.kr/pages/secureic-kcmvp-en.html
 
 <br>
 
