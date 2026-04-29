@@ -4,6 +4,17 @@
 ??? note "Quick access"   
     **Icon links** to my platforms are available at the bottom of this page.      
 
+* **Core Technical Strengths**
+    * [Linux(Yocto)](project_technical_skills.md#technical-blog-bsp-yocto) / [RTOS](project_technical_skills.md#technical-blog-bsp-sram) / Bare-Metal [BSP bring-up](project_technical_skills.md#technical-blog-bsp-bringup) across [TI, NXP, NVIDIA, Samsung, Broadcom, and other platforms](project_technical_skills.md#technical-blog-bsp-main).      
+    * Embedded firmware & [low-level SW/HW debugging and profiling](project_technical_skills.md#technical-blog-bsp-debug)   
+    * DSP, [RF Communication and Radar-related system(MCU/MPU)](project_technical_skills.md#technical-blog-rf) analysis across TI DSP/MCU, ESP32, STM32, Infineon, AVR, and other platforms
+    * [AI/Edge AI](project_technical_skills.md#technical-blog-ai) applications for embedded systems and real-time edge processing   
+    * Embedded [Security, Secure Boot, Secure Systems(TLS/DTLS, SELinux)](project_technical_skills.md#technical-blog-security)
+    * [DevOps, CI/CD, and Technical Documentation](project_technical_skills.md#technical-blog-devops) and [professional IDEs and toolchains](project_technical_skills.md#technical-blog-ide)  
+    * Extensive customer support experience across various customer platforms       
+    * Strong experience in mass production support, system stabilization, and field issue resolution    
+    → **[Go To Technical Skills](project_technical_skills.md)**   
+
 
 ## Profile
 
@@ -45,11 +56,7 @@ where timing, reliability, and cross-domain interactions are critical.
 My main technical portfolio, documenting **system-level embedded engineering**      
 thhrough real-world implementation and in-depth   analysis, including:       
 
-* [Linux](project_technical_skills.md#technical-blog-bsp-yocto) / [RTOS](project_technical_skills.md#technical-blog-bsp-sram) / Bare-Metal [BSP bring-up](project_technical_skills.md#technical-blog-bsp-bringup)   
-* [Embedded firmware](project_technical_skills.md#technical-blog-bsp-main) & [low-level SW/HW debugging](project_technical_skills.md#technical-blog-bsp-debug)   
-* DSP, [RF and Radar-related system](project_technical_skills.md#technical-blog-rf) analysis and [AI/Edge AI](project_technical_skills.md#technical-blog-ai)   
-* Embedded [Security System](project_technical_skills.md#technical-blog-security) , [DevOps](project_technical_skills.md#technical-blog-devops) and [professional IDE toolchains](project_technical_skills.md#technical-blog-ide)        
-→ **[Technical Skills](project_technical_skills.md)**   
+
 
 ??? note "Primary Technical Blog"    
     This blog documents system-level investigations across HW, FW, OS, and DSP,   
