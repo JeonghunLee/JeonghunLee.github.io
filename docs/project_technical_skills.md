@@ -5,7 +5,15 @@ This page is a **blog-centered technical skills index**.
 Each category links to **real-world implementation notes and deep-dive analyses**   
 documented through my technical blog.    
 
-* **Core Technical Strengths**
+Use the **Table of Contents (TOC)** to quickly navigate each technical area.
+
+<br/>
+
+??? note "Quick access and Contact"   
+    **Icon links** to my platforms are available at the bottom of this page.      
+
+
+!!! success "Technical Strengths"  
     * [Linux(Yocto)](project_technical_skills.md#technical-blog-bsp-yocto) / [RTOS](project_technical_skills.md#technical-blog-bsp-sram) / Bare-Metal [BSP bring-up](project_technical_skills.md#technical-blog-bsp-bringup) across [TI, NXP, NVIDIA, Samsung, Broadcom, and other platforms](project_technical_skills.md#technical-blog-bsp-main).      
     * Embedded firmware & [low-level SW/HW debugging and profiling](project_technical_skills.md#technical-blog-bsp-debug)   
     * DSP, [RF Communication and Radar-related system(MCU/MPU)](project_technical_skills.md#technical-blog-rf) analysis across TI DSP/MCU, ESP32, STM32, Infineon, AVR, and other platforms
@@ -16,12 +24,7 @@ documented through my technical blog.
     * Strong experience in mass production support, system stabilization, and field issue resolution    
   
 
-Use the **Table of Contents (TOC)** to quickly navigate each technical area.
 
-<br/>
-
-??? note "Quick access and Contact"   
-    **Icon links** to my platforms are available at the bottom of this page.      
 
 
 ## Technical Blog  
