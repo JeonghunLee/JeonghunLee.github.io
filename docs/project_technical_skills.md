@@ -343,7 +343,10 @@ System-level **Android AOSP** exploration using the PDK environment, focused on 
     primarily using the Android PDK environment rather than for commercial product development.  
 
 <br/>
+
 <br/>
+
+---
 
 ## RF Communication & Radar 
 
@@ -358,7 +361,7 @@ System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-
 | RF – WiFi  | [RF-WIFI](https://ahyuo79.blogspot.com/search/label/RF-WIFI) / [MCU-ESP32-WIFI](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-WIFI) |
 | RF – Bluetooth | [RF-BT](https://ahyuo79.blogspot.com/search/label/RF-BT) /[MCU-ESP32-BT](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-BT) / [RF-BT-TOOLS](https://ahyuo79.blogspot.com/search/label/RF-BT-TOOLS)   |
 | RF – Cellular / V2X | [RF-LTE](https://ahyuo79.blogspot.com/search/label/RF-LTE) / [RF-5G](https://ahyuo79.blogspot.com/search/label/RF-5G) / [RF-DSRC](https://ahyuo79.blogspot.com/search/label/RF-DSRC) |
-| RF – PHY | [RF-Mixer](https://ahyuo79.blogspot.com/search/label/RF-Mixer) |
+
 
 
 | ESP32 Series | Tags |
@@ -372,13 +375,29 @@ System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-
 
 <br/>
 
-| Radar and RTLS | Tags |
+| Radar  | Tags |
 |-------------|------|
 | **RF – Radar ALL** | [RF-Radar](https://ahyuo79.blogspot.com/search/label/RF-Radar)  |
 | **RF – TI 4D FMCW** | [TI 4D FMCW](https://ahyuo79.blogspot.com/2025/04/ti-4d-fmcw-radar.html) |
-| **RF Radar vs RF Comm** | [RF Radar vs RF Comm.](https://ahyuo79.blogspot.com/2024/11/rf-radar-rf-comm.html) | 
+| **RF Radar vs RF Communication** | [RF Radar vs RF Comm.](https://ahyuo79.blogspot.com/2024/11/rf-radar-rf-comm.html) | 
 | **RF – WiFi Sensing / RTLS (BLE CS)** |  [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) |
 
+<br/>
+
+| RTLS | Tags |
+|-------------|------|
+| **RF – WiFi Sensing / RTLS (BLE CS)** |  [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) |
+| **RF – BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2026/02/ble-channel-sounding.html) |
+| **RF – BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2025/10/nordic-ble-channel-sounding.html) |
+
+<br/>
+
+| DSP | Tags |
+|-------------|------|
+| **RF Mixer (I/Q Mixer)** | [RF-Mixer](https://ahyuo79.blogspot.com/search/label/RF-Mixer) |
+| **PHY based on DSP** |  [PHY based on DSP](https://ahyuo79.blogspot.com/2025/12/phy-dsp.html) |
+
+<br/>
 
 ??? note "FMCW Radar (TI-based Learning Background)"     
     My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
