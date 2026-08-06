@@ -47,45 +47,9 @@
 
 <br>
 
-## Github Pages-Projects    
+---
 
-<br>
-<br>
-
-* Go Back [ESP-Series->WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
-    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/wifisniffer/  
-
-<br>
-
-* Go Back [AI->AI-Agent with MCP Project](project_ai.md#ai-agent-with-mcp)       
-    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/local-ai-agent-mcp/   
-
-
-??? note "GitHub Project Hosting and Document Automation"
-    This project uses GitHub as both the source repository and the document hosting platform.     
-    The documentation is written with MkDocs and automatically deployed through GitHub Actions to GitHub Pages.       
-
-
-<br>
-<br>
-
-## GitHub Pages-MyProfile    
-
-
-<br>
-
-
-* Github Hosting Site Main and Repository (Current Git)
-    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
-    * :fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/    
-
-!!! note "Github Main Hosting Site and Repository"
-
-
-<br>
-
-
-## ReadTheDocs TEST  
+### ReadTheDocs TEST  
 
 <br>
 
@@ -108,7 +72,48 @@
 
 <br>
 
-## GitHub Pages TEST 
+## Github Pages-Projects    
+
+<br>
+<br>
+
+* Go Back [ESP-Series->WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)       
+    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/wifisniffer/  
+
+<br>
+
+* Go Back [AI->AI-Agent with MCP Project](project_ai.md#ai-agent-with-mcp)       
+    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/local-ai-agent-mcp/   
+
+
+??? note "GitHub Project Hosting and Document Automation"
+    This project uses GitHub as both the source repository and the document hosting platform.     
+    The documentation is written with MkDocs and automatically deployed through GitHub Actions to GitHub Pages.       
+
+
+<br>
+
+---
+
+### GitHub Pages-MyProfile    
+
+
+<br>
+
+
+* Github Hosting Site Main and Repository (Current Git)
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/JeonghunLee.github.io
+    * :fontawesome-solid-globe: WEB: https://jeonghunlee.github.io/    
+
+!!! note "Github Main Hosting Site and Repository"
+
+
+<br>
+
+---
+
+
+### GitHub Pages TEST 
 
 <br>
 
@@ -135,3 +140,11 @@ various tests based on Github Pages (only for Test)
     * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/github-pages-with-jekyll
 
 <br>
+
+---
+
+
+
+
+
+
