@@ -57,7 +57,7 @@ across [Linux](#technical-blog-bsp-yocto), [RTOS](#technical-blog-bsp-sram), and
 
 <br/>
 
-## Technical Blog-BSP-Main 
+## BSP-Main 
 
 <br/>
 
@@ -90,7 +90,7 @@ Linux-based [BSP bring-up](#technical-blog-bsp-bringup) and system integration a
 
 <br/>
 
-## Technical Blog-BSP-BringUp
+### BSP-BringUp
 
 <br/>
 
@@ -137,7 +137,7 @@ System-level BSP bring-up covering U-Boot, DRAM tuning, and Linux kernel optimiz
 
 <br/>
 
-## Technical Blog-BSP-DeviceDrivers
+### BSP-DeviceDrivers
 
 <br/>
 
@@ -168,7 +168,7 @@ System-level BSP bring-up covering U-Boot, DRAM tuning, and Linux kernel optimiz
 <br/>
 <br/>
 
-## Technical Blog-BSP-Debug
+### BSP-Debug
 
 <br/>
 
@@ -198,7 +198,7 @@ System-level debugging and profiling across user space, kernel, and hardware lay
 
 <br/>
 
-## Technical Blog-BSP-SRAM
+### BSP-SRAM
 
 <br/>
 
@@ -218,7 +218,7 @@ System-level analysis of **ESP32 SRAM architecture and FreeRTOS behavior**.
 <br/>
 
 
-## Technical Blog-BSP-Yocto   
+### BSP-Yocto   
 
 <br/>
 
@@ -242,7 +242,7 @@ System-level BSP build analysis with **Yocto Project**.
 <br/>
 
 
-## Technical Blog-IDE    
+## IDE Tools    
 
 <br/>
 
@@ -284,7 +284,7 @@ System-level BSP build analysis with **Yocto Project**.
 <br/>
 <br/>
 
-## Technical Blog-Security  
+## Security  
    
 <br/>
 
@@ -306,7 +306,7 @@ System-level security integration across Secure Boot, TLS/DTLS, certificates, Wi
 <br/>
 <br/>
 
-## Technical Blog-Android 
+## Android 
 
 <br/>
 
@@ -328,7 +328,8 @@ System-level **Android AOSP** exploration using the PDK environment, focused on 
 <br/>
 <br/>
 
-## Technical Blog-RF 
+## RF Communication & Radar Behavior
+
 
 <br/>
 
@@ -374,7 +375,7 @@ System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-
 <br/>
 <br/>
 
-## Technical Blog-DevOps
+## DevOps-CI/CD/CT
 
 <br/>
 
@@ -409,7 +410,7 @@ System-level DevOps workflows covering CI/CD, containerization, and technical do
 <br/>
 <br/>
 
-## Technical Blog-AI 
+## AI (Edge AI) 
 
 <br/>
 
