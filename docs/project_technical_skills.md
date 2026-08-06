@@ -384,32 +384,37 @@ System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-
 
 <br/>
 
+??? note "FMCW Radar (TI-based Learning Background)"     
+    My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
+    including materials from **[TI Radar Academy](https://dev.ti.com/tirex/explore/node?node=A__AEIJm0rwIeU.2P1OBWwlaA__RADAR-ACADEMY__GwxShWe__LATEST)** and official TI technical resources.   
+
 | RTLS | Tags |
 |-------------|------|
 | **RF – WiFi Sensing / RTLS (BLE CS)** |  [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) |
-| **RF – BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2026/02/ble-channel-sounding.html) |
-| **RF – BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2025/10/nordic-ble-channel-sounding.html) |
+| **RF – TI BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2026/02/ble-channel-sounding.html) |
+| **RF – Nordic BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2025/10/nordic-ble-channel-sounding.html) |
 
 <br/>
+
+??? note "RTLS (WiFi Sensing, BLE Channel Sounding)"    
+    Covers **Wi-Fi CSI–based sensing** and **BLE Channel Sounding (AoA/AoD)** concepts  
+    for **RTLS, ranging, and presence/motion detection** applications.
 
 | DSP | Tags |
 |-------------|------|
 | **RF Mixer (I/Q Mixer)** | [RF-Mixer](https://ahyuo79.blogspot.com/search/label/RF-Mixer) |
 | **PHY based on DSP** |  [PHY based on DSP](https://ahyuo79.blogspot.com/2025/12/phy-dsp.html) |
 
+
 <br/>
 
-??? note "FMCW Radar (TI-based Learning Background)"     
-    My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
-    including materials from **[TI Radar Academy](https://dev.ti.com/tirex/explore/node?node=A__AEIJm0rwIeU.2P1OBWwlaA__RADAR-ACADEMY__GwxShWe__LATEST)** and official TI technical resources.   
 
-??? note "RTLS (WiFi Sensing, BLE Channel Sounding)"    
-    Covers **Wi-Fi CSI–based sensing** and **BLE Channel Sounding (AoA/AoD)** concepts  
-    for **RTLS, ranging, and presence/motion detection** applications.
+
 
 
 <br/>
-<br/>
+
+---
 
 ## DevOps-CI/CD/CT
 
