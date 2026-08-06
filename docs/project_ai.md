@@ -29,10 +29,12 @@
 
 
 * **Purpose**    
-  AI Agent workflow based on MCP  
-  Connect Claude, Codex, Ollama, and GitHub operations through MCP  
-  Support Local MCP execution, GitHub Issue based TEST automation, and documentation-first project flow
-
+    * AI Agent workflow based on MCP   
+    * Connect Claude, Codex, Ollama, and GitHub operations through MCP   
+    * Support MCP-based local execution 
+    * Support [Devops CI/CD/CT automation](https://jeonghunlee.github.io/local-ai-agent-mcp/architecture/automation-design.html)   
+        * **Github-based CI/CD/CT: GitHub Actions with Github Issue, Self-hosted runners.**    
+        * Jenkins-based CI/CD/CT: automation within a documentation-first project workflow.
 <br>
 
 * **Links**
