@@ -425,6 +425,8 @@ System-level DevOps workflows covering CI/CD, containerization, and technical do
 | DevOps – Docs Site (MkDocs / ReadTheDocs) | [DevOps-Mkdocs](https://ahyuo79.blogspot.com/search/label/DevOps-Mkdocs) / [DevOps-ReadTheDoc](https://ahyuo79.blogspot.com/search/label/DevOps-ReadTheDoc) |
 | DevOps – UML / ITS | [DevOps-UML](https://ahyuo79.blogspot.com/search/label/DevOps-UML)  |
 | DevOps – General | [DevOps](https://ahyuo79.blogspot.com/search/label/DevOps) |
+| DevOps – CI/CD/CT Automation |  [Github Local Host Automation](https://jeonghunlee.github.io/local-ai-agent-mcp/architecture/automation-design.html) |
+
 
 ??? note "DevOps & Documentation Workflow"    
     This section covers DevOps practices for embedded and system-level projects,  
