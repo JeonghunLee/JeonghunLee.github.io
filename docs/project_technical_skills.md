@@ -198,7 +198,7 @@ System-level debugging and profiling across user space, kernel, and hardware lay
 
 <br/>
 
-### BSP-SRAM
+### BSP-SRAM and DRAM
 
 <br/>
 
@@ -213,6 +213,23 @@ System-level analysis of **ESP32 SRAM architecture and FreeRTOS behavior**.
     Covers ESP32 internal SRAM architecture and FreeRTOS behavior,   
     focusing on **performance, stability, and real-time constraints**  
     in practical embedded systems.  
+
+<br/>
+   
+System-level analysis of **DRAM optimization, bank interleaving, and timing calibration** .
+
+| System Bring-up   | Tags |  
+| ------------- | -----|     
+| DRAM | [Opt-DRAM](https://ahyuo79.blogspot.com/search/label/Opt-DRAM) / [RAM-DRAM](https://ahyuo79.blogspot.com/search/label/RAM-DRAM) | 
+| DRAM | [DRAM Timing Calibration A](https://ahyuo79.blogspot.com/2015/07/ti-am437x-u-boot-ram.html) |     
+| DRAM | [DRAM Timing Calibration B](https://ahyuo79.blogspot.com/2015/07/ram.html) | 
+| DRAM | [DRAM Bank Interleaving](https://ahyuo79.blogspot.com/2013/11/sdram-ddr.html) |  
+| DRAM | [DRAM Topology and Latency](https://ahyuo79.blogspot.com/2015/08/ddr-module-card.html) |  
+
+??? tip "DRAM Optimization, Bank Interleaving & Timing Calibration"    
+    Covers DRAM performance optimization, bank interleaving, and DRAM timing calibration, 
+    focusing on memory bandwidth, access latency, signal stability,  
+    and reliable high-speed data transfer in practical embedded systems. 
 
 
 <br/>
