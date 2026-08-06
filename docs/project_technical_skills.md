@@ -328,7 +328,7 @@ System-level **Android AOSP** exploration using the PDK environment, focused on 
 <br/>
 <br/>
 
-## RF Communication & Radar Behavior
+## RF Communication & Radar 
 
 
 <br/>
