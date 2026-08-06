@@ -14,12 +14,12 @@ Use the **Table of Contents (TOC)** to quickly navigate each technical area.
 
 
 !!! success "Technical Strengths"  
-    * [Linux(Yocto)](project_technical_skills.md#technical-blog-bsp-yocto) / [RTOS](project_technical_skills.md#technical-blog-bsp-sram) / Bare-Metal [BSP bring-up](project_technical_skills.md#technical-blog-bsp-bringup) across [TI, NXP, NVIDIA, Samsung, Broadcom, and other platforms](project_technical_skills.md#technical-blog-bsp-main).      
-    * Embedded firmware & [low-level SW/HW debugging and profiling](project_technical_skills.md#technical-blog-bsp-debug)   
-    * DSP, [RF Communication and Radar-related system(MCU/MPU)](project_technical_skills.md#technical-blog-rf) analysis across TI DSP/MCU, ESP32, STM32, Infineon, AVR, and other platforms
-    * [AI/Edge AI](project_technical_skills.md#technical-blog-ai) applications for embedded systems and real-time edge processing   
-    * Embedded [Security, Secure Boot, Secure Systems(TLS/DTLS, SELinux)](project_technical_skills.md#technical-blog-security)
-    * [DevOps, CI/CD, and Technical Documentation](project_technical_skills.md#technical-blog-devops) and [professional IDEs and toolchains](project_technical_skills.md#technical-blog-ide)  
+    * [Linux(Yocto)](project_technical_skills.md#bsp-yocto) / [RTOS-SRAM, DRAM](project_technical_skills.md#bsp-sram-and-dram) / Bare-Metal [BSP bring-up](project_technical_skills.md#bsp-bringup) across [TI, NXP, NVIDIA, Samsung, Broadcom, and other platforms](project_technical_skills.md#bsp-main).      
+    * Embedded firmware & [low-level SW/HW debugging and profiling](project_technical_skills.md#bsp-debug)   
+    * DSP, [RF Communication and Radar-related system(MCU/MPU)](project_technical_skills.md#rf-communication--radar) analysis across TI DSP/MCU, ESP32, STM32, Infineon, AVR, and other platforms
+    * [AI/Edge AI](project_technical_skills.md#ai-edge-ai) applications for embedded systems and real-time edge processing   
+    * Embedded [Security, Secure Boot, Secure Systems(TLS/DTLS, SELinux)](project_technical_skills.md#security)
+    * [DevOps, CI/CD, and Technical Documentation](project_technical_skills.md#devops-cicdct) and [professional IDEs and toolchains](project_technical_skills.md#ide-tools)  
     * Extensive customer support experience across various customer platforms       
     * Strong experience in mass production support, system stabilization, and field issue resolution    
   
