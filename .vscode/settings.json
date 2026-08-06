@@ -1,0 +1,5 @@
+{  
+  //.venv
+  //Python Automatic Environment Activation 
+  "python.terminal.activateEnvironment": false
+}
