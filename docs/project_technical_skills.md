@@ -167,6 +167,7 @@ System-level BSP bring-up covering U-Boot, DRAM tuning, and Linux kernel optimiz
 
 <br/>
 <br/>
+---
 
 ### BSP-Debug
 
@@ -197,6 +198,7 @@ System-level debugging and profiling across user space, kernel, and hardware lay
     and hardware-level analysis. 
 
 <br/>
+---
 
 ### BSP-SRAM and DRAM
 
@@ -233,7 +235,7 @@ System-level analysis of **DRAM optimization, bank interleaving, and timing cali
 
 
 <br/>
-
+---
 
 ### BSP-Yocto   
 
@@ -301,12 +303,13 @@ System-level BSP build analysis with **Yocto Project**.
 
 <br/>
 <br/>
+---
 
 ## Security  
    
 <br/>
 
-System-level security integration across Secure Boot, TLS/DTLS, certificates, Wi-Fi authentication. 
+System-level security integration across **Secure Boot**, **TLS/DTLS**, **certificates, Wi-Fi authentication.** 
 
 
 | Information   | Tags |  
@@ -317,12 +320,13 @@ System-level security integration across Secure Boot, TLS/DTLS, certificates, Wi
 | Security Android / SELinux |   [Security-Android](https://ahyuo79.blogspot.com/search/label/Security-Android) /[Linux-SELinux](https://ahyuo79.blogspot.com/search/label/Linux-SELinux)     |    
 
 !!! note "Security and Cryptography Scope"   
-    Covers fundamental cryptographic concepts and their extensions, including TLS/DTLS.    
-    Also includes practical understanding of WiFi security mechanisms such as EAP-based authentication.  
+    Covers **fundamental cryptographic concepts** and their extensions, including **TLS/DTLS.**        
+    Also includes practical understanding of **WiFi security mechanisms** such as EAP-based authentication.  
     Focused on system-level integration rather than standalone cryptographic algorithms. 
 
 <br/>
 <br/>
+---
 
 ## Android 
 
@@ -451,7 +455,7 @@ System-level DevOps workflows covering CI/CD, containerization, and technical do
 | DevOps – CI/CD/CT Automation |  [Github Local Host Automation](https://jeonghunlee.github.io/local-ai-agent-mcp/architecture/automation-design.html) |
 
 
-??? note "DevOps & Documentation Workflow"    
+!!! note "DevOps & Documentation Workflow"    
     This section covers DevOps practices for embedded and system-level projects,  
     including CI/CD, containerization, and technical documentation workflows.
 
@@ -470,7 +474,7 @@ System-level DevOps workflows covering CI/CD, containerization, and technical do
 | SCM – Gerrit / Repo | [SCM-Gerrit](https://ahyuo79.blogspot.com/search/label/SCM-Gerrit) / [SCM-Repo](https://ahyuo79.blogspot.com/search/label/SCM-Repo) |
 | SCM – SVN | [SCM-SVN](https://ahyuo79.blogspot.com/search/label/SCM-SVN) |
 
-??? note "Source Code Management (SCM) and ITS(Issue Tracking System)"    
+!!! note "Source Code Management (SCM) and ITS(Issue Tracking System)"    
     This section covers source code management systems used in software development,  
     including Git-based workflows, code review systems, and legacy SCM tools.
 
