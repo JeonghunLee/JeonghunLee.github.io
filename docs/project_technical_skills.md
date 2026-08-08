@@ -369,9 +369,15 @@ System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-
 | ESP32/ESP32-S3 ALL | [MCU-ESP32](https://ahyuo79.blogspot.com/search/label/MCU-ESP32) / [MCU-ESP32S3](https://ahyuo79.blogspot.com/search/label/MCU-ESP32S3) |  
 
 
-??? note "RF Wi-Fi / Bluetooth / 4G/5G"   
+!!! note "RF Wi-Fi / Bluetooth / 4G/5G"   
     Covers practical RF fundamentals and system-level behavior  
     across **Wi-Fi, Bluetooth, and cellular (4G/LTE)** technologies.
+
+<br/>
+
+---
+
+### RF Radar 
 
 <br/>
 
@@ -382,11 +388,18 @@ System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-
 | **RF Radar vs RF Communication** | [RF Radar vs RF Comm.](https://ahyuo79.blogspot.com/2024/11/rf-radar-rf-comm.html) | 
 | **RF – WiFi Sensing / RTLS (BLE CS)** |  [RF-WIFI-Sensing](https://ahyuo79.blogspot.com/search/label/RF-WIFI-Sensing) / [RF-RTLS](https://ahyuo79.blogspot.com/search/label/RF-RTLS) |
 
-<br/>
 
-??? note "FMCW Radar (TI-based Learning Background)"     
+!!! note "FMCW Radar (TI-based Learning Background)"     
     My understanding of FMCW radar systems is primarily based on **Texas Instruments (TI) radar platforms and documentation**,   
     including materials from **[TI Radar Academy](https://dev.ti.com/tirex/explore/node?node=A__AEIJm0rwIeU.2P1OBWwlaA__RADAR-ACADEMY__GwxShWe__LATEST)** and official TI technical resources.   
+
+<br/>
+
+---
+
+### RF RTLS
+
+<br/>
 
 | RTLS | Tags |
 |-------------|------|
@@ -394,22 +407,26 @@ System-level analysis of **RF communication and Radar behavior/RTLS** across Wi-
 | **RF – TI BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2026/02/ble-channel-sounding.html) |
 | **RF – Nordic BLE Channel Sounding** |  [BLE-RTLS](https://ahyuo79.blogspot.com/2025/10/nordic-ble-channel-sounding.html) |
 
-<br/>
 
-??? note "RTLS (WiFi Sensing, BLE Channel Sounding)"    
+!!! note "RTLS (WiFi Sensing, BLE Channel Sounding)"    
     Covers **Wi-Fi CSI–based sensing** and **BLE Channel Sounding (AoA/AoD)** concepts  
     for **RTLS, ranging, and presence/motion detection** applications.
+
+<br/>
+
+### RF DSP
+
+<br/>
 
 | DSP | Tags |
 |-------------|------|
 | **RF Mixer (I/Q Mixer)** | [RF-Mixer](https://ahyuo79.blogspot.com/search/label/RF-Mixer) |
 | **PHY based on DSP** |  [PHY based on DSP](https://ahyuo79.blogspot.com/2025/12/phy-dsp.html) |
 
-
-<br/>
-
-
-
+!!! note "RF & PHY from a DSP Perspective"
+    Explores **RF Mixer (I/Q Mixer)** and **PHY-layer processing**  
+    from a **DSP-centric perspective**, focusing on the signal-processing  
+    concepts and implementation principles behind RF and communication systems.
 
 
 <br/>
