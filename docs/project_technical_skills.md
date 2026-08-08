@@ -303,7 +303,9 @@ System-level BSP build analysis with **Yocto Project**.
     and **hardware-level debugging techniques** used in real embedded system development. 
 
 <br/>
+
 <br/>
+
 ---
 
 ## Security  
@@ -326,7 +328,9 @@ System-level security integration across **Secure Boot**, **TLS/DTLS**, **certif
     Focused on system-level integration rather than standalone cryptographic algorithms. 
 
 <br/>
+
 <br/>
+
 ---
 
 ## Android 
