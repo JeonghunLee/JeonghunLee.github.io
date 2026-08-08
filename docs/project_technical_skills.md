@@ -209,7 +209,7 @@ System-level analysis of **ESP32 SRAM architecture and FreeRTOS behavior**.
 | **ESP32 MEM**   | [MCU-ESP32-MEM](https://ahyuo79.blogspot.com/search/label/MCU-ESP32-MEM) |   
 | **FreeRTOS**   | [FreeRTOS](https://ahyuo79.blogspot.com/search/label/FreeRTOS) |   
 
-??? tip "ESP32 Memory & RTOS Behavior"
+!!! tip "ESP32 Memory & RTOS Behavior"
     Covers ESP32 internal SRAM architecture and FreeRTOS behavior,   
     focusing on **performance, stability, and real-time constraints**  
     in practical embedded systems.  
@@ -226,10 +226,10 @@ System-level analysis of **DRAM optimization, bank interleaving, and timing cali
 | DRAM | [DRAM Bank Interleaving](https://ahyuo79.blogspot.com/2013/11/sdram-ddr.html) |  
 | DRAM | [DRAM Topology and Latency](https://ahyuo79.blogspot.com/2015/08/ddr-module-card.html) |  
 
-??? tip "DRAM Optimization, Bank Interleaving & Timing Calibration"    
-    Covers DRAM performance optimization, bank interleaving, and DRAM timing calibration, 
-    focusing on memory bandwidth, access latency, signal stability,  
-    and reliable high-speed data transfer in practical embedded systems. 
+!!! tip "DRAM Optimization, Bank Interleaving & Timing Calibration"    
+    Covers **DRAM performance optimization**, **bank interleaving**, and **DRAM timing calibration,**      
+    focusing on memory bandwidth, access latency, signal stability,      
+    and reliable high-speed data transfer in practical embedded systems.   
 
 
 <br/>
@@ -249,15 +249,16 @@ System-level BSP build analysis with **Yocto Project**.
 | **Yocto – Profile / Partition** | [Yocto-Profile](https://ahyuo79.blogspot.com/search/label/Yocto-Profile) / [Yocto-Partition](https://ahyuo79.blogspot.com/search/label/Yocto-Partition) |
 
 
-??? note "Yocto  (BSP)"   
-    This section organizes my Yocto-related notes by topic, covering     
-    core concepts, layer management, BitBake recipes, user configuration,    
-    image partitioning, and build optimization.    
+!!! note "Yocto (BSP) and Recipe / Layer"   
+    This section organizes my Yocto-related notes by topic,   
+    covering **core concepts**, **layer management** , **BitBake recipes**, **user configuration,**    
+    **image partitioning**, and **build optimization.**    
 
 
 <br/>
-<br/>
 
+<br/>
+----
 
 ## IDE Tools    
 
@@ -292,7 +293,7 @@ System-level BSP build analysis with **Yocto Project**.
 | IDE – VS Code | [IDE-VS Code](https://ahyuo79.blogspot.com/search/label/IDE-VS%20Code) |
 
 
-??? note "Various IDEs and Deep Dive with H/W Debugging"      
+!!! note "Various IDEs and Deep Dive with H/W Debugging"      
     This section organizes my IDE-related notes across multiple development environments, including  
     CCS(TI), Eclipse, VS Code, Nsight(NVIDIA), uVision(Keil), and STM32CubeMX(ST).   
     The focus is on **practical usage**, **debugging workflows**, **trace and profiling tools**,  
@@ -315,7 +316,7 @@ System-level security integration across Secure Boot, TLS/DTLS, certificates, Wi
 | Certificate |  [Security-Certificate](https://ahyuo79.blogspot.com/search/label/Security-Certificate)    |      
 | Security Android / SELinux |   [Security-Android](https://ahyuo79.blogspot.com/search/label/Security-Android) /[Linux-SELinux](https://ahyuo79.blogspot.com/search/label/Linux-SELinux)     |    
 
-??? note "Security and Cryptography Scope"   
+!!! note "Security and Cryptography Scope"   
     Covers fundamental cryptographic concepts and their extensions, including TLS/DTLS.    
     Also includes practical understanding of WiFi security mechanisms such as EAP-based authentication.  
     Focused on system-level integration rather than standalone cryptographic algorithms. 
@@ -338,7 +339,7 @@ System-level **Android AOSP** exploration using the PDK environment, focused on 
 | Android – JDK / SCM | [Android-JDK](https://ahyuo79.blogspot.com/search/label/Android-JDK) / [Android-SCM](https://ahyuo79.blogspot.com/search/label/Android-SCM) |
 | Android – SELinux / PDK (PWM) | [Android-SELinux](https://ahyuo79.blogspot.com/search/label/Android-SELinux) / [Android-PDK-PWM](https://ahyuo79.blogspot.com/search/label/Android-PDK-PWM) |
 
-??? tip "Android AOSP (Personal / PDK-Based Exploration)"   
+!!! tip "Android AOSP (Personal / PDK-Based Exploration)"   
     The Android AOSP work listed here (e.g., Odroid-based platforms)  was conducted as a personal technical exploration,  
     primarily using the Android PDK environment rather than for commercial product development.  
 
@@ -456,6 +457,12 @@ System-level DevOps workflows covering CI/CD, containerization, and technical do
 
 <br/>
 
+---
+
+### DevOps-Source Control
+
+<br/>
+
 | Information | Tags |
 |-------------|------|
 | DevOps –  ITS | [DevOps-ITS](https://ahyuo79.blogspot.com/search/label/DevOps-ITS) |
@@ -469,6 +476,7 @@ System-level DevOps workflows covering CI/CD, containerization, and technical do
 
 <br/>
 <br/>
+---
 
 ## AI (Edge AI) 
 
@@ -486,10 +494,11 @@ System-level exploration of **AI and TinyML(Edge AI)** for edge and embedded app
 | AI – Colab / Applied AI | [AI-Colab](https://ahyuo79.blogspot.com/search/label/AI-Colab) / [AI-OpenALPR](https://ahyuo79.blogspot.com/search/label/AI-OpenALPR) |
 
 
-??? note "Learning Background (TinyML / Edge AI)"   
+!!! note "Learning Background (TinyML / Edge AI)"   
     My learning in TinyML and Edge AI has been primarily based on    
     technical materials from NVIDIA, along with knowledge shared through   
     TinyML (Edge AI) and Data Science meetups.  
 
 <br/>
 <br/>
+----
