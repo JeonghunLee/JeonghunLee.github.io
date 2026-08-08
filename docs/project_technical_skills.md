@@ -32,7 +32,7 @@ Use the **Table of Contents (TOC)** to quickly navigate each technical area.
 <br/>
 
 Senior Embedded Firmware Engineer focused on **[BSP bring-up](#technical-blog-bsp-bringup) and [system debugging](#technical-blog-bsp-debug)**      
-across [Linux](#technical-blog-bsp-yocto), [RTOS](#technical-blog-bsp-sram), and [Android](#technical-blog-android) on [TI, NXP, NVIDIA, and MPU-based platforms](#technical-blog-bsp-main).    
+across [Linux](#bsp-yocto), [RTOS](#bsp-sram-and-dram), and [Android](#android) on [TI, NXP, NVIDIA, and MPU-based platforms](#bsp-main).    
 
 <br/>
 
@@ -49,7 +49,7 @@ across [Linux](#technical-blog-bsp-yocto), [RTOS](#technical-blog-bsp-sram), and
     Due to space limitations, not all technical details can be fully described here.  
     Please refer to my technical blog for more detailed explanations.  
 
-??? tip "How to use these links"
+!!! tip "How to use these links"
     Click each **Tag link** to view all related posts at once.  
     All links redirect to my technical blog (Blogger), organized using **tag-based categories**    
     The blog is primarily written in Korean, with **English support available via Google Translate**.     
@@ -61,7 +61,7 @@ across [Linux](#technical-blog-bsp-yocto), [RTOS](#technical-blog-bsp-sram), and
 
 <br/>
 
-Linux-based [BSP bring-up](#technical-blog-bsp-bringup) and system integration across NVIDIA, TI, NXP, and ARM-based platforms.   
+Linux-based [BSP bring-up](#bsp-bringup) and system integration across NVIDIA, TI, NXP, and ARM-based platforms.   
 
 
 | Information   | Tags |  
@@ -113,7 +113,7 @@ System-level BSP bring-up covering U-Boot, DRAM tuning, and Linux kernel optimiz
 | Linux – Network |  [Linux-iptables](https://ahyuo79.blogspot.com/search/label/Linux-iptables) |
 
 
-??? tip "Silicon Bring-up and System Setup"   
+!!! tip "Silicon Bring-up and System Setup"   
     Topics include DRAM PHY tuning, memory performance optimization,  
     system boot-time improvement, and early-stage boot debugging.
 
@@ -128,7 +128,7 @@ System-level BSP bring-up covering U-Boot, DRAM tuning, and Linux kernel optimiz
 | Tool-Wireshark  |  [Tool-Wireshark](https://ahyuo79.blogspot.com/search/label/Tool-Wireshark)  |  
 | Tool-Linux   |   [Linux-Tools](https://ahyuo79.blogspot.com/search/label/Linux-Tools) |  
 
-??? tip "Development Environment & System-Level Tooling"   
+!!! tip "Development Environment & System-Level Tooling"   
     This section covers practical development environments and tools   
     for embedded and system-level software development.   
     It includes Linux-based workflows, Ubuntu x86 setups, and debugging utilities. 
@@ -159,7 +159,7 @@ System-level BSP bring-up covering U-Boot, DRAM tuning, and Linux kernel optimiz
 | IF – PLL | [IF-PLL](https://ahyuo79.blogspot.com/search/label/IF-PLL) |
 
 
-??? tip "Device Driver Development and Optimization"     
+!!! tip "Device Driver Development and Optimization"     
     This section covers the development and optimization of various device drivers    
     across multiple hardware interfaces, focusing on stability, performance tuning,    
     and system-level integration.   
