@@ -85,10 +85,17 @@
 * Go Back [AI->AI-Agent with MCP Project](project_ai.md#ai-agent-with-mcp)       
     - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/local-ai-agent-mcp/   
 
+<br>
 
-??? note "GitHub Project Hosting and Document Automation"
-    This project uses GitHub as both the source repository and the document hosting platform.     
-    The documentation is written with MkDocs and automatically deployed through GitHub Actions to GitHub Pages.       
+* Go Back [AI->AI-driven Embedded Continuous Testing](project_ai.md#ai-driven-embedded-continuous-testing)       
+    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/AI-driven-CI-CT/
+    - :material-test-tube: Pytest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/pytest/index.html
+    - :material-test-tube: Unittest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/unittest/index.html
+
+
+??? note "Technical Writing and Documentation Automation"
+    Technical documents are maintained using **MkDocs** and **Git-based version control**.     
+    Documentation and TEST reports are published through **GitHub Pages** as part of the project workflow.     
 
 
 <br>
