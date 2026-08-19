@@ -81,6 +81,9 @@
     * Supported Documentation:
         * **GithubPages** Hosting only
         * [AI-driven Continuous Testing Documentation](https://jeonghunlee.github.io/AI-driven-CI-CT/index.html)
+    * **TEST Results**
+        * [Pytest TEST Results](https://jeonghunlee.github.io/AI-driven-CI-CT/tests/pytest/index.html)
+        * [Unittest TEST Results](https://jeonghunlee.github.io/AI-driven-CI-CT/tests/unittest/index.html)
 
 * **Scope**
     * Embedded Continuous Testing
