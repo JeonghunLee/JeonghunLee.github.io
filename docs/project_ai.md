@@ -59,3 +59,43 @@
 
 
 <br>
+
+## AI-driven Embedded Continuous Testing
+
+<br>
+
+* **Purpose**
+    * AI-driven Continuous Testing workflow for embedded systems
+    * Support **pytest-based CT** and **unittest-based Unit Test**
+    * Support **Mock / HIL test environments**
+    * Support hardware test automation with TEST Interface and Equipment separation
+    * Support **Local LLM Test Review using Ollama**
+    * Support VS Code **Testing / Run and Debug**
+    * Generate TEST execution history and reports using **Markdown**
+    * Support documentation and document conversion using **MkDocs / Pandoc**
+
+<br>
+
+* **Links**
+    * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/AI-driven-CI-CT
+    * Supported Documentation:
+        * **GithubPages** Hosting only
+        * [AI-driven Continuous Testing Documentation](https://jeonghunlee.github.io/AI-driven-CI-CT/index.html)
+
+* **Scope**
+    * Embedded Continuous Testing
+    * Pytest TEST Case / TEST ID management
+    * Unittest function-based testing
+    * Fixture-based Mock / HIL environment
+    * TEST Interface / Equipment automation
+    * VS Code Testing Adapter / Discovery
+    * Local LLM Test Analysis and Review
+    * Execution ID / TEST Result history
+    * MkDocs / Pandoc TEST documentation
+
+<br>
+
+!!! success "Technical Summary"
+    - AI-driven Embedded Continuous Testing using **pytest, unittest, Mock/HIL, hardware test automation, VS Code Testing, Ollama, MkDocs, and Pandoc**.
+
+<br>
