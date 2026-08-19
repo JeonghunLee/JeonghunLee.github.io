@@ -28,14 +28,31 @@
 <br>
 <br>
 
+ReadTheDocs is retained for documentation hosting experiments and legacy project documentation.
 
-* Go Back [WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)   
-    - :fontawesome-solid-book: DOC: https://wifisniffer.readthedocs.io/ko/latest/   
-    - :fontawesome-solid-screwdriver-wrench: CFG: https://app.readthedocs.org/projects/wifisniffer/    
+* **WIFI Sniffer**    
+    * :material-arrow-left: Project [ESP-Series → WIFI Sniffer](project_esp_series.md#wifi-sniffer-esp32-s3)   
+    * :fontawesome-solid-book: DOC: https://wifisniffer.readthedocs.io/ko/latest/   
+    * :fontawesome-solid-screwdriver-wrench: CFG: https://app.readthedocs.org/projects/wifisniffer/    
 
 
-!!! note "ReadTheDocs Hosting for Document" 
+**API Documentation Integration**
 
+The WIFI Sniffer project also compares several approaches for integrating **C/C++ API documentation** into Sphinx and ReadTheDocs.
+
+
+| Configuration | Purpose | API Document |
+|---|---|---|
+| **Sphinx + Doxygen** | Generate API documentation directly from C/C++ source comments using Doxygen. | [API Reference-1](https://wifisniffer.readthedocs.io/ko/latest/api_sphinx_doxygen.html) |
+| **Sphinx + Doxygen + Breathe** | Import Doxygen XML into Sphinx so API content uses the Sphinx document structure, theme, and navigation. | [API Reference-2](https://wifisniffer.readthedocs.io/ko/latest/api_sphinx_doxygen_breathe.html) |
+| **Sphinx + Doxygen + Breathe + Exhale** | Automatically generate a structured API hierarchy on top of Breathe, including files, functions, types, and related API pages. | [API Reference-3](https://wifisniffer.readthedocs.io/ko/latest/api/api_root.html) |
+
+
+!!! note "ReadTheDocs Hosting and Sphinx API Documentation Flow" 
+    ReadTheDocs is used to host the generated technical documentation.  
+    **Doxygen** extracts API information from C/C++ source code.   
+    **Breathe** connects the generated Doxygen XML to Sphinx.  
+    **Exhale** automatically builds a navigable API hierarchy from the Breathe/Doxygen data
 
 !!! Warning "ReadTheDocs sometimes not working properly (Server Problem)" 
 
