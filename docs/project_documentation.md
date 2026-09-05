@@ -19,7 +19,7 @@
     All links redirect to my technical blog (Blogger), organized using **tag-based categories**    
     The blog is primarily written in Korean, with **English support available via Google Translate**.
 
- Go Back **[Technical-Skills->Technical Blog-DevOps](project_technical_skills.md#technical-blog-devops)**  
+ Go Back **[Technical-Skills->DevOps-CI/CD/CT](project_technical_skills.md#devops-cicdct)**  
 
 <br>
 
@@ -28,14 +28,31 @@
 <br>
 <br>
 
+ReadTheDocs is retained for documentation hosting experiments and legacy project documentation.
 
-* Go Back [WIFI Sniffer Project](project_esp_series.md#wifi-sniffer-esp32-s3)   
-    - :fontawesome-solid-book: DOC: https://wifisniffer.readthedocs.io/ko/latest/   
-    - :fontawesome-solid-screwdriver-wrench: CFG: https://app.readthedocs.org/projects/wifisniffer/    
+* **WIFI Sniffer**    
+    * :material-arrow-left: Project [ESP-Series → WIFI Sniffer](project_esp_series.md#wifi-sniffer-esp32-s3)   
+    * :fontawesome-solid-book: DOC: https://wifisniffer.readthedocs.io/ko/latest/   
+    * :fontawesome-solid-screwdriver-wrench: CFG: https://app.readthedocs.org/projects/wifisniffer/    
 
 
-!!! note "ReadTheDocs Hosting for Document" 
+**API Documentation Integration**
 
+The WIFI Sniffer project also compares several approaches for integrating **C/C++ API documentation** into Sphinx and ReadTheDocs.
+
+
+| Configuration | Purpose | API Document |
+|---|---|---|
+| **Sphinx + Doxygen** | Generate API documentation directly from C/C++ source comments using Doxygen. | [API Reference-1](https://wifisniffer.readthedocs.io/ko/latest/api_sphinx_doxygen.html) |
+| **Sphinx + Doxygen + Breathe** | Import Doxygen XML into Sphinx so API content uses the Sphinx document structure, theme, and navigation. | [API Reference-2](https://wifisniffer.readthedocs.io/ko/latest/api_sphinx_doxygen_breathe.html) |
+| **Sphinx + Doxygen + Breathe + Exhale** | Automatically generate a structured API hierarchy on top of Breathe, including files, functions, types, and related API pages. | [API Reference-3](https://wifisniffer.readthedocs.io/ko/latest/api/api_root.html) |
+
+
+!!! note "ReadTheDocs Hosting and Sphinx API Documentation Flow" 
+    ReadTheDocs is used to host the generated technical documentation.  
+    **Doxygen** extracts API information from C/C++ source code.   
+    **Breathe** connects the generated Doxygen XML to Sphinx.  
+    **Exhale** automatically builds a navigable API hierarchy from the Breathe/Doxygen data
 
 !!! Warning "ReadTheDocs sometimes not working properly (Server Problem)" 
 
@@ -85,10 +102,17 @@
 * Go Back [AI->AI-Agent with MCP Project](project_ai.md#ai-agent-with-mcp)       
     - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/local-ai-agent-mcp/   
 
+<br>
 
-??? note "GitHub Project Hosting and Document Automation"
-    This project uses GitHub as both the source repository and the document hosting platform.     
-    The documentation is written with MkDocs and automatically deployed through GitHub Actions to GitHub Pages.       
+* Go Back [AI->AI-driven Embedded Continuous Testing](project_ai.md#ai-driven-embedded-continuous-testing)       
+    - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/AI-driven-CI-CT/
+    - :material-test-tube: Pytest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/pytest/index.html
+    - :material-test-tube: Unittest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/unittest/index.html
+
+
+??? note "Technical Writing and Documentation Automation"
+    Technical documents are maintained using **MkDocs** and **Git-based version control**.     
+    Documentation and TEST reports are published through **GitHub Pages** as part of the project workflow.     
 
 
 <br>
