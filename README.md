@@ -26,8 +26,5 @@
 
 
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> 9a1c2a864fcaee6cf19cebf55acf4f63caef8431
