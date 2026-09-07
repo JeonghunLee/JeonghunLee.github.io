@@ -7,6 +7,29 @@
 
 <br/>
 
+## Setup Python venv 
+
+```
+python -m venv .venv
+```
+
+```
+.\.venv\Scripts\Activate.ps1
+```
+
+or
+
+```powershell 
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+.\.venv\Scripts\Activate.ps1
+```
+
+
+```
+(.venv) PS D:\Works\git\jeonghunlee.github.io> pip install -r requirements.txt
+```
+
+
 ## Manuals 
 
 <br/>

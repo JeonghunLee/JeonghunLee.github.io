@@ -39,9 +39,12 @@
 
 * **Links**
     * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/local-ai-agent-mcp
-    * Supported Documentation: 
-        * **GithubPages** Hosting only    
-        * Go To [Documentation->GithubPages-Project](project_documentation.md#github-pages-projects) 
+    * Supported Documentation: **GithubPages** Hosting only    
+        * :fontawesome-solid-book: DOC: [Documentation](project_documentation.md#github-pages-projects) 
+    * Supported Github Issues: **Github Issues and REPORTS/RESULTS (Automation)**  
+        * :material-alert-circle-outline: [Github Issues (Automation)](https://github.com/JeonghunLee/local-ai-agent-mcp/issues)  
+ 
+
 
 
 * **Scope**
@@ -78,12 +81,13 @@
 
 * **Links**
     * :fontawesome-brands-git-alt: GIT: https://github.com/JeonghunLee/AI-driven-CI-CT
-    * Supported Documentation:
-        * **GithubPages** Hosting only
-        * [AI-driven Continuous Testing Documentation](https://jeonghunlee.github.io/AI-driven-CI-CT/index.html)
-    * **TEST Results**
-        * [Pytest TEST Results](https://jeonghunlee.github.io/AI-driven-CI-CT/tests/pytest/index.html)
-        * [Unittest TEST Results](https://jeonghunlee.github.io/AI-driven-CI-CT/tests/unittest/index.html)
+    * Supported Documentation: **GithubPages** Hosting only  
+        * :fontawesome-solid-book: DOC: [Documentation](https://jeonghunlee.github.io/AI-driven-CI-CT/index.html)
+    * Supported Github Issues: **Github Issues and REPORTS/RESULTS (Automation)**:   
+        * :material-alert-circle-outline: [Github Issues (Automation)](https://github.com/JeonghunLee/AI-driven-CI-CT/issues)         
+    * **TEST REPORTS/RESULTS (Automation)**:   
+        * :material-test-tube: [Pytest TEST Results](https://jeonghunlee.github.io/AI-driven-CI-CT/tests/pytest/index.html)
+        * :material-test-tube: [Unittest TEST Results](https://jeonghunlee.github.io/AI-driven-CI-CT/tests/unittest/index.html)
 
 * **Scope**
     * Embedded Continuous Testing

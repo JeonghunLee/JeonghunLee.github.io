@@ -101,13 +101,16 @@ The WIFI Sniffer project also compares several approaches for integrating **C/C+
 
 * Go Back [AI->AI-Agent with MCP Project](project_ai.md#ai-agent-with-mcp)       
     - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/local-ai-agent-mcp/   
+    - :material-alert-circle-outline: [Github Issues (Automation)](https://github.com/JeonghunLee/local-ai-agent-mcp/issues)
 
 <br>
 
 * Go Back [AI->AI-driven Embedded Continuous Testing](project_ai.md#ai-driven-embedded-continuous-testing)       
     - :fontawesome-solid-book: DOC: https://jeonghunlee.github.io/AI-driven-CI-CT/
-    - :material-test-tube: Pytest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/pytest/index.html
-    - :material-test-tube: Unittest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/unittest/index.html
+    - :material-alert-circle-outline: [Github Issues (Automation)](https://github.com/JeonghunLee/AI-driven-CI-CT/issues)        
+    - **TEST REPORTS/RESULTS (Automation)**:    
+        - :material-test-tube: Pytest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/pytest/index.html
+        - :material-test-tube: Unittest Results: https://jeonghunlee.github.io/AI-driven-CI-CT/tests/unittest/index.html
 
 
 ??? note "Technical Writing and Documentation Automation"
